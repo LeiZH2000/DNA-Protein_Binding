@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+DeepFRI.egg-info/PKG-INFO
+DeepFRI.egg-info/SOURCES.txt
+DeepFRI.egg-info/dependency_links.txt
+DeepFRI.egg-info/requires.txt
+DeepFRI.egg-info/top_level.txt
+deepfrier/DeepCNN.py
+deepfrier/DeepFRI.py
+deepfrier/Predictor.py
+deepfrier/__init__.py
+deepfrier/layers.py
+deepfrier/utils.py

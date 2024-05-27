@@ -1,0 +1,2133 @@
+### Predictions made by DeepFRI.
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+sp|Q8NDY6|BHE23_HUMAN,GO:0003677,0.13721,DNA binding
+sp|P23527|H2B1O_HUMAN,GO:0003735,0.77933,structural constituent of ribosome
+sp|P23527|H2B1O_HUMAN,GO:0005198,0.72156,structural molecule activity
+sp|P23527|H2B1O_HUMAN,GO:0003723,0.37162,RNA binding
+sp|P23527|H2B1O_HUMAN,GO:0019843,0.28242,rRNA binding
+sp|P23527|H2B1O_HUMAN,GO:0003677,0.18696,DNA binding
+sp|Q9BWX5|GATA5_HUMAN,GO:0046914,0.29462,transition metal ion binding
+sp|Q9BWX5|GATA5_HUMAN,GO:0008270,0.13534,zinc ion binding
+sp|A8MQ14|ZN850_HUMAN,GO:0003677,0.80669,DNA binding
+sp|Q9H5L6|THAP9_HUMAN,GO:0097367,0.14968,carbohydrate derivative binding
+sp|Q9H5L6|THAP9_HUMAN,GO:0032555,0.13427,purine ribonucleotide binding
+sp|Q9H5L6|THAP9_HUMAN,GO:0035639,0.12819,purine ribonucleoside triphosphate binding
+sp|Q9H5L6|THAP9_HUMAN,GO:0017076,0.12796,purine nucleotide binding
+sp|Q9H5L6|THAP9_HUMAN,GO:0032553,0.12646,ribonucleotide binding
+sp|Q9H5L6|THAP9_HUMAN,GO:0003677,0.10577,DNA binding
+sp|Q99879|H2B1M_HUMAN,GO:0003735,0.76809,structural constituent of ribosome
+sp|Q99879|H2B1M_HUMAN,GO:0005198,0.70671,structural molecule activity
+sp|Q99879|H2B1M_HUMAN,GO:0003723,0.38649,RNA binding
+sp|Q99879|H2B1M_HUMAN,GO:0019843,0.23689,rRNA binding
+sp|Q99879|H2B1M_HUMAN,GO:0003677,0.19402,DNA binding
+sp|Q9NW07|ZN358_HUMAN,GO:0003677,0.17468,DNA binding
+sp|Q00444|HXC5_HUMAN,GO:0003677,0.78007,DNA binding
+sp|Q00444|HXC5_HUMAN,GO:0140110,0.36766,transcription regulator activity
+sp|Q00444|HXC5_HUMAN,GO:0003700,0.34120,DNA-binding transcription factor activity
+sp|Q00444|HXC5_HUMAN,GO:0043565,0.26765,sequence-specific DNA binding
+sp|Q6IQ21|ZN770_HUMAN,GO:0003677,0.30037,DNA binding
+sp|Q6IQ21|ZN770_HUMAN,GO:0046914,0.17504,transition metal ion binding
+sp|Q9Y535|RPC8_HUMAN,GO:0140096,0.18073,"catalytic activity, acting on a protein"
+sp|Q9Y535|RPC8_HUMAN,GO:0046914,0.14523,transition metal ion binding
+sp|P0DV77|TPRX2_HUMAN,GO:0003677,0.18831,DNA binding
+sp|P0DV77|TPRX2_HUMAN,GO:0140096,0.12342,"catalytic activity, acting on a protein"
+sp|Q9NQ03|SCRT2_HUMAN,GO:0003677,0.14799,DNA binding
+sp|Q9NQ03|SCRT2_HUMAN,GO:0046914,0.14287,transition metal ion binding
+sp|Q96PT3|DUX5_HUMAN,GO:0003677,0.86115,DNA binding
+sp|Q96PT3|DUX5_HUMAN,GO:0140110,0.48748,transcription regulator activity
+sp|Q96PT3|DUX5_HUMAN,GO:0003700,0.47663,DNA-binding transcription factor activity
+sp|Q96PT3|DUX5_HUMAN,GO:0043565,0.27387,sequence-specific DNA binding
+sp|Q96PT3|DUX5_HUMAN,GO:0003690,0.10141,double-stranded DNA binding
+sp|A0A1W2PPM1|CPHXL_HUMAN,GO:0097367,0.21678,carbohydrate derivative binding
+sp|A0A1W2PPM1|CPHXL_HUMAN,GO:0032553,0.16406,ribonucleotide binding
+sp|A0A1W2PPM1|CPHXL_HUMAN,GO:0140096,0.15208,"catalytic activity, acting on a protein"
+sp|A0A1W2PPM1|CPHXL_HUMAN,GO:0032555,0.14764,purine ribonucleotide binding
+sp|A0A1W2PPM1|CPHXL_HUMAN,GO:0035639,0.14397,purine ribonucleoside triphosphate binding
+sp|A0A1W2PPM1|CPHXL_HUMAN,GO:0017076,0.14272,purine nucleotide binding
+sp|Q6ZN57|ZFP2_HUMAN,GO:0003677,0.78507,DNA binding
+sp|Q9UJU3|ZN112_HUMAN,GO:0003677,0.64348,DNA binding
+sp|Q9BRR0|ZKSC3_HUMAN,GO:0003677,0.84746,DNA binding
+sp|Q99612|KLF6_HUMAN,GO:0003677,0.73011,DNA binding
+sp|Q99612|KLF6_HUMAN,GO:0140110,0.39906,transcription regulator activity
+sp|Q99612|KLF6_HUMAN,GO:0003700,0.35665,DNA-binding transcription factor activity
+sp|Q99612|KLF6_HUMAN,GO:0043565,0.30968,sequence-specific DNA binding
+sp|Q99612|KLF6_HUMAN,GO:0003690,0.14291,double-stranded DNA binding
+sp|Q99612|KLF6_HUMAN,GO:1990837,0.12413,sequence-specific double-stranded DNA binding
+sp|Q99612|KLF6_HUMAN,GO:0001067,0.10453,regulatory region nucleic acid binding
+sp|Q99612|KLF6_HUMAN,GO:0000976,0.10424,transcription regulatory region sequence-specific DNA binding
+sp|Q99612|KLF6_HUMAN,GO:0000981,0.10221,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+sp|Q14590|ZN235_HUMAN,GO:0003677,0.73350,DNA binding
+sp|Q8TAX0|OSR1_HUMAN,GO:0003677,0.53912,DNA binding
+sp|Q8TAX0|OSR1_HUMAN,GO:0043565,0.12354,sequence-specific DNA binding
+sp|Q8TAX0|OSR1_HUMAN,GO:0140110,0.11616,transcription regulator activity
+sp|Q8TAX0|OSR1_HUMAN,GO:0046914,0.10809,transition metal ion binding
+sp|P51814|ZNF41_HUMAN,GO:0003677,0.76698,DNA binding
+sp|Q96LW9|ZSC31_HUMAN,GO:0003677,0.83631,DNA binding
+sp|Q96LW9|ZSC31_HUMAN,GO:0140110,0.13204,transcription regulator activity
+sp|Q96LW9|ZSC31_HUMAN,GO:0003700,0.11853,DNA-binding transcription factor activity
+sp|Q96LW9|ZSC31_HUMAN,GO:0043565,0.11458,sequence-specific DNA binding
+sp|Q9ULV5|HSF4_HUMAN,GO:0046914,0.12244,transition metal ion binding
+sp|Q9ULV5|HSF4_HUMAN,GO:0003677,0.11479,DNA binding
+sp|Q8IUE6|H2A2B_HUMAN,GO:0003735,0.35600,structural constituent of ribosome
+sp|Q8IUE6|H2A2B_HUMAN,GO:0005198,0.28712,structural molecule activity
+sp|Q8IUE6|H2A2B_HUMAN,GO:0003677,0.20159,DNA binding
+sp|Q8IUE6|H2A2B_HUMAN,GO:0003723,0.13918,RNA binding
+sp|Q8IUE6|H2A2B_HUMAN,GO:0019843,0.10878,rRNA binding
+sp|Q8N2I2|ZN619_HUMAN,GO:0003677,0.60042,DNA binding
+sp|Q71DI3|H32_HUMAN,GO:0003735,0.60427,structural constituent of ribosome
+sp|Q71DI3|H32_HUMAN,GO:0005198,0.54299,structural molecule activity
+sp|Q71DI3|H32_HUMAN,GO:0003723,0.21605,RNA binding
+sp|Q71DI3|H32_HUMAN,GO:0003677,0.11707,DNA binding
+sp|Q71DI3|H32_HUMAN,GO:0019843,0.11528,rRNA binding
+sp|Q6PDB4|ZN880_HUMAN,GO:0003677,0.80586,DNA binding
+sp|Q9UJU2|LEF1_HUMAN,GO:0097367,0.10326,carbohydrate derivative binding
+sp|P31273|HXC8_HUMAN,GO:0003677,0.52744,DNA binding
+sp|P31273|HXC8_HUMAN,GO:0140110,0.15530,transcription regulator activity
+sp|P31273|HXC8_HUMAN,GO:0003700,0.11934,DNA-binding transcription factor activity
+sp|P31273|HXC8_HUMAN,GO:0140096,0.10994,"catalytic activity, acting on a protein"
+sp|Q9Y2S7|PDIP2_HUMAN,GO:0003677,0.13186,DNA binding
+sp|Q9Y2S7|PDIP2_HUMAN,GO:0016788,0.12520,"hydrolase activity, acting on ester bonds"
+sp|Q9NRM2|ZN277_HUMAN,GO:0003677,0.17308,DNA binding
+sp|Q9NRM2|ZN277_HUMAN,GO:0046914,0.16784,transition metal ion binding
+sp|Q9NRM2|ZN277_HUMAN,GO:0140096,0.13058,"catalytic activity, acting on a protein"
+sp|Q6ZMW2|ZN782_HUMAN,GO:0003677,0.63173,DNA binding
+sp|Q86XN6|ZN761_HUMAN,GO:0003677,0.76275,DNA binding
+sp|P32243|OTX2_HUMAN,GO:0003677,0.29003,DNA binding
+sp|Q9C056|NKX62_HUMAN,GO:0003677,0.43304,DNA binding
+sp|Q9HBT8|Z286A_HUMAN,GO:0003677,0.79325,DNA binding
+sp|Q5SZJ8|BEND6_HUMAN,GO:0003677,0.14878,DNA binding
+sp|Q9UNN4|TF2AY_HUMAN,GO:0140096,0.23086,"catalytic activity, acting on a protein"
+sp|Q9UNN4|TF2AY_HUMAN,GO:0008233,0.14031,peptidase activity
+sp|Q9UNN4|TF2AY_HUMAN,GO:0016788,0.11833,"hydrolase activity, acting on ester bonds"
+sp|Q8IW36|ZN695_HUMAN,GO:0003677,0.57784,DNA binding
+sp|Q96BA8|CR3L1_HUMAN,GO:0140096,0.25467,"catalytic activity, acting on a protein"
+sp|Q96BA8|CR3L1_HUMAN,GO:0097367,0.10165,carbohydrate derivative binding
+sp|Q9Y3E1|HDGR3_HUMAN,GO:0003677,0.14327,DNA binding
+sp|Q9Y3E1|HDGR3_HUMAN,GO:0003723,0.11976,RNA binding
+sp|Q9NZV7|ZIM2_HUMAN,GO:0003677,0.47402,DNA binding
+sp|Q9NZV7|ZIM2_HUMAN,GO:0043565,0.14388,sequence-specific DNA binding
+sp|Q9NZV7|ZIM2_HUMAN,GO:0140110,0.13982,transcription regulator activity
+sp|Q9NZV7|ZIM2_HUMAN,GO:0003700,0.12128,DNA-binding transcription factor activity
+sp|Q9NZV7|ZIM2_HUMAN,GO:0140096,0.11175,"catalytic activity, acting on a protein"
+sp|Q5TEC3|ZN697_HUMAN,GO:0003677,0.48956,DNA binding
+sp|P43268|ETV4_HUMAN,GO:0140096,0.14971,"catalytic activity, acting on a protein"
+sp|P43268|ETV4_HUMAN,GO:0003677,0.10742,DNA binding
+sp|Q9HBT7|ZN287_HUMAN,GO:0003677,0.70990,DNA binding
+sp|Q9ULG1|INO80_HUMAN,GO:0030554,0.97565,adenyl nucleotide binding
+sp|Q9ULG1|INO80_HUMAN,GO:0017076,0.97508,purine nucleotide binding
+sp|Q9ULG1|INO80_HUMAN,GO:0005524,0.97148,ATP binding
+sp|Q9ULG1|INO80_HUMAN,GO:0097367,0.97129,carbohydrate derivative binding
+sp|Q9ULG1|INO80_HUMAN,GO:0032559,0.97126,adenyl ribonucleotide binding
+sp|Q9ULG1|INO80_HUMAN,GO:0035639,0.97113,purine ribonucleoside triphosphate binding
+sp|Q9ULG1|INO80_HUMAN,GO:0032555,0.97056,purine ribonucleotide binding
+sp|Q9ULG1|INO80_HUMAN,GO:0032553,0.96966,ribonucleotide binding
+sp|Q9ULG1|INO80_HUMAN,GO:0017111,0.72677,nucleoside-triphosphatase activity
+sp|Q9ULG1|INO80_HUMAN,GO:0016887,0.71928,ATPase activity
+sp|Q9ULG1|INO80_HUMAN,GO:0016818,0.64947,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q9ULG1|INO80_HUMAN,GO:0016817,0.64874,"hydrolase activity, acting on acid anhydrides"
+sp|Q9ULG1|INO80_HUMAN,GO:0016462,0.62841,pyrophosphatase activity
+sp|Q9ULG1|INO80_HUMAN,GO:0004386,0.32630,helicase activity
+sp|Q9ULG1|INO80_HUMAN,GO:0003723,0.12418,RNA binding
+sp|Q7L945|ZN627_HUMAN,GO:0003677,0.84372,DNA binding
+sp|Q8N5B7|CERS5_HUMAN,GO:0140096,0.12257,"catalytic activity, acting on a protein"
+sp|Q8N5B7|CERS5_HUMAN,GO:0060089,0.11781,molecular transducer activity
+sp|Q16534|HLF_HUMAN,GO:0003677,0.19212,DNA binding
+sp|Q16534|HLF_HUMAN,GO:0003723,0.11104,RNA binding
+sp|Q16534|HLF_HUMAN,GO:0016788,0.10395,"hydrolase activity, acting on ester bonds"
+sp|Q9UNY4|TTF2_HUMAN,GO:0032555,0.93444,purine ribonucleotide binding
+sp|Q9UNY4|TTF2_HUMAN,GO:0032553,0.93117,ribonucleotide binding
+sp|Q9UNY4|TTF2_HUMAN,GO:0035639,0.93070,purine ribonucleoside triphosphate binding
+sp|Q9UNY4|TTF2_HUMAN,GO:0017076,0.93010,purine nucleotide binding
+sp|Q9UNY4|TTF2_HUMAN,GO:0097367,0.92778,carbohydrate derivative binding
+sp|Q9UNY4|TTF2_HUMAN,GO:0032559,0.88255,adenyl ribonucleotide binding
+sp|Q9UNY4|TTF2_HUMAN,GO:0005524,0.87671,ATP binding
+sp|Q9UNY4|TTF2_HUMAN,GO:0030554,0.87462,adenyl nucleotide binding
+sp|Q9UNY4|TTF2_HUMAN,GO:0017111,0.43471,nucleoside-triphosphatase activity
+sp|Q9UNY4|TTF2_HUMAN,GO:0016817,0.37904,"hydrolase activity, acting on acid anhydrides"
+sp|Q9UNY4|TTF2_HUMAN,GO:0016818,0.37845,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q9UNY4|TTF2_HUMAN,GO:0016462,0.37624,pyrophosphatase activity
+sp|Q9UNY4|TTF2_HUMAN,GO:0016887,0.34228,ATPase activity
+sp|Q9UNY4|TTF2_HUMAN,GO:0003677,0.26842,DNA binding
+sp|Q9UNY4|TTF2_HUMAN,GO:0004386,0.14294,helicase activity
+sp|A6NHT5|HMX3_HUMAN,GO:0003677,0.11560,DNA binding
+sp|O14646|CHD1_HUMAN,GO:0032555,0.98414,purine ribonucleotide binding
+sp|O14646|CHD1_HUMAN,GO:0035639,0.98411,purine ribonucleoside triphosphate binding
+sp|O14646|CHD1_HUMAN,GO:0097367,0.98388,carbohydrate derivative binding
+sp|O14646|CHD1_HUMAN,GO:0017076,0.98284,purine nucleotide binding
+sp|O14646|CHD1_HUMAN,GO:0032559,0.98087,adenyl ribonucleotide binding
+sp|O14646|CHD1_HUMAN,GO:0005524,0.98075,ATP binding
+sp|O14646|CHD1_HUMAN,GO:0030554,0.97914,adenyl nucleotide binding
+sp|O14646|CHD1_HUMAN,GO:0032553,0.97860,ribonucleotide binding
+sp|O14646|CHD1_HUMAN,GO:0017111,0.82442,nucleoside-triphosphatase activity
+sp|O14646|CHD1_HUMAN,GO:0016818,0.81258,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|O14646|CHD1_HUMAN,GO:0016817,0.81246,"hydrolase activity, acting on acid anhydrides"
+sp|O14646|CHD1_HUMAN,GO:0016887,0.80575,ATPase activity
+sp|O14646|CHD1_HUMAN,GO:0016462,0.74980,pyrophosphatase activity
+sp|O14646|CHD1_HUMAN,GO:0004386,0.51251,helicase activity
+sp|O14646|CHD1_HUMAN,GO:0003677,0.15508,DNA binding
+sp|O14646|CHD1_HUMAN,GO:0003723,0.15101,RNA binding
+sp|Q16526|CRY1_HUMAN,GO:0046914,0.15860,transition metal ion binding
+sp|Q16526|CRY1_HUMAN,GO:0097367,0.15466,carbohydrate derivative binding
+sp|Q16526|CRY1_HUMAN,GO:0032553,0.11681,ribonucleotide binding
+sp|Q16526|CRY1_HUMAN,GO:0008270,0.10256,zinc ion binding
+sp|Q96GE5|ZN799_HUMAN,GO:0003677,0.77242,DNA binding
+sp|Q96GE5|ZN799_HUMAN,GO:0046914,0.11587,transition metal ion binding
+sp|Q9UKT9|IKZF3_HUMAN,GO:0003677,0.40466,DNA binding
+sp|Q9UKT9|IKZF3_HUMAN,GO:0046914,0.18795,transition metal ion binding
+sp|Q96N58|ZN578_HUMAN,GO:0003677,0.75184,DNA binding
+sp|A8MUV8|ZN727_HUMAN,GO:0003677,0.77165,DNA binding
+sp|B2RD01|CENP1_HUMAN,GO:0003677,0.56073,DNA binding
+sp|B2RD01|CENP1_HUMAN,GO:0140110,0.19880,transcription regulator activity
+sp|B2RD01|CENP1_HUMAN,GO:0003700,0.18618,DNA-binding transcription factor activity
+sp|Q4G0Z9|MCMD2_HUMAN,GO:0140096,0.11596,"catalytic activity, acting on a protein"
+sp|Q6B0B8|TIGD3_HUMAN,GO:0003677,0.85675,DNA binding
+sp|Q6B0B8|TIGD3_HUMAN,GO:0003700,0.34621,DNA-binding transcription factor activity
+sp|Q6B0B8|TIGD3_HUMAN,GO:0140110,0.34329,transcription regulator activity
+sp|Q6B0B8|TIGD3_HUMAN,GO:0043565,0.12524,sequence-specific DNA binding
+sp|P23760|PAX3_HUMAN,GO:0003677,0.27140,DNA binding
+sp|Q9Y5N6|ORC6_HUMAN,GO:0003677,0.18446,DNA binding
+sp|Q9Y5N6|ORC6_HUMAN,GO:0003723,0.13544,RNA binding
+sp|Q9Y5N6|ORC6_HUMAN,GO:0097367,0.11416,carbohydrate derivative binding
+sp|Q9Y5N6|ORC6_HUMAN,GO:0032553,0.11049,ribonucleotide binding
+sp|Q9Y5N6|ORC6_HUMAN,GO:0032555,0.10315,purine ribonucleotide binding
+sp|Q9Y5N6|ORC6_HUMAN,GO:0017076,0.10123,purine nucleotide binding
+sp|Q8TAK5|GABP2_HUMAN,GO:0097367,0.13372,carbohydrate derivative binding
+sp|Q8TAK5|GABP2_HUMAN,GO:0017076,0.11666,purine nucleotide binding
+sp|Q8TAK5|GABP2_HUMAN,GO:0032555,0.11195,purine ribonucleotide binding
+sp|Q8TAK5|GABP2_HUMAN,GO:0035639,0.11062,purine ribonucleoside triphosphate binding
+sp|Q8TAK5|GABP2_HUMAN,GO:0032553,0.11012,ribonucleotide binding
+sp|Q6ZN08|ZNF66_HUMAN,GO:0003677,0.66833,DNA binding
+sp|Q96SC8|DMTA2_HUMAN,GO:0046914,0.11989,transition metal ion binding
+sp|Q32M78|ZN699_HUMAN,GO:0003677,0.71925,DNA binding
+sp|Q03052|PO3F1_HUMAN,GO:0046914,0.18418,transition metal ion binding
+sp|Q03052|PO3F1_HUMAN,GO:0008233,0.11469,peptidase activity
+sp|Q03052|PO3F1_HUMAN,GO:0140096,0.11102,"catalytic activity, acting on a protein"
+sp|Q14929|ZN169_HUMAN,GO:0003677,0.78385,DNA binding
+sp|Q5JVG8|ZN506_HUMAN,GO:0003677,0.69663,DNA binding
+sp|P04908|H2A1B_HUMAN,GO:0003735,0.29652,structural constituent of ribosome
+sp|P04908|H2A1B_HUMAN,GO:0005198,0.25388,structural molecule activity
+sp|P04908|H2A1B_HUMAN,GO:0003677,0.20626,DNA binding
+sp|P04908|H2A1B_HUMAN,GO:0046983,0.12235,protein dimerization activity
+sp|P04908|H2A1B_HUMAN,GO:0003723,0.11002,RNA binding
+sp|Q6RFH8|DUX4C_HUMAN,GO:0003677,0.35669,DNA binding
+sp|P49116|NR2C2_HUMAN,GO:0003677,0.46421,DNA binding
+sp|P49116|NR2C2_HUMAN,GO:0046914,0.35579,transition metal ion binding
+sp|P49116|NR2C2_HUMAN,GO:0008270,0.31258,zinc ion binding
+sp|P49116|NR2C2_HUMAN,GO:0097367,0.14421,carbohydrate derivative binding
+sp|P49116|NR2C2_HUMAN,GO:0032555,0.12340,purine ribonucleotide binding
+sp|P49116|NR2C2_HUMAN,GO:0035639,0.12187,purine ribonucleoside triphosphate binding
+sp|P49116|NR2C2_HUMAN,GO:0032553,0.12058,ribonucleotide binding
+sp|P49116|NR2C2_HUMAN,GO:0017076,0.11377,purine nucleotide binding
+sp|O43345|ZN208_HUMAN,GO:0003677,0.63836,DNA binding
+sp|Q969G2|LHX4_HUMAN,GO:0046914,0.15308,transition metal ion binding
+sp|Q969G2|LHX4_HUMAN,GO:0003677,0.14396,DNA binding
+sp|A8MUZ8|Z705G_HUMAN,GO:0003677,0.76336,DNA binding
+sp|A8MUZ8|Z705G_HUMAN,GO:0140110,0.20725,transcription regulator activity
+sp|A8MUZ8|Z705G_HUMAN,GO:0003700,0.18971,DNA-binding transcription factor activity
+sp|A8MUZ8|Z705G_HUMAN,GO:0043565,0.18887,sequence-specific DNA binding
+sp|A8MUZ8|Z705G_HUMAN,GO:0003690,0.12301,double-stranded DNA binding
+sp|Q96AE4|FUBP1_HUMAN,GO:0016798,0.11694,"hydrolase activity, acting on glycosyl bonds"
+sp|Q96AE4|FUBP1_HUMAN,GO:0004553,0.10619,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+sp|P40424|PBX1_HUMAN,GO:0003677,0.38939,DNA binding
+sp|Q8TD94|KLF14_HUMAN,GO:0003677,0.62432,DNA binding
+sp|P51692|STA5B_HUMAN,GO:0140096,0.13265,"catalytic activity, acting on a protein"
+sp|P51692|STA5B_HUMAN,GO:0097367,0.12791,carbohydrate derivative binding
+sp|P51692|STA5B_HUMAN,GO:0032553,0.10604,ribonucleotide binding
+sp|Q9Y466|NR2E1_HUMAN,GO:0003677,0.34199,DNA binding
+sp|Q9Y466|NR2E1_HUMAN,GO:0046914,0.29609,transition metal ion binding
+sp|Q9Y466|NR2E1_HUMAN,GO:0008270,0.20658,zinc ion binding
+sp|Q9Y466|NR2E1_HUMAN,GO:0140110,0.18866,transcription regulator activity
+sp|Q9Y466|NR2E1_HUMAN,GO:0003700,0.18030,DNA-binding transcription factor activity
+sp|Q9Y466|NR2E1_HUMAN,GO:0043565,0.14930,sequence-specific DNA binding
+sp|P52738|ZN140_HUMAN,GO:0003677,0.86188,DNA binding
+sp|P52738|ZN140_HUMAN,GO:0043565,0.11556,sequence-specific DNA binding
+sp|P52738|ZN140_HUMAN,GO:0140110,0.11132,transcription regulator activity
+sp|P52738|ZN140_HUMAN,GO:0003700,0.10048,DNA-binding transcription factor activity
+sp|O95983|MBD3_HUMAN,GO:0003677,0.19391,DNA binding
+sp|Q14765|STAT4_HUMAN,GO:0097367,0.11501,carbohydrate derivative binding
+sp|Q14765|STAT4_HUMAN,GO:0017076,0.11156,purine nucleotide binding
+sp|Q9H2H0|CXXC4_HUMAN,GO:0003677,0.26791,DNA binding
+sp|Q9H2H0|CXXC4_HUMAN,GO:0046914,0.25810,transition metal ion binding
+sp|Q9H2H0|CXXC4_HUMAN,GO:0008270,0.16970,zinc ion binding
+sp|Q9H2H0|CXXC4_HUMAN,GO:0005198,0.10859,structural molecule activity
+sp|Q9H2H0|CXXC4_HUMAN,GO:0051536,0.10240,iron-sulfur cluster binding
+sp|Q9H2H0|CXXC4_HUMAN,GO:0051540,0.10233,metal cluster binding
+sp|C9JN71|ZN878_HUMAN,GO:0003677,0.93066,DNA binding
+sp|Q9UL18|AGO1_HUMAN,GO:0097367,0.19156,carbohydrate derivative binding
+sp|Q9UL18|AGO1_HUMAN,GO:0032553,0.17454,ribonucleotide binding
+sp|Q9UL18|AGO1_HUMAN,GO:0032555,0.16315,purine ribonucleotide binding
+sp|Q9UL18|AGO1_HUMAN,GO:0035639,0.15924,purine ribonucleoside triphosphate binding
+sp|Q9UL18|AGO1_HUMAN,GO:0017076,0.15057,purine nucleotide binding
+sp|Q9UL18|AGO1_HUMAN,GO:0032559,0.10902,adenyl ribonucleotide binding
+sp|Q9UL18|AGO1_HUMAN,GO:0005524,0.10761,ATP binding
+sp|Q9UL18|AGO1_HUMAN,GO:0046914,0.10264,transition metal ion binding
+sp|Q14588|ZN234_HUMAN,GO:0003677,0.84886,DNA binding
+sp|Q14588|ZN234_HUMAN,GO:0008270,0.10239,zinc ion binding
+sp|Q8TBE0|BAHD1_HUMAN,GO:0046914,0.10635,transition metal ion binding
+sp|O75461|E2F6_HUMAN,GO:0003677,0.27322,DNA binding
+sp|O75461|E2F6_HUMAN,GO:0003723,0.18071,RNA binding
+sp|O75461|E2F6_HUMAN,GO:0140096,0.10467,"catalytic activity, acting on a protein"
+sp|Q9HCK8|CHD8_HUMAN,GO:0017076,0.98897,purine nucleotide binding
+sp|Q9HCK8|CHD8_HUMAN,GO:0035639,0.98853,purine ribonucleoside triphosphate binding
+sp|Q9HCK8|CHD8_HUMAN,GO:0032555,0.98817,purine ribonucleotide binding
+sp|Q9HCK8|CHD8_HUMAN,GO:0032553,0.98308,ribonucleotide binding
+sp|Q9HCK8|CHD8_HUMAN,GO:0097367,0.98272,carbohydrate derivative binding
+sp|Q9HCK8|CHD8_HUMAN,GO:0030554,0.97432,adenyl nucleotide binding
+sp|Q9HCK8|CHD8_HUMAN,GO:0005524,0.97361,ATP binding
+sp|Q9HCK8|CHD8_HUMAN,GO:0032559,0.97282,adenyl ribonucleotide binding
+sp|Q9HCK8|CHD8_HUMAN,GO:0017111,0.62560,nucleoside-triphosphatase activity
+sp|Q9HCK8|CHD8_HUMAN,GO:0016818,0.50664,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q9HCK8|CHD8_HUMAN,GO:0016817,0.50561,"hydrolase activity, acting on acid anhydrides"
+sp|Q9HCK8|CHD8_HUMAN,GO:0016462,0.50261,pyrophosphatase activity
+sp|Q9HCK8|CHD8_HUMAN,GO:0016887,0.49464,ATPase activity
+sp|Q9HCK8|CHD8_HUMAN,GO:0003723,0.15056,RNA binding
+sp|Q9H7R5|ZN665_HUMAN,GO:0003677,0.70427,DNA binding
+sp|Q6VB84|FX4L3_HUMAN,GO:0003677,0.19296,DNA binding
+sp|Q9H4T2|ZSC16_HUMAN,GO:0003677,0.87381,DNA binding
+sp|Q9H4T2|ZSC16_HUMAN,GO:0140110,0.11170,transcription regulator activity
+sp|Q9H4T2|ZSC16_HUMAN,GO:0043565,0.10694,sequence-specific DNA binding
+sp|Q9NXT0|ZN586_HUMAN,GO:0003677,0.83058,DNA binding
+sp|P15621|ZNF44_HUMAN,GO:0003677,0.40964,DNA binding
+sp|Q5VV16|FX4L5_HUMAN,GO:0003677,0.21653,DNA binding
+sp|Q5VV16|FX4L5_HUMAN,GO:0046914,0.11421,transition metal ion binding
+sp|A6NP11|ZN716_HUMAN,GO:0003677,0.63166,DNA binding
+sp|Q8N9K5|ZN565_HUMAN,GO:0003677,0.72666,DNA binding
+sp|Q86T29|ZN605_HUMAN,GO:0003677,0.82325,DNA binding
+sp|P17014|ZNF12_HUMAN,GO:0003677,0.87507,DNA binding
+sp|P52740|ZN132_HUMAN,GO:0003677,0.53116,DNA binding
+sp|A6NHJ4|ZN860_HUMAN,GO:0003677,0.81074,DNA binding
+sp|Q9Y462|ZN711_HUMAN,GO:0046914,0.13997,transition metal ion binding
+sp|Q9Y462|ZN711_HUMAN,GO:0008270,0.13029,zinc ion binding
+sp|Q9Y462|ZN711_HUMAN,GO:0003723,0.12097,RNA binding
+sp|Q8IXT2|DMRTD_HUMAN,GO:0046914,0.25485,transition metal ion binding
+sp|Q8IXT2|DMRTD_HUMAN,GO:0008270,0.15248,zinc ion binding
+sp|Q8IXT2|DMRTD_HUMAN,GO:0140096,0.14967,"catalytic activity, acting on a protein"
+sp|Q9Y5J3|HEY1_HUMAN,GO:0003677,0.20949,DNA binding
+sp|Q9Y5J3|HEY1_HUMAN,GO:0140096,0.12298,"catalytic activity, acting on a protein"
+sp|Q99743|NPAS2_HUMAN,GO:0003677,0.16037,DNA binding
+sp|Q99743|NPAS2_HUMAN,GO:0140096,0.12348,"catalytic activity, acting on a protein"
+sp|Q49AA0|ZFP69_HUMAN,GO:0003677,0.70560,DNA binding
+sp|Q9ULW3|ABT1_HUMAN,GO:0003723,0.29677,RNA binding
+sp|Q9ULW3|ABT1_HUMAN,GO:0003677,0.21207,DNA binding
+sp|P16220|CREB1_HUMAN,GO:0003677,0.12649,DNA binding
+sp|P16220|CREB1_HUMAN,GO:0003723,0.11930,RNA binding
+sp|Q9UPN9|TRI33_HUMAN,GO:0017076,0.39268,purine nucleotide binding
+sp|Q9UPN9|TRI33_HUMAN,GO:0097367,0.38242,carbohydrate derivative binding
+sp|Q9UPN9|TRI33_HUMAN,GO:0035639,0.33400,purine ribonucleoside triphosphate binding
+sp|Q9UPN9|TRI33_HUMAN,GO:0032555,0.33009,purine ribonucleotide binding
+sp|Q9UPN9|TRI33_HUMAN,GO:0032553,0.31348,ribonucleotide binding
+sp|Q9UPN9|TRI33_HUMAN,GO:0030554,0.29275,adenyl nucleotide binding
+sp|Q9UPN9|TRI33_HUMAN,GO:0005524,0.24363,ATP binding
+sp|Q9UPN9|TRI33_HUMAN,GO:0032559,0.24088,adenyl ribonucleotide binding
+sp|P51522|ZNF83_HUMAN,GO:0003677,0.62918,DNA binding
+sp|P11473|VDR_HUMAN,GO:0003677,0.32706,DNA binding
+sp|P11473|VDR_HUMAN,GO:0046914,0.25562,transition metal ion binding
+sp|P11473|VDR_HUMAN,GO:0008270,0.23547,zinc ion binding
+sp|P11473|VDR_HUMAN,GO:0140110,0.15530,transcription regulator activity
+sp|P11473|VDR_HUMAN,GO:0043565,0.14687,sequence-specific DNA binding
+sp|P11473|VDR_HUMAN,GO:0003700,0.12932,DNA-binding transcription factor activity
+sp|P11473|VDR_HUMAN,GO:0003723,0.11576,RNA binding
+sp|P11473|VDR_HUMAN,GO:0140098,0.11207,"catalytic activity, acting on RNA"
+sp|Q6P9A1|ZN530_HUMAN,GO:0003677,0.58519,DNA binding
+sp|Q9UC06|ZNF70_HUMAN,GO:0003677,0.79062,DNA binding
+sp|P17020|ZNF16_HUMAN,GO:0003677,0.81363,DNA binding
+sp|Q6P280|ZN529_HUMAN,GO:0003677,0.75034,DNA binding
+sp|O60304|ZN500_HUMAN,GO:0003677,0.82967,DNA binding
+sp|Q9Y4R8|TELO2_HUMAN,GO:0032553,0.16098,ribonucleotide binding
+sp|Q9Y4R8|TELO2_HUMAN,GO:0097367,0.16051,carbohydrate derivative binding
+sp|Q9Y4R8|TELO2_HUMAN,GO:0032555,0.15426,purine ribonucleotide binding
+sp|Q9Y4R8|TELO2_HUMAN,GO:0017076,0.15240,purine nucleotide binding
+sp|Q9Y4R8|TELO2_HUMAN,GO:0032559,0.15137,adenyl ribonucleotide binding
+sp|Q9Y4R8|TELO2_HUMAN,GO:0030554,0.15004,adenyl nucleotide binding
+sp|Q9Y4R8|TELO2_HUMAN,GO:0005524,0.15004,ATP binding
+sp|Q9Y4R8|TELO2_HUMAN,GO:0035639,0.14960,purine ribonucleoside triphosphate binding
+sp|Q02539|H11_HUMAN,GO:0003735,0.99957,structural constituent of ribosome
+sp|Q02539|H11_HUMAN,GO:0005198,0.99862,structural molecule activity
+sp|Q02539|H11_HUMAN,GO:0019843,0.95412,rRNA binding
+sp|Q02539|H11_HUMAN,GO:0003723,0.90959,RNA binding
+sp|P24855|DNAS1_HUMAN,GO:0046914,0.10768,transition metal ion binding
+sp|Q7Z3V5|ZN571_HUMAN,GO:0003677,0.71678,DNA binding
+sp|Q9HAJ7|SP30L_HUMAN,GO:0003677,0.23817,DNA binding
+sp|Q9HAJ7|SP30L_HUMAN,GO:0140110,0.14343,transcription regulator activity
+sp|Q9HAJ7|SP30L_HUMAN,GO:0003700,0.12751,DNA-binding transcription factor activity
+sp|Q9HAJ7|SP30L_HUMAN,GO:0016788,0.11509,"hydrolase activity, acting on ester bonds"
+sp|Q9HAJ7|SP30L_HUMAN,GO:0043565,0.11475,sequence-specific DNA binding
+sp|Q9HAJ7|SP30L_HUMAN,GO:0004518,0.10533,nuclease activity
+sp|Q147U1|ZN846_HUMAN,GO:0003677,0.64055,DNA binding
+sp|Q86UD4|ZN329_HUMAN,GO:0003677,0.89024,DNA binding
+sp|Q86XF7|ZN575_HUMAN,GO:0003677,0.61767,DNA binding
+sp|Q86XF7|ZN575_HUMAN,GO:0046914,0.40402,transition metal ion binding
+sp|Q86XF7|ZN575_HUMAN,GO:0008270,0.29097,zinc ion binding
+sp|Q86XF7|ZN575_HUMAN,GO:0140110,0.14713,transcription regulator activity
+sp|Q86XF7|ZN575_HUMAN,GO:0003700,0.14127,DNA-binding transcription factor activity
+sp|Q86XF7|ZN575_HUMAN,GO:0043565,0.12354,sequence-specific DNA binding
+sp|Q8IVC4|ZN584_HUMAN,GO:0003677,0.73295,DNA binding
+sp|Q15699|ALX1_HUMAN,GO:0003677,0.36199,DNA binding
+sp|Q15699|ALX1_HUMAN,GO:0140110,0.12507,transcription regulator activity
+sp|Q15699|ALX1_HUMAN,GO:0003700,0.10069,DNA-binding transcription factor activity
+sp|P48443|RXRG_HUMAN,GO:0046914,0.34283,transition metal ion binding
+sp|P48443|RXRG_HUMAN,GO:0008270,0.21799,zinc ion binding
+sp|P48443|RXRG_HUMAN,GO:0003677,0.21651,DNA binding
+sp|P28358|HXD10_HUMAN,GO:0003677,0.47623,DNA binding
+sp|P28358|HXD10_HUMAN,GO:0140110,0.27192,transcription regulator activity
+sp|P28358|HXD10_HUMAN,GO:0003700,0.22381,DNA-binding transcription factor activity
+sp|P28358|HXD10_HUMAN,GO:0043565,0.17642,sequence-specific DNA binding
+sp|Q3B8N5|PROX2_HUMAN,GO:0097367,0.11831,carbohydrate derivative binding
+sp|Q3B8N5|PROX2_HUMAN,GO:0032553,0.10492,ribonucleotide binding
+sp|Q9Y2P7|ZN256_HUMAN,GO:0003677,0.75801,DNA binding
+sp|O95644|NFAC1_HUMAN,GO:0140096,0.11697,"catalytic activity, acting on a protein"
+sp|Q13765|NACA_HUMAN,GO:0003677,0.19288,DNA binding
+sp|Q03923|ZNF85_HUMAN,GO:0003677,0.77943,DNA binding
+sp|Q8NA42|ZN383_HUMAN,GO:0003677,0.69528,DNA binding
+sp|A6NFD8|HELT_HUMAN,GO:0003677,0.12317,DNA binding
+sp|A6NFD8|HELT_HUMAN,GO:0046914,0.11393,transition metal ion binding
+sp|Q7RTU0|TCF24_HUMAN,GO:0003677,0.13512,DNA binding
+sp|P17021|ZNF17_HUMAN,GO:0003677,0.74574,DNA binding
+sp|O75346|ZN253_HUMAN,GO:0003677,0.73771,DNA binding
+sp|Q9H4Q3|PRD13_HUMAN,GO:0097367,0.16504,carbohydrate derivative binding
+sp|Q9H4Q3|PRD13_HUMAN,GO:0032553,0.12719,ribonucleotide binding
+sp|Q9H4Q3|PRD13_HUMAN,GO:0046914,0.11460,transition metal ion binding
+sp|Q9H4Q3|PRD13_HUMAN,GO:0032555,0.10564,purine ribonucleotide binding
+sp|Q9H4Q3|PRD13_HUMAN,GO:0035639,0.10484,purine ribonucleoside triphosphate binding
+sp|Q5QNW6|H2B2F_HUMAN,GO:0003735,0.84946,structural constituent of ribosome
+sp|Q5QNW6|H2B2F_HUMAN,GO:0005198,0.80110,structural molecule activity
+sp|Q5QNW6|H2B2F_HUMAN,GO:0003723,0.44879,RNA binding
+sp|Q5QNW6|H2B2F_HUMAN,GO:0019843,0.36546,rRNA binding
+sp|Q5QNW6|H2B2F_HUMAN,GO:0003677,0.16024,DNA binding
+sp|Q6NT04|TIGD7_HUMAN,GO:0003677,0.31806,DNA binding
+sp|Q6NT04|TIGD7_HUMAN,GO:0003723,0.29174,RNA binding
+sp|Q8IVP9|ZN547_HUMAN,GO:0003677,0.65754,DNA binding
+sp|Q8NDQ6|ZN540_HUMAN,GO:0003677,0.64918,DNA binding
+sp|Q68DY9|ZN772_HUMAN,GO:0003677,0.68649,DNA binding
+sp|Q68DI1|ZN776_HUMAN,GO:0003677,0.53265,DNA binding
+sp|Q9HC44|GPBL1_HUMAN,GO:0140096,0.15414,"catalytic activity, acting on a protein"
+sp|Q15915|ZIC1_HUMAN,GO:0003677,0.13342,DNA binding
+sp|Q15915|ZIC1_HUMAN,GO:0046914,0.13071,transition metal ion binding
+sp|Q8NCK3|ZN485_HUMAN,GO:0003677,0.73374,DNA binding
+sp|Q99877|H2B1N_HUMAN,GO:0003735,0.74677,structural constituent of ribosome
+sp|Q99877|H2B1N_HUMAN,GO:0005198,0.68799,structural molecule activity
+sp|Q99877|H2B1N_HUMAN,GO:0003723,0.39797,RNA binding
+sp|Q99877|H2B1N_HUMAN,GO:0019843,0.26606,rRNA binding
+sp|Q99877|H2B1N_HUMAN,GO:0003677,0.17918,DNA binding
+sp|Q3MJ62|ZSC23_HUMAN,GO:0003677,0.74463,DNA binding
+sp|P0DP91|ERPG3_HUMAN,GO:0097367,0.12937,carbohydrate derivative binding
+sp|P0DP91|ERPG3_HUMAN,GO:0140096,0.12177,"catalytic activity, acting on a protein"
+sp|P0DP91|ERPG3_HUMAN,GO:0017076,0.11913,purine nucleotide binding
+sp|P0DP91|ERPG3_HUMAN,GO:0032553,0.10832,ribonucleotide binding
+sp|P0DP91|ERPG3_HUMAN,GO:0032555,0.10075,purine ribonucleotide binding
+sp|Q6AHZ1|Z518A_HUMAN,GO:0003723,0.10583,RNA binding
+sp|P56178|DLX5_HUMAN,GO:0003677,0.59006,DNA binding
+sp|P56178|DLX5_HUMAN,GO:0140110,0.13484,transcription regulator activity
+sp|P56178|DLX5_HUMAN,GO:0003700,0.11674,DNA-binding transcription factor activity
+sp|A0A1W2PPF3|DUXB_HUMAN,GO:0003677,0.56399,DNA binding
+sp|A0A1W2PPF3|DUXB_HUMAN,GO:0140110,0.30308,transcription regulator activity
+sp|A0A1W2PPF3|DUXB_HUMAN,GO:0003700,0.26177,DNA-binding transcription factor activity
+sp|A0A1W2PPF3|DUXB_HUMAN,GO:0043565,0.13694,sequence-specific DNA binding
+sp|Q7RTV3|ZN367_HUMAN,GO:0003677,0.21386,DNA binding
+sp|Q7RTV3|ZN367_HUMAN,GO:0046914,0.12195,transition metal ion binding
+sp|Q7RTV3|ZN367_HUMAN,GO:0008270,0.10668,zinc ion binding
+sp|Q2TB10|ZN800_HUMAN,GO:0003723,0.25908,RNA binding
+sp|Q2TB10|ZN800_HUMAN,GO:0005198,0.14765,structural molecule activity
+sp|Q2TB10|ZN800_HUMAN,GO:0003677,0.13450,DNA binding
+sp|Q92560|BAP1_HUMAN,GO:0003723,0.20261,RNA binding
+sp|Q92560|BAP1_HUMAN,GO:0030554,0.13217,adenyl nucleotide binding
+sp|Q92560|BAP1_HUMAN,GO:0097367,0.12786,carbohydrate derivative binding
+sp|Q92560|BAP1_HUMAN,GO:0032559,0.12382,adenyl ribonucleotide binding
+sp|Q92560|BAP1_HUMAN,GO:0005524,0.12052,ATP binding
+sp|Q92560|BAP1_HUMAN,GO:0032553,0.11774,ribonucleotide binding
+sp|Q92560|BAP1_HUMAN,GO:0017076,0.11706,purine nucleotide binding
+sp|Q92560|BAP1_HUMAN,GO:0032555,0.10899,purine ribonucleotide binding
+sp|Q92560|BAP1_HUMAN,GO:0035639,0.10402,purine ribonucleoside triphosphate binding
+sp|Q8N257|H2B3B_HUMAN,GO:0003735,0.84644,structural constituent of ribosome
+sp|Q8N257|H2B3B_HUMAN,GO:0005198,0.78510,structural molecule activity
+sp|Q8N257|H2B3B_HUMAN,GO:0003723,0.57150,RNA binding
+sp|Q8N257|H2B3B_HUMAN,GO:0019843,0.38347,rRNA binding
+sp|Q8N257|H2B3B_HUMAN,GO:0003677,0.14625,DNA binding
+sp|O00321|ETV2_HUMAN,GO:0005198,0.27029,structural molecule activity
+sp|O00321|ETV2_HUMAN,GO:0016798,0.20339,"hydrolase activity, acting on glycosyl bonds"
+sp|O95863|SNAI1_HUMAN,GO:0003677,0.72211,DNA binding
+sp|O95863|SNAI1_HUMAN,GO:0140110,0.24430,transcription regulator activity
+sp|O95863|SNAI1_HUMAN,GO:0003700,0.20987,DNA-binding transcription factor activity
+sp|O95863|SNAI1_HUMAN,GO:0043565,0.20557,sequence-specific DNA binding
+sp|O95863|SNAI1_HUMAN,GO:0046914,0.13941,transition metal ion binding
+sp|O95863|SNAI1_HUMAN,GO:0003690,0.12284,double-stranded DNA binding
+sp|O95863|SNAI1_HUMAN,GO:0000981,0.11633,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+sp|Q9ULD5|ZN777_HUMAN,GO:0003677,0.69460,DNA binding
+sp|Q9ULD5|ZN777_HUMAN,GO:0046914,0.10897,transition metal ion binding
+sp|Q6ZNA1|ZN836_HUMAN,GO:0003677,0.51396,DNA binding
+sp|Q96MW7|TIGD1_HUMAN,GO:0003677,0.67696,DNA binding
+sp|Q96MW7|TIGD1_HUMAN,GO:0140110,0.16739,transcription regulator activity
+sp|Q96MW7|TIGD1_HUMAN,GO:0003700,0.14943,DNA-binding transcription factor activity
+sp|Q8NEK5|ZN548_HUMAN,GO:0003677,0.72800,DNA binding
+sp|A6NNA5|DRGX_HUMAN,GO:0003677,0.74373,DNA binding
+sp|A6NNA5|DRGX_HUMAN,GO:0140110,0.33916,transcription regulator activity
+sp|A6NNA5|DRGX_HUMAN,GO:0003700,0.32542,DNA-binding transcription factor activity
+sp|A6NNA5|DRGX_HUMAN,GO:0043565,0.16992,sequence-specific DNA binding
+sp|Q96RE9|ZN300_HUMAN,GO:0003677,0.56427,DNA binding
+sp|Q8IYI8|ZN440_HUMAN,GO:0003677,0.82467,DNA binding
+sp|Q6K0P9|IFIX_HUMAN,GO:0003677,0.12958,DNA binding
+sp|Q6K0P9|IFIX_HUMAN,GO:0003723,0.11508,RNA binding
+sp|Q8TA94|ZN563_HUMAN,GO:0003677,0.74889,DNA binding
+sp|Q99742|NPAS1_HUMAN,GO:0097367,0.25474,carbohydrate derivative binding
+sp|Q99742|NPAS1_HUMAN,GO:0032553,0.24635,ribonucleotide binding
+sp|Q99742|NPAS1_HUMAN,GO:0032559,0.18117,adenyl ribonucleotide binding
+sp|Q99742|NPAS1_HUMAN,GO:0005524,0.17845,ATP binding
+sp|Q99742|NPAS1_HUMAN,GO:0032555,0.17711,purine ribonucleotide binding
+sp|Q99742|NPAS1_HUMAN,GO:0035639,0.17243,purine ribonucleoside triphosphate binding
+sp|Q99742|NPAS1_HUMAN,GO:0030554,0.16837,adenyl nucleotide binding
+sp|Q99742|NPAS1_HUMAN,GO:0017076,0.16423,purine nucleotide binding
+sp|Q8NCN2|ZBT34_HUMAN,GO:0003677,0.34440,DNA binding
+sp|Q8NCN2|ZBT34_HUMAN,GO:0046914,0.13378,transition metal ion binding
+sp|Q8NCN2|ZBT34_HUMAN,GO:0008270,0.10490,zinc ion binding
+sp|O00479|HMGN4_HUMAN,GO:0003735,0.97101,structural constituent of ribosome
+sp|O00479|HMGN4_HUMAN,GO:0005198,0.94161,structural molecule activity
+sp|O00479|HMGN4_HUMAN,GO:0003723,0.47935,RNA binding
+sp|O00479|HMGN4_HUMAN,GO:0019843,0.47492,rRNA binding
+sp|O00479|HMGN4_HUMAN,GO:0003677,0.16028,DNA binding
+sp|Q86UZ6|ZBT46_HUMAN,GO:0140096,0.12524,"catalytic activity, acting on a protein"
+sp|Q5TYW1|ZN658_HUMAN,GO:0003677,0.78231,DNA binding
+sp|Q9UMQ3|BARX2_HUMAN,GO:0003677,0.72743,DNA binding
+sp|Q9UMQ3|BARX2_HUMAN,GO:0140110,0.42119,transcription regulator activity
+sp|Q9UMQ3|BARX2_HUMAN,GO:0003700,0.38763,DNA-binding transcription factor activity
+sp|Q9UMQ3|BARX2_HUMAN,GO:0043565,0.24307,sequence-specific DNA binding
+sp|Q9UMQ3|BARX2_HUMAN,GO:0003690,0.11972,double-stranded DNA binding
+sp|Q9UMQ3|BARX2_HUMAN,GO:0001067,0.11182,regulatory region nucleic acid binding
+sp|Q9UMQ3|BARX2_HUMAN,GO:0000976,0.11121,transcription regulatory region sequence-specific DNA binding
+sp|Q9UMQ3|BARX2_HUMAN,GO:1990837,0.10688,sequence-specific double-stranded DNA binding
+sp|Q9UNY5|ZN232_HUMAN,GO:0003677,0.69227,DNA binding
+sp|Q06730|ZN33A_HUMAN,GO:0003677,0.64473,DNA binding
+sp|Q9Y6H1|CHCH2_HUMAN,GO:0046914,0.25795,transition metal ion binding
+sp|Q9Y6H1|CHCH2_HUMAN,GO:0140096,0.19952,"catalytic activity, acting on a protein"
+sp|Q9Y6H1|CHCH2_HUMAN,GO:0008233,0.18349,peptidase activity
+sp|Q9Y6H1|CHCH2_HUMAN,GO:0008237,0.16194,metallopeptidase activity
+sp|Q9Y6H1|CHCH2_HUMAN,GO:0008270,0.15539,zinc ion binding
+sp|Q9Y6H1|CHCH2_HUMAN,GO:0004175,0.10599,endopeptidase activity
+sp|Q9P255|ZN492_HUMAN,GO:0003677,0.69732,DNA binding
+sp|Q9H5J0|ZBTB3_HUMAN,GO:0003677,0.12997,DNA binding
+sp|Q9H5J0|ZBTB3_HUMAN,GO:0046914,0.11768,transition metal ion binding
+sp|P49640|EVX1_HUMAN,GO:0003677,0.18577,DNA binding
+sp|P49640|EVX1_HUMAN,GO:0046914,0.15547,transition metal ion binding
+sp|Q3SY52|ZIK1_HUMAN,GO:0003677,0.72492,DNA binding
+sp|Q9HBZ2|ARNT2_HUMAN,GO:0140096,0.10471,"catalytic activity, acting on a protein"
+sp|Q9HBZ2|ARNT2_HUMAN,GO:0003723,0.10356,RNA binding
+sp|O96004|HAND1_HUMAN,GO:0003723,0.16358,RNA binding
+sp|O96004|HAND1_HUMAN,GO:0005198,0.14527,structural molecule activity
+sp|O96004|HAND1_HUMAN,GO:0003735,0.12237,structural constituent of ribosome
+sp|O96004|HAND1_HUMAN,GO:0046914,0.11313,transition metal ion binding
+sp|Q9Y2K1|ZBTB1_HUMAN,GO:0003677,0.21047,DNA binding
+sp|Q9Y2K1|ZBTB1_HUMAN,GO:0046914,0.15615,transition metal ion binding
+sp|Q9Y2K1|ZBTB1_HUMAN,GO:0140096,0.12780,"catalytic activity, acting on a protein"
+sp|Q9Y2K1|ZBTB1_HUMAN,GO:0051536,0.11763,iron-sulfur cluster binding
+sp|Q9Y2K1|ZBTB1_HUMAN,GO:0051540,0.11737,metal cluster binding
+sp|Q9Y2K1|ZBTB1_HUMAN,GO:0008270,0.11606,zinc ion binding
+sp|Q9NQX6|ZN331_HUMAN,GO:0003677,0.77847,DNA binding
+sp|Q12800|TFCP2_HUMAN,GO:0140096,0.12855,"catalytic activity, acting on a protein"
+sp|C9JSJ3|MEIOS_HUMAN,GO:0140096,0.11136,"catalytic activity, acting on a protein"
+sp|Q9BWM5|ZN416_HUMAN,GO:0003677,0.59859,DNA binding
+sp|P10072|ZN875_HUMAN,GO:0003677,0.72240,DNA binding
+sp|Q969W8|ZN566_HUMAN,GO:0003677,0.68622,DNA binding
+sp|Q9UHX1|PUF60_HUMAN,GO:0030554,0.12965,adenyl nucleotide binding
+sp|Q9UHX1|PUF60_HUMAN,GO:0097367,0.12719,carbohydrate derivative binding
+sp|Q9UHX1|PUF60_HUMAN,GO:0032559,0.12639,adenyl ribonucleotide binding
+sp|Q9UHX1|PUF60_HUMAN,GO:0005524,0.12501,ATP binding
+sp|Q9UHX1|PUF60_HUMAN,GO:0032553,0.11948,ribonucleotide binding
+sp|Q9UHX1|PUF60_HUMAN,GO:0003723,0.11115,RNA binding
+sp|Q9UHX1|PUF60_HUMAN,GO:0017076,0.10473,purine nucleotide binding
+sp|Q9UHX1|PUF60_HUMAN,GO:0032555,0.10250,purine ribonucleotide binding
+sp|Q9UHX1|PUF60_HUMAN,GO:0035639,0.10147,purine ribonucleoside triphosphate binding
+sp|P09067|HXB5_HUMAN,GO:0003677,0.85595,DNA binding
+sp|P09067|HXB5_HUMAN,GO:0140110,0.56397,transcription regulator activity
+sp|P09067|HXB5_HUMAN,GO:0003700,0.52328,DNA-binding transcription factor activity
+sp|P09067|HXB5_HUMAN,GO:0043565,0.31397,sequence-specific DNA binding
+sp|O94892|ZN432_HUMAN,GO:0003677,0.77457,DNA binding
+sp|O94892|ZN432_HUMAN,GO:0097367,0.11617,carbohydrate derivative binding
+sp|Q8N3X6|LCORL_HUMAN,GO:0003677,0.16499,DNA binding
+sp|Q99878|H2A1J_HUMAN,GO:0003735,0.29248,structural constituent of ribosome
+sp|Q99878|H2A1J_HUMAN,GO:0005198,0.24849,structural molecule activity
+sp|Q99878|H2A1J_HUMAN,GO:0003677,0.19523,DNA binding
+sp|Q99878|H2A1J_HUMAN,GO:0046983,0.10851,protein dimerization activity
+sp|Q99878|H2A1J_HUMAN,GO:0003723,0.10826,RNA binding
+sp|Q7Z5D8|NANGN_HUMAN,GO:0003677,0.22433,DNA binding
+sp|Q7Z5D8|NANGN_HUMAN,GO:0005198,0.13060,structural molecule activity
+sp|Q7Z5D8|NANGN_HUMAN,GO:0043565,0.10749,sequence-specific DNA binding
+sp|Q7Z5D8|NANGN_HUMAN,GO:0003723,0.10656,RNA binding
+sp|Q7Z5D8|NANGN_HUMAN,GO:0140110,0.10199,transcription regulator activity
+sp|O15522|NKX28_HUMAN,GO:0003677,0.47033,DNA binding
+sp|Q15937|ZNF79_HUMAN,GO:0003677,0.81957,DNA binding
+sp|B4DU55|ZN879_HUMAN,GO:0003677,0.85194,DNA binding
+sp|Q16670|ZSC26_HUMAN,GO:0003677,0.82718,DNA binding
+sp|Q96NG8|ZN582_HUMAN,GO:0003677,0.90463,DNA binding
+sp|Q9GZN2|TGIF2_HUMAN,GO:0003677,0.35174,DNA binding
+sp|Q9GZN2|TGIF2_HUMAN,GO:0140110,0.14014,transcription regulator activity
+sp|Q9GZN2|TGIF2_HUMAN,GO:0003700,0.12438,DNA-binding transcription factor activity
+sp|P17097|ZNF7_HUMAN,GO:0003677,0.80872,DNA binding
+sp|Q03938|ZNF90_HUMAN,GO:0003677,0.82062,DNA binding
+sp|Q03938|ZNF90_HUMAN,GO:0043565,0.10363,sequence-specific DNA binding
+sp|P47902|CDX1_HUMAN,GO:0003677,0.41087,DNA binding
+sp|Q92826|HXB13_HUMAN,GO:0003677,0.18750,DNA binding
+sp|Q99676|ZN184_HUMAN,GO:0003677,0.53481,DNA binding
+sp|Q9Y618|NCOR2_HUMAN,GO:0097367,0.17077,carbohydrate derivative binding
+sp|Q9Y618|NCOR2_HUMAN,GO:0032553,0.13775,ribonucleotide binding
+sp|Q9Y618|NCOR2_HUMAN,GO:0017076,0.12722,purine nucleotide binding
+sp|Q9Y618|NCOR2_HUMAN,GO:0035639,0.10728,purine ribonucleoside triphosphate binding
+sp|Q9Y618|NCOR2_HUMAN,GO:0032555,0.10567,purine ribonucleotide binding
+sp|Q13422|IKZF1_HUMAN,GO:0003677,0.32004,DNA binding
+sp|Q13422|IKZF1_HUMAN,GO:0046914,0.22025,transition metal ion binding
+sp|Q13422|IKZF1_HUMAN,GO:0008270,0.15174,zinc ion binding
+sp|Q13422|IKZF1_HUMAN,GO:0140096,0.11213,"catalytic activity, acting on a protein"
+sp|Q96NJ3|ZN285_HUMAN,GO:0003677,0.87794,DNA binding
+sp|P17025|ZN182_HUMAN,GO:0003677,0.60363,DNA binding
+sp|A8MTJ6|FOXI3_HUMAN,GO:0016798,0.17971,"hydrolase activity, acting on glycosyl bonds"
+sp|A8MTJ6|FOXI3_HUMAN,GO:0004553,0.10863,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+sp|Q9BW11|MAD3_HUMAN,GO:0003677,0.23017,DNA binding
+sp|Q9BW11|MAD3_HUMAN,GO:0140110,0.15740,transcription regulator activity
+sp|Q9BW11|MAD3_HUMAN,GO:0003723,0.15659,RNA binding
+sp|Q9BW11|MAD3_HUMAN,GO:0003700,0.14526,DNA-binding transcription factor activity
+sp|Q9BW11|MAD3_HUMAN,GO:0043565,0.10197,sequence-specific DNA binding
+sp|O14896|IRF6_HUMAN,GO:0140096,0.20131,"catalytic activity, acting on a protein"
+sp|P49910|ZN165_HUMAN,GO:0003677,0.86599,DNA binding
+sp|P49910|ZN165_HUMAN,GO:0140110,0.14779,transcription regulator activity
+sp|P49910|ZN165_HUMAN,GO:0003700,0.12587,DNA-binding transcription factor activity
+sp|P49910|ZN165_HUMAN,GO:0043565,0.11588,sequence-specific DNA binding
+sp|Q9HB31|SEBOX_HUMAN,GO:0003677,0.22754,DNA binding
+sp|Q5VIY5|ZN468_HUMAN,GO:0003677,0.83519,DNA binding
+sp|Q2M3W8|ZN181_HUMAN,GO:0003677,0.79466,DNA binding
+sp|O43711|TLX3_HUMAN,GO:0003677,0.63355,DNA binding
+sp|O43711|TLX3_HUMAN,GO:0140110,0.26210,transcription regulator activity
+sp|O43711|TLX3_HUMAN,GO:0003700,0.24400,DNA-binding transcription factor activity
+sp|O43711|TLX3_HUMAN,GO:0043565,0.20194,sequence-specific DNA binding
+sp|Q9ULX9|MAFF_HUMAN,GO:0003677,0.26546,DNA binding
+sp|Q9ULX9|MAFF_HUMAN,GO:0005198,0.16422,structural molecule activity
+sp|Q9ULX9|MAFF_HUMAN,GO:0003723,0.14860,RNA binding
+sp|Q9ULX9|MAFF_HUMAN,GO:0140110,0.12364,transcription regulator activity
+sp|Q9ULX9|MAFF_HUMAN,GO:0003700,0.11584,DNA-binding transcription factor activity
+sp|Q9ULX9|MAFF_HUMAN,GO:0003735,0.11570,structural constituent of ribosome
+sp|Q9NYT6|ZN226_HUMAN,GO:0003677,0.74804,DNA binding
+sp|Q6P9A3|ZN549_HUMAN,GO:0003677,0.60799,DNA binding
+sp|Q2M1K9|ZN423_HUMAN,GO:0046914,0.23456,transition metal ion binding
+sp|Q2M1K9|ZN423_HUMAN,GO:0008270,0.14631,zinc ion binding
+sp|Q2M1K9|ZN423_HUMAN,GO:0003677,0.10084,DNA binding
+sp|Q9Y6X0|SETBP_HUMAN,GO:0005198,0.12524,structural molecule activity
+sp|Q9UJ41|RABX5_HUMAN,GO:0046914,0.16015,transition metal ion binding
+sp|Q9UJ41|RABX5_HUMAN,GO:0008270,0.12980,zinc ion binding
+sp|Q9UJ41|RABX5_HUMAN,GO:0003677,0.12722,DNA binding
+sp|Q969P6|TOP1M_HUMAN,GO:0003723,0.13671,RNA binding
+sp|Q969P6|TOP1M_HUMAN,GO:0003677,0.11368,DNA binding
+sp|Q6ZMS4|ZN852_HUMAN,GO:0003677,0.84490,DNA binding
+sp|A8MXY4|ZNF99_HUMAN,GO:0003677,0.56376,DNA binding
+sp|P67809|YBOX1_HUMAN,GO:0003723,0.20571,RNA binding
+sp|P67809|YBOX1_HUMAN,GO:0005198,0.16519,structural molecule activity
+sp|Q16665|HIF1A_HUMAN,GO:0140096,0.34350,"catalytic activity, acting on a protein"
+sp|Q16665|HIF1A_HUMAN,GO:0016788,0.14155,"hydrolase activity, acting on ester bonds"
+sp|Q16665|HIF1A_HUMAN,GO:0097367,0.11790,carbohydrate derivative binding
+sp|Q16665|HIF1A_HUMAN,GO:0008233,0.10754,peptidase activity
+sp|Q16665|HIF1A_HUMAN,GO:0017076,0.10745,purine nucleotide binding
+sp|Q16665|HIF1A_HUMAN,GO:0032555,0.10426,purine ribonucleotide binding
+sp|Q16665|HIF1A_HUMAN,GO:0035639,0.10204,purine ribonucleoside triphosphate binding
+sp|P15622|ZN250_HUMAN,GO:0003677,0.87572,DNA binding
+sp|O75333|TBX10_HUMAN,GO:0140096,0.12504,"catalytic activity, acting on a protein"
+sp|O75333|TBX10_HUMAN,GO:0016788,0.10954,"hydrolase activity, acting on ester bonds"
+sp|Q9C009|FOXQ1_HUMAN,GO:0016741,0.11074,"transferase activity, transferring one-carbon groups"
+sp|P05549|AP2A_HUMAN,GO:0140096,0.16589,"catalytic activity, acting on a protein"
+sp|P05549|AP2A_HUMAN,GO:0003677,0.11568,DNA binding
+sp|P05549|AP2A_HUMAN,GO:0016788,0.10846,"hydrolase activity, acting on ester bonds"
+sp|Q9UPW6|SATB2_HUMAN,GO:0003677,0.19632,DNA binding
+sp|Q3KP22|MAJIN_HUMAN,GO:0005198,0.24823,structural molecule activity
+sp|Q3KP22|MAJIN_HUMAN,GO:0003723,0.24403,RNA binding
+sp|Q3KP22|MAJIN_HUMAN,GO:0003735,0.22801,structural constituent of ribosome
+sp|Q3KP22|MAJIN_HUMAN,GO:0003677,0.14154,DNA binding
+sp|Q8WYN3|CSRN3_HUMAN,GO:0140096,0.22293,"catalytic activity, acting on a protein"
+sp|P26583|HMGB2_HUMAN,GO:0003677,0.22070,DNA binding
+sp|P26583|HMGB2_HUMAN,GO:0003723,0.15569,RNA binding
+sp|Q04206|TF65_HUMAN,GO:0140096,0.12398,"catalytic activity, acting on a protein"
+sp|Q04206|TF65_HUMAN,GO:0003677,0.12126,DNA binding
+sp|P15884|ITF2_HUMAN,GO:0097367,0.13052,carbohydrate derivative binding
+sp|A6NJL1|ZSA5B_HUMAN,GO:0003677,0.61107,DNA binding
+sp|Q9Y5L5|LENEP_HUMAN,GO:0003677,0.14360,DNA binding
+sp|Q9Y5L5|LENEP_HUMAN,GO:0046914,0.12733,transition metal ion binding
+sp|Q9Y5L5|LENEP_HUMAN,GO:0005198,0.10391,structural molecule activity
+sp|Q9Y6Q3|ZFP37_HUMAN,GO:0003677,0.62019,DNA binding
+sp|Q02386|ZNF45_HUMAN,GO:0003677,0.89359,DNA binding
+sp|Q6ISB3|GRHL2_HUMAN,GO:0003677,0.13787,DNA binding
+sp|Q6ISB3|GRHL2_HUMAN,GO:0003723,0.11763,RNA binding
+sp|Q96JF6|ZN594_HUMAN,GO:0003677,0.81371,DNA binding
+sp|P54821|PRRX1_HUMAN,GO:0003677,0.53840,DNA binding
+sp|P54821|PRRX1_HUMAN,GO:0140110,0.18430,transcription regulator activity
+sp|P54821|PRRX1_HUMAN,GO:0003700,0.17499,DNA-binding transcription factor activity
+sp|P54821|PRRX1_HUMAN,GO:0043565,0.13398,sequence-specific DNA binding
+sp|Q3KP31|ZN791_HUMAN,GO:0003677,0.75541,DNA binding
+sp|O60479|DLX3_HUMAN,GO:0003677,0.74080,DNA binding
+sp|O60479|DLX3_HUMAN,GO:0140110,0.31175,transcription regulator activity
+sp|O60479|DLX3_HUMAN,GO:0003700,0.28717,DNA-binding transcription factor activity
+sp|O60479|DLX3_HUMAN,GO:0043565,0.14715,sequence-specific DNA binding
+sp|Q9Y2M0|FAN1_HUMAN,GO:0097367,0.14572,carbohydrate derivative binding
+sp|Q9Y2M0|FAN1_HUMAN,GO:0032559,0.13802,adenyl ribonucleotide binding
+sp|Q9Y2M0|FAN1_HUMAN,GO:0030554,0.13694,adenyl nucleotide binding
+sp|Q9Y2M0|FAN1_HUMAN,GO:0005524,0.13548,ATP binding
+sp|Q9Y2M0|FAN1_HUMAN,GO:0032553,0.13510,ribonucleotide binding
+sp|Q9Y2M0|FAN1_HUMAN,GO:0140096,0.13302,"catalytic activity, acting on a protein"
+sp|Q9Y2M0|FAN1_HUMAN,GO:0032555,0.12802,purine ribonucleotide binding
+sp|Q9Y2M0|FAN1_HUMAN,GO:0017076,0.12709,purine nucleotide binding
+sp|Q9Y2M0|FAN1_HUMAN,GO:0003723,0.12455,RNA binding
+sp|Q9Y2M0|FAN1_HUMAN,GO:0035639,0.12383,purine ribonucleoside triphosphate binding
+sp|Q9Y2M0|FAN1_HUMAN,GO:0140097,0.10161,"catalytic activity, acting on DNA"
+sp|Q9Y2M0|FAN1_HUMAN,GO:0140098,0.10083,"catalytic activity, acting on RNA"
+sp|O14948|TFEC_HUMAN,GO:0003677,0.18557,DNA binding
+sp|O14948|TFEC_HUMAN,GO:0016788,0.14355,"hydrolase activity, acting on ester bonds"
+sp|P48380|RFX3_HUMAN,GO:0140096,0.11805,"catalytic activity, acting on a protein"
+sp|Q9Y5A6|ZSC21_HUMAN,GO:0003677,0.46503,DNA binding
+sp|Q9Y237|PIN4_HUMAN,GO:0005198,0.19724,structural molecule activity
+sp|Q9Y237|PIN4_HUMAN,GO:0003735,0.17461,structural constituent of ribosome
+sp|Q9Y237|PIN4_HUMAN,GO:0097367,0.10742,carbohydrate derivative binding
+sp|P09016|HXD4_HUMAN,GO:0003677,0.77090,DNA binding
+sp|P09016|HXD4_HUMAN,GO:0140110,0.25298,transcription regulator activity
+sp|P09016|HXD4_HUMAN,GO:0003700,0.24275,DNA-binding transcription factor activity
+sp|P09016|HXD4_HUMAN,GO:0043565,0.15901,sequence-specific DNA binding
+sp|Q12778|FOXO1_HUMAN,GO:0140096,0.11559,"catalytic activity, acting on a protein"
+sp|P13631|RARG_HUMAN,GO:0003677,0.27001,DNA binding
+sp|P13631|RARG_HUMAN,GO:0046914,0.22209,transition metal ion binding
+sp|P57053|H2BFS_HUMAN,GO:0003735,0.83665,structural constituent of ribosome
+sp|P57053|H2BFS_HUMAN,GO:0005198,0.77899,structural molecule activity
+sp|P57053|H2BFS_HUMAN,GO:0003723,0.44856,RNA binding
+sp|P57053|H2BFS_HUMAN,GO:0019843,0.33781,rRNA binding
+sp|P57053|H2BFS_HUMAN,GO:0003677,0.19081,DNA binding
+sp|Q6NX49|ZN544_HUMAN,GO:0003677,0.70646,DNA binding
+sp|Q96G23|CERS2_HUMAN,GO:0003677,0.14368,DNA binding
+sp|P17038|ZNF43_HUMAN,GO:0003677,0.68650,DNA binding
+sp|Q13156|RFA4_HUMAN,GO:0140096,0.15825,"catalytic activity, acting on a protein"
+sp|Q13156|RFA4_HUMAN,GO:0046914,0.15570,transition metal ion binding
+sp|P05204|HMGN2_HUMAN,GO:0003735,0.92889,structural constituent of ribosome
+sp|P05204|HMGN2_HUMAN,GO:0005198,0.86576,structural molecule activity
+sp|P05204|HMGN2_HUMAN,GO:0003723,0.52838,RNA binding
+sp|P05204|HMGN2_HUMAN,GO:0019843,0.40453,rRNA binding
+sp|P05204|HMGN2_HUMAN,GO:0003677,0.10808,DNA binding
+sp|A2AJT9|BCLA3_HUMAN,GO:0003723,0.25501,RNA binding
+sp|A2AJT9|BCLA3_HUMAN,GO:0005198,0.22245,structural molecule activity
+sp|A2AJT9|BCLA3_HUMAN,GO:0003677,0.11188,DNA binding
+sp|Q9UPR3|SMG5_HUMAN,GO:0140096,0.19012,"catalytic activity, acting on a protein"
+sp|Q9UPR3|SMG5_HUMAN,GO:0097367,0.12676,carbohydrate derivative binding
+sp|Q9UPR3|SMG5_HUMAN,GO:0032553,0.10832,ribonucleotide binding
+sp|Q9UPR3|SMG5_HUMAN,GO:0017076,0.10788,purine nucleotide binding
+sp|Q9UPR3|SMG5_HUMAN,GO:0032555,0.10730,purine ribonucleotide binding
+sp|Q9UPR3|SMG5_HUMAN,GO:0035639,0.10351,purine ribonucleoside triphosphate binding
+sp|Q2M218|ZN630_HUMAN,GO:0003677,0.70162,DNA binding
+sp|P0DKX0|ZN728_HUMAN,GO:0003677,0.73843,DNA binding
+sp|Q9Y2T7|YBOX2_HUMAN,GO:0003723,0.17036,RNA binding
+sp|Q9Y2T7|YBOX2_HUMAN,GO:0005198,0.15703,structural molecule activity
+sp|P51523|ZNF84_HUMAN,GO:0003677,0.81626,DNA binding
+sp|Q9Y3C5|RNF11_HUMAN,GO:0046914,0.17658,transition metal ion binding
+sp|Q9Y3C5|RNF11_HUMAN,GO:0003677,0.15926,DNA binding
+sp|Q9Y3C5|RNF11_HUMAN,GO:0140096,0.13936,"catalytic activity, acting on a protein"
+sp|Q9Y3C5|RNF11_HUMAN,GO:0008270,0.12442,zinc ion binding
+sp|Q9Y3C5|RNF11_HUMAN,GO:0016788,0.11792,"hydrolase activity, acting on ester bonds"
+sp|Q8WVJ9|TWST2_HUMAN,GO:0003677,0.21677,DNA binding
+sp|Q8WVJ9|TWST2_HUMAN,GO:0140110,0.18343,transcription regulator activity
+sp|Q8WVJ9|TWST2_HUMAN,GO:0003700,0.16180,DNA-binding transcription factor activity
+sp|Q8WVJ9|TWST2_HUMAN,GO:0043565,0.14288,sequence-specific DNA binding
+sp|Q8WVJ9|TWST2_HUMAN,GO:0003723,0.11000,RNA binding
+sp|Q8WVJ9|TWST2_HUMAN,GO:0140096,0.10888,"catalytic activity, acting on a protein"
+sp|Q8WVJ9|TWST2_HUMAN,GO:0098772,0.10042,molecular function regulator
+sp|O60675|MAFK_HUMAN,GO:0003677,0.25369,DNA binding
+sp|O60675|MAFK_HUMAN,GO:0003723,0.22319,RNA binding
+sp|O60675|MAFK_HUMAN,GO:0140110,0.13789,transcription regulator activity
+sp|O60675|MAFK_HUMAN,GO:0005198,0.12976,structural molecule activity
+sp|O60675|MAFK_HUMAN,GO:0003700,0.12150,DNA-binding transcription factor activity
+sp|Q14995|NR1D2_HUMAN,GO:0046914,0.25349,transition metal ion binding
+sp|Q14995|NR1D2_HUMAN,GO:0008270,0.15887,zinc ion binding
+sp|Q14995|NR1D2_HUMAN,GO:0140096,0.15717,"catalytic activity, acting on a protein"
+sp|Q14995|NR1D2_HUMAN,GO:0003677,0.13875,DNA binding
+sp|Q96K58|ZN668_HUMAN,GO:0003677,0.66248,DNA binding
+sp|Q99717|SMAD5_HUMAN,GO:0140096,0.19259,"catalytic activity, acting on a protein"
+sp|H3BV60|TGR3L_HUMAN,GO:0005198,0.16383,structural molecule activity
+sp|H3BV60|TGR3L_HUMAN,GO:0003723,0.14805,RNA binding
+sp|H3BV60|TGR3L_HUMAN,GO:0046914,0.10040,transition metal ion binding
+sp|Q8TAM1|BBS10_HUMAN,GO:0140096,0.16090,"catalytic activity, acting on a protein"
+sp|Q6ZN03|CU136_HUMAN,GO:0005102,0.15864,signaling receptor binding
+sp|Q6ZN03|CU136_HUMAN,GO:0140096,0.11805,"catalytic activity, acting on a protein"
+sp|Q6ZN03|CU136_HUMAN,GO:0098772,0.10769,molecular function regulator
+sp|Q9UNF1|MAGD2_HUMAN,GO:0097367,0.22005,carbohydrate derivative binding
+sp|Q9UNF1|MAGD2_HUMAN,GO:0017076,0.17502,purine nucleotide binding
+sp|Q9UNF1|MAGD2_HUMAN,GO:0032553,0.17212,ribonucleotide binding
+sp|Q9UNF1|MAGD2_HUMAN,GO:0032555,0.16553,purine ribonucleotide binding
+sp|Q9UNF1|MAGD2_HUMAN,GO:0035639,0.16053,purine ribonucleoside triphosphate binding
+sp|Q9UNF1|MAGD2_HUMAN,GO:0030554,0.14379,adenyl nucleotide binding
+sp|Q9UNF1|MAGD2_HUMAN,GO:0032559,0.13576,adenyl ribonucleotide binding
+sp|Q9UNF1|MAGD2_HUMAN,GO:0005524,0.13283,ATP binding
+sp|Q8WZA8|GC224_HUMAN,GO:0005215,0.14572,transporter activity
+sp|Q8WZA8|GC224_HUMAN,GO:0047429,0.13943,nucleoside-triphosphate diphosphatase activity
+sp|Q8WZA8|GC224_HUMAN,GO:0022857,0.13821,transmembrane transporter activity
+sp|Q8WZA8|GC224_HUMAN,GO:0015075,0.13483,ion transmembrane transporter activity
+sp|Q8WZA8|GC224_HUMAN,GO:0009055,0.12660,electron transfer activity
+sp|Q8WZA8|GC224_HUMAN,GO:0098772,0.12612,molecular function regulator
+sp|Q8WZA8|GC224_HUMAN,GO:0015035,0.12313,protein disulfide oxidoreductase activity
+sp|Q8WZA8|GC224_HUMAN,GO:0003677,0.12220,DNA binding
+sp|Q8WZA8|GC224_HUMAN,GO:0008289,0.12101,lipid binding
+sp|Q8WZA8|GC224_HUMAN,GO:0008137,0.11593,NADH dehydrogenase (ubiquinone) activity
+sp|Q8WZA8|GC224_HUMAN,GO:0016788,0.11558,"hydrolase activity, acting on ester bonds"
+sp|Q8WZA8|GC224_HUMAN,GO:0015318,0.11555,inorganic molecular entity transmembrane transporter activity
+sp|Q8WZA8|GC224_HUMAN,GO:0008897,0.11272,holo-[acyl-carrier-protein] synthase activity
+sp|Q8WZA8|GC224_HUMAN,GO:0048018,0.10913,receptor ligand activity
+sp|Q8WZA8|GC224_HUMAN,GO:0030546,0.10871,signaling receptor activator activity
+sp|Q8WZA8|GC224_HUMAN,GO:0030545,0.10864,receptor regulator activity
+sp|Q8WZA8|GC224_HUMAN,GO:0070001,0.10847,aspartic-type peptidase activity
+sp|Q8WZA8|GC224_HUMAN,GO:0004190,0.10819,aspartic-type endopeptidase activity
+sp|Q8WZA8|GC224_HUMAN,GO:0003955,0.10587,NAD(P)H dehydrogenase (quinone) activity
+sp|Q8WZA8|GC224_HUMAN,GO:0016655,0.10462,"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor"
+sp|Q8WZA8|GC224_HUMAN,GO:0015078,0.10300,proton transmembrane transporter activity
+sp|Q8WZA8|GC224_HUMAN,GO:0005126,0.10139,cytokine receptor binding
+sp|Q8WZA8|GC224_HUMAN,GO:0008324,0.10095,cation transmembrane transporter activity
+sp|Q8WZA8|GC224_HUMAN,GO:0015036,0.10069,disulfide oxidoreductase activity
+sp|Q8WZA8|GC224_HUMAN,GO:0003855,0.10012,3-dehydroquinate dehydratase activity
+sp|Q8N7P3|CLD22_HUMAN,GO:0051536,0.13562,iron-sulfur cluster binding
+sp|Q8N7P3|CLD22_HUMAN,GO:0051540,0.13538,metal cluster binding
+sp|Q8N7P3|CLD22_HUMAN,GO:0009055,0.11144,electron transfer activity
+sp|Q9P2H3|IFT80_HUMAN,GO:0097367,0.15337,carbohydrate derivative binding
+sp|Q9P2H3|IFT80_HUMAN,GO:0032553,0.13749,ribonucleotide binding
+sp|Q9P2H3|IFT80_HUMAN,GO:0032555,0.12230,purine ribonucleotide binding
+sp|Q9P2H3|IFT80_HUMAN,GO:0035639,0.11788,purine ribonucleoside triphosphate binding
+sp|Q9P2H3|IFT80_HUMAN,GO:0017076,0.11154,purine nucleotide binding
+sp|E9PQX1|TM262_HUMAN,GO:0009055,0.18407,electron transfer activity
+sp|E9PQX1|TM262_HUMAN,GO:0008137,0.10147,NADH dehydrogenase (ubiquinone) activity
+sp|E9PQX1|TM262_HUMAN,GO:0016655,0.10080,"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor"
+sp|Q0VF96|CGNL1_HUMAN,GO:0017076,0.18700,purine nucleotide binding
+sp|Q0VF96|CGNL1_HUMAN,GO:0030554,0.16224,adenyl nucleotide binding
+sp|Q0VF96|CGNL1_HUMAN,GO:0097367,0.14383,carbohydrate derivative binding
+sp|Q0VF96|CGNL1_HUMAN,GO:0032555,0.14065,purine ribonucleotide binding
+sp|Q0VF96|CGNL1_HUMAN,GO:0035639,0.13752,purine ribonucleoside triphosphate binding
+sp|Q0VF96|CGNL1_HUMAN,GO:0032553,0.13473,ribonucleotide binding
+sp|Q0VF96|CGNL1_HUMAN,GO:0032559,0.12124,adenyl ribonucleotide binding
+sp|Q0VF96|CGNL1_HUMAN,GO:0005524,0.11937,ATP binding
+sp|Q9BZA0|TTY10_HUMAN,GO:0003677,0.23074,DNA binding
+sp|Q9BZA0|TTY10_HUMAN,GO:0140110,0.15309,transcription regulator activity
+sp|Q9BZA0|TTY10_HUMAN,GO:0005198,0.13589,structural molecule activity
+sp|Q9BZA0|TTY10_HUMAN,GO:0003700,0.13246,DNA-binding transcription factor activity
+sp|Q9BZA0|TTY10_HUMAN,GO:0003735,0.12264,structural constituent of ribosome
+sp|Q9BZA0|TTY10_HUMAN,GO:0043565,0.10015,sequence-specific DNA binding
+sp|Q13324|CRFR2_HUMAN,GO:0060089,0.23798,molecular transducer activity
+sp|Q13324|CRFR2_HUMAN,GO:0038023,0.23753,signaling receptor activity
+sp|Q13324|CRFR2_HUMAN,GO:0004888,0.21208,transmembrane signaling receptor activity
+sp|Q13324|CRFR2_HUMAN,GO:0140096,0.17753,"catalytic activity, acting on a protein"
+sp|Q13324|CRFR2_HUMAN,GO:0004930,0.11962,G protein-coupled receptor activity
+sp|Q9UHB4|NDOR1_HUMAN,GO:0008168,0.17876,methyltransferase activity
+sp|Q9UHB4|NDOR1_HUMAN,GO:0016741,0.16738,"transferase activity, transferring one-carbon groups"
+sp|Q9UHB4|NDOR1_HUMAN,GO:0097367,0.16103,carbohydrate derivative binding
+sp|Q9UHB4|NDOR1_HUMAN,GO:0032553,0.15907,ribonucleotide binding
+sp|Q9UHB4|NDOR1_HUMAN,GO:0032559,0.13946,adenyl ribonucleotide binding
+sp|Q9UHB4|NDOR1_HUMAN,GO:0005524,0.13875,ATP binding
+sp|Q9UHB4|NDOR1_HUMAN,GO:0032555,0.13200,purine ribonucleotide binding
+sp|Q9UHB4|NDOR1_HUMAN,GO:0035639,0.12981,purine ribonucleoside triphosphate binding
+sp|Q9UHB4|NDOR1_HUMAN,GO:0030554,0.12901,adenyl nucleotide binding
+sp|Q9UHB4|NDOR1_HUMAN,GO:0016772,0.12230,"transferase activity, transferring phosphorus-containing groups"
+sp|Q9UHB4|NDOR1_HUMAN,GO:0017076,0.12210,purine nucleotide binding
+sp|O95047|OR2A4_HUMAN,GO:0004930,0.17178,G protein-coupled receptor activity
+sp|O95047|OR2A4_HUMAN,GO:0060089,0.16822,molecular transducer activity
+sp|O95047|OR2A4_HUMAN,GO:0038023,0.16680,signaling receptor activity
+sp|O95047|OR2A4_HUMAN,GO:0004888,0.14856,transmembrane signaling receptor activity
+sp|O95377|CXB5_HUMAN,GO:0140096,0.17359,"catalytic activity, acting on a protein"
+sp|O95377|CXB5_HUMAN,GO:0016788,0.12283,"hydrolase activity, acting on ester bonds"
+sp|O95377|CXB5_HUMAN,GO:0060089,0.10073,molecular transducer activity
+sp|Q92598|HS105_HUMAN,GO:0097367,0.61747,carbohydrate derivative binding
+sp|Q92598|HS105_HUMAN,GO:0032559,0.61147,adenyl ribonucleotide binding
+sp|Q92598|HS105_HUMAN,GO:0030554,0.61074,adenyl nucleotide binding
+sp|Q92598|HS105_HUMAN,GO:0005524,0.61031,ATP binding
+sp|Q92598|HS105_HUMAN,GO:0032555,0.60988,purine ribonucleotide binding
+sp|Q92598|HS105_HUMAN,GO:0017076,0.60855,purine nucleotide binding
+sp|Q92598|HS105_HUMAN,GO:0035639,0.60714,purine ribonucleoside triphosphate binding
+sp|Q92598|HS105_HUMAN,GO:0032553,0.60036,ribonucleotide binding
+sp|Q8IVL0|NAV3_HUMAN,GO:0097367,0.99463,carbohydrate derivative binding
+sp|Q8IVL0|NAV3_HUMAN,GO:0017076,0.99389,purine nucleotide binding
+sp|Q8IVL0|NAV3_HUMAN,GO:0032555,0.99348,purine ribonucleotide binding
+sp|Q8IVL0|NAV3_HUMAN,GO:0032553,0.99333,ribonucleotide binding
+sp|Q8IVL0|NAV3_HUMAN,GO:0035639,0.99332,purine ribonucleoside triphosphate binding
+sp|Q8IVL0|NAV3_HUMAN,GO:0030554,0.90407,adenyl nucleotide binding
+sp|Q8IVL0|NAV3_HUMAN,GO:0032559,0.89997,adenyl ribonucleotide binding
+sp|Q8IVL0|NAV3_HUMAN,GO:0005524,0.89729,ATP binding
+sp|Q8IVL0|NAV3_HUMAN,GO:0017111,0.28686,nucleoside-triphosphatase activity
+sp|Q8IVL0|NAV3_HUMAN,GO:0016462,0.14320,pyrophosphatase activity
+sp|Q8IVL0|NAV3_HUMAN,GO:0016817,0.13703,"hydrolase activity, acting on acid anhydrides"
+sp|Q8IVL0|NAV3_HUMAN,GO:0016818,0.13627,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q8IVL0|NAV3_HUMAN,GO:0016887,0.10660,ATPase activity
+sp|Q8TAZ6|CKLF2_HUMAN,GO:0003723,0.20130,RNA binding
+sp|Q8TAZ6|CKLF2_HUMAN,GO:0005198,0.13386,structural molecule activity
+sp|P46777|RL5_HUMAN,GO:0005198,0.79038,structural molecule activity
+sp|P46777|RL5_HUMAN,GO:0003735,0.70827,structural constituent of ribosome
+sp|P46777|RL5_HUMAN,GO:0003723,0.46892,RNA binding
+sp|P46777|RL5_HUMAN,GO:0019843,0.20733,rRNA binding
+sp|O75335|LIPA4_HUMAN,GO:0097367,0.15120,carbohydrate derivative binding
+sp|O75335|LIPA4_HUMAN,GO:0017076,0.14854,purine nucleotide binding
+sp|O75335|LIPA4_HUMAN,GO:0032553,0.14373,ribonucleotide binding
+sp|O75335|LIPA4_HUMAN,GO:0032555,0.11747,purine ribonucleotide binding
+sp|O75335|LIPA4_HUMAN,GO:0035639,0.11512,purine ribonucleoside triphosphate binding
+sp|O75335|LIPA4_HUMAN,GO:0030554,0.10759,adenyl nucleotide binding
+sp|Q6ZTQ3|RASF6_HUMAN,GO:0003677,0.21261,DNA binding
+sp|Q6ZTQ3|RASF6_HUMAN,GO:0097367,0.20623,carbohydrate derivative binding
+sp|Q6ZTQ3|RASF6_HUMAN,GO:0017076,0.19678,purine nucleotide binding
+sp|Q6ZTQ3|RASF6_HUMAN,GO:0032555,0.19641,purine ribonucleotide binding
+sp|Q6ZTQ3|RASF6_HUMAN,GO:0032553,0.19401,ribonucleotide binding
+sp|Q6ZTQ3|RASF6_HUMAN,GO:0035639,0.18908,purine ribonucleoside triphosphate binding
+sp|Q6ZTQ3|RASF6_HUMAN,GO:0030554,0.17834,adenyl nucleotide binding
+sp|Q6ZTQ3|RASF6_HUMAN,GO:0032559,0.17814,adenyl ribonucleotide binding
+sp|Q6ZTQ3|RASF6_HUMAN,GO:0005524,0.17345,ATP binding
+sp|Q6ZTQ3|RASF6_HUMAN,GO:0003723,0.13620,RNA binding
+sp|Q6ZTQ3|RASF6_HUMAN,GO:0140098,0.11836,"catalytic activity, acting on RNA"
+sp|Q3KP66|INAVA_HUMAN,GO:0003723,0.12719,RNA binding
+sp|Q93073|SBP2L_HUMAN,GO:0097367,0.10846,carbohydrate derivative binding
+sp|Q6ZR85|CQ107_HUMAN,GO:0003677,0.13939,DNA binding
+sp|Q6ZR85|CQ107_HUMAN,GO:0140096,0.10823,"catalytic activity, acting on a protein"
+sp|Q96KR7|PHAR3_HUMAN,GO:0003677,0.16837,DNA binding
+sp|Q96KR7|PHAR3_HUMAN,GO:0003723,0.11050,RNA binding
+sp|O75051|PLXA2_HUMAN,GO:0097367,0.14709,carbohydrate derivative binding
+sp|O75051|PLXA2_HUMAN,GO:0032555,0.12012,purine ribonucleotide binding
+sp|O75051|PLXA2_HUMAN,GO:0032553,0.11639,ribonucleotide binding
+sp|O75051|PLXA2_HUMAN,GO:0035639,0.11408,purine ribonucleoside triphosphate binding
+sp|O75051|PLXA2_HUMAN,GO:0017076,0.10545,purine nucleotide binding
+sp|Q96S53|TESK2_HUMAN,GO:0016773,0.87544,"phosphotransferase activity, alcohol group as acceptor"
+sp|Q96S53|TESK2_HUMAN,GO:0016301,0.85339,kinase activity
+sp|Q96S53|TESK2_HUMAN,GO:0004672,0.80511,protein kinase activity
+sp|Q96S53|TESK2_HUMAN,GO:0016772,0.78139,"transferase activity, transferring phosphorus-containing groups"
+sp|Q96S53|TESK2_HUMAN,GO:0140096,0.69366,"catalytic activity, acting on a protein"
+sp|Q96S53|TESK2_HUMAN,GO:0097367,0.43194,carbohydrate derivative binding
+sp|Q96S53|TESK2_HUMAN,GO:0032553,0.41033,ribonucleotide binding
+sp|Q96S53|TESK2_HUMAN,GO:0032559,0.39848,adenyl ribonucleotide binding
+sp|Q96S53|TESK2_HUMAN,GO:0005524,0.39712,ATP binding
+sp|Q96S53|TESK2_HUMAN,GO:0032555,0.39189,purine ribonucleotide binding
+sp|Q96S53|TESK2_HUMAN,GO:0030554,0.38776,adenyl nucleotide binding
+sp|Q96S53|TESK2_HUMAN,GO:0035639,0.38694,purine ribonucleoside triphosphate binding
+sp|Q96S53|TESK2_HUMAN,GO:0017076,0.38062,purine nucleotide binding
+sp|Q96S53|TESK2_HUMAN,GO:0004674,0.20060,protein serine/threonine kinase activity
+sp|Q00889|PSG6_HUMAN,GO:0140096,0.10144,"catalytic activity, acting on a protein"
+sp|P10721|KIT_HUMAN,GO:0032555,0.98619,purine ribonucleotide binding
+sp|P10721|KIT_HUMAN,GO:0035639,0.98581,purine ribonucleoside triphosphate binding
+sp|P10721|KIT_HUMAN,GO:0097367,0.98459,carbohydrate derivative binding
+sp|P10721|KIT_HUMAN,GO:0017076,0.98449,purine nucleotide binding
+sp|P10721|KIT_HUMAN,GO:0032553,0.98277,ribonucleotide binding
+sp|P10721|KIT_HUMAN,GO:0016773,0.97781,"phosphotransferase activity, alcohol group as acceptor"
+sp|P10721|KIT_HUMAN,GO:0016301,0.97741,kinase activity
+sp|P10721|KIT_HUMAN,GO:0032559,0.97055,adenyl ribonucleotide binding
+sp|P10721|KIT_HUMAN,GO:0005524,0.97007,ATP binding
+sp|P10721|KIT_HUMAN,GO:0030554,0.96692,adenyl nucleotide binding
+sp|P10721|KIT_HUMAN,GO:0016772,0.96689,"transferase activity, transferring phosphorus-containing groups"
+sp|P10721|KIT_HUMAN,GO:0004672,0.96319,protein kinase activity
+sp|P10721|KIT_HUMAN,GO:0140096,0.91202,"catalytic activity, acting on a protein"
+sp|P10721|KIT_HUMAN,GO:0004674,0.30661,protein serine/threonine kinase activity
+sp|Q9H2S6|TNMD_HUMAN,GO:0046914,0.34828,transition metal ion binding
+sp|Q9H2S6|TNMD_HUMAN,GO:0008270,0.15066,zinc ion binding
+sp|Q9H2S6|TNMD_HUMAN,GO:0051540,0.14664,metal cluster binding
+sp|Q9H2S6|TNMD_HUMAN,GO:0051536,0.14618,iron-sulfur cluster binding
+sp|Q9H2S6|TNMD_HUMAN,GO:0140096,0.13424,"catalytic activity, acting on a protein"
+sp|Q9H2S6|TNMD_HUMAN,GO:0051539,0.10252,"4 iron, 4 sulfur cluster binding"
+sp|P55290|CAD13_HUMAN,GO:0097367,0.21269,carbohydrate derivative binding
+sp|P55290|CAD13_HUMAN,GO:0032553,0.17726,ribonucleotide binding
+sp|P55290|CAD13_HUMAN,GO:0032555,0.17042,purine ribonucleotide binding
+sp|P55290|CAD13_HUMAN,GO:0017076,0.16508,purine nucleotide binding
+sp|P55290|CAD13_HUMAN,GO:0035639,0.16416,purine ribonucleoside triphosphate binding
+sp|Q69YG0|TMM42_HUMAN,GO:0005215,0.13868,transporter activity
+sp|Q69YG0|TMM42_HUMAN,GO:0009055,0.13269,electron transfer activity
+sp|Q69YG0|TMM42_HUMAN,GO:0022857,0.13054,transmembrane transporter activity
+sp|P0C7H9|U17L7_HUMAN,GO:0046914,0.23576,transition metal ion binding
+sp|P0C7H9|U17L7_HUMAN,GO:0140096,0.21443,"catalytic activity, acting on a protein"
+sp|P0C7H9|U17L7_HUMAN,GO:0008270,0.18784,zinc ion binding
+sp|P0C7H9|U17L7_HUMAN,GO:0003677,0.13592,DNA binding
+sp|P78329|CP4F2_HUMAN,GO:0046906,0.99755,tetrapyrrole binding
+sp|P78329|CP4F2_HUMAN,GO:0005506,0.99687,iron ion binding
+sp|P78329|CP4F2_HUMAN,GO:0020037,0.99654,heme binding
+sp|P78329|CP4F2_HUMAN,GO:0004497,0.99184,monooxygenase activity
+sp|P78329|CP4F2_HUMAN,GO:0016705,0.99151,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"
+sp|P78329|CP4F2_HUMAN,GO:0046914,0.98494,transition metal ion binding
+sp|P78329|CP4F2_HUMAN,GO:0016709,0.29536,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen"
+sp|P78329|CP4F2_HUMAN,GO:0016712,0.22229,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen"
+sp|P78329|CP4F2_HUMAN,GO:0008395,0.14000,steroid hydroxylase activity
+sp|O14807|RASM_HUMAN,GO:0019001,0.99949,guanyl nucleotide binding
+sp|O14807|RASM_HUMAN,GO:0032550,0.99947,purine ribonucleoside binding
+sp|O14807|RASM_HUMAN,GO:0001883,0.99946,purine nucleoside binding
+sp|O14807|RASM_HUMAN,GO:0005525,0.99946,GTP binding
+sp|O14807|RASM_HUMAN,GO:0032561,0.99945,guanyl ribonucleotide binding
+sp|O14807|RASM_HUMAN,GO:0032549,0.99943,ribonucleoside binding
+sp|O14807|RASM_HUMAN,GO:0001882,0.99941,nucleoside binding
+sp|O14807|RASM_HUMAN,GO:0032553,0.99460,ribonucleotide binding
+sp|O14807|RASM_HUMAN,GO:0017076,0.99398,purine nucleotide binding
+sp|O14807|RASM_HUMAN,GO:0097367,0.99365,carbohydrate derivative binding
+sp|O14807|RASM_HUMAN,GO:0032555,0.99301,purine ribonucleotide binding
+sp|O14807|RASM_HUMAN,GO:0035639,0.99276,purine ribonucleoside triphosphate binding
+sp|O14807|RASM_HUMAN,GO:0017111,0.97370,nucleoside-triphosphatase activity
+sp|O14807|RASM_HUMAN,GO:0003924,0.97171,GTPase activity
+sp|O14807|RASM_HUMAN,GO:0016818,0.96890,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|O14807|RASM_HUMAN,GO:0016817,0.96881,"hydrolase activity, acting on acid anhydrides"
+sp|O14807|RASM_HUMAN,GO:0016462,0.96581,pyrophosphatase activity
+sp|O14807|RASM_HUMAN,GO:0003723,0.25229,RNA binding
+sp|Q969U6|FBXW5_HUMAN,GO:0140096,0.19880,"catalytic activity, acting on a protein"
+sp|O14558|HSPB6_HUMAN,GO:0140098,0.14234,"catalytic activity, acting on RNA"
+sp|O14558|HSPB6_HUMAN,GO:0003677,0.13697,DNA binding
+sp|O14558|HSPB6_HUMAN,GO:0008168,0.13620,methyltransferase activity
+sp|O14558|HSPB6_HUMAN,GO:0016741,0.13238,"transferase activity, transferring one-carbon groups"
+sp|O14558|HSPB6_HUMAN,GO:0016788,0.12221,"hydrolase activity, acting on ester bonds"
+sp|O14558|HSPB6_HUMAN,GO:0003723,0.10808,RNA binding
+sp|O14558|HSPB6_HUMAN,GO:0140096,0.10065,"catalytic activity, acting on a protein"
+sp|Q2TB90|HKDC1_HUMAN,GO:0032553,0.90132,ribonucleotide binding
+sp|Q2TB90|HKDC1_HUMAN,GO:0097367,0.89210,carbohydrate derivative binding
+sp|Q2TB90|HKDC1_HUMAN,GO:0032555,0.86639,purine ribonucleotide binding
+sp|Q2TB90|HKDC1_HUMAN,GO:0035639,0.86480,purine ribonucleoside triphosphate binding
+sp|Q2TB90|HKDC1_HUMAN,GO:0017076,0.85753,purine nucleotide binding
+sp|Q2TB90|HKDC1_HUMAN,GO:0032559,0.83371,adenyl ribonucleotide binding
+sp|Q2TB90|HKDC1_HUMAN,GO:0005524,0.83301,ATP binding
+sp|Q2TB90|HKDC1_HUMAN,GO:0030554,0.82243,adenyl nucleotide binding
+sp|Q2TB90|HKDC1_HUMAN,GO:0016773,0.12771,"phosphotransferase activity, alcohol group as acceptor"
+sp|Q9UH17|ABC3B_HUMAN,GO:0140096,0.11070,"catalytic activity, acting on a protein"
+sp|Q9UH17|ABC3B_HUMAN,GO:0046914,0.10578,transition metal ion binding
+sp|P29218|IMPA1_HUMAN,GO:0003723,0.10023,RNA binding
+sp|Q86Z02|HIPK1_HUMAN,GO:0016301,0.92462,kinase activity
+sp|Q86Z02|HIPK1_HUMAN,GO:0016773,0.91779,"phosphotransferase activity, alcohol group as acceptor"
+sp|Q86Z02|HIPK1_HUMAN,GO:0140096,0.90778,"catalytic activity, acting on a protein"
+sp|Q86Z02|HIPK1_HUMAN,GO:0016772,0.90269,"transferase activity, transferring phosphorus-containing groups"
+sp|Q86Z02|HIPK1_HUMAN,GO:0004672,0.82939,protein kinase activity
+sp|Q86Z02|HIPK1_HUMAN,GO:0097367,0.72943,carbohydrate derivative binding
+sp|Q86Z02|HIPK1_HUMAN,GO:0032555,0.66853,purine ribonucleotide binding
+sp|Q86Z02|HIPK1_HUMAN,GO:0035639,0.66631,purine ribonucleoside triphosphate binding
+sp|Q86Z02|HIPK1_HUMAN,GO:0032553,0.65646,ribonucleotide binding
+sp|Q86Z02|HIPK1_HUMAN,GO:0017076,0.65070,purine nucleotide binding
+sp|Q86Z02|HIPK1_HUMAN,GO:0032559,0.62651,adenyl ribonucleotide binding
+sp|Q86Z02|HIPK1_HUMAN,GO:0005524,0.62508,ATP binding
+sp|Q86Z02|HIPK1_HUMAN,GO:0030554,0.60863,adenyl nucleotide binding
+sp|Q86Z02|HIPK1_HUMAN,GO:0004674,0.12419,protein serine/threonine kinase activity
+sp|P49685|GPR15_HUMAN,GO:0060089,0.39275,molecular transducer activity
+sp|P49685|GPR15_HUMAN,GO:0038023,0.37046,signaling receptor activity
+sp|P49685|GPR15_HUMAN,GO:0004888,0.33342,transmembrane signaling receptor activity
+sp|P49685|GPR15_HUMAN,GO:0004930,0.26701,G protein-coupled receptor activity
+sp|P49685|GPR15_HUMAN,GO:0140096,0.12382,"catalytic activity, acting on a protein"
+sp|Q7Z3Q1|S46A3_HUMAN,GO:0005215,0.18857,transporter activity
+sp|Q7Z3Q1|S46A3_HUMAN,GO:0022857,0.18376,transmembrane transporter activity
+sp|Q7Z3Q1|S46A3_HUMAN,GO:0015075,0.13230,ion transmembrane transporter activity
+sp|Q7Z3Q1|S46A3_HUMAN,GO:0038023,0.12413,signaling receptor activity
+sp|Q7Z3Q1|S46A3_HUMAN,GO:0015318,0.11766,inorganic molecular entity transmembrane transporter activity
+sp|Q7Z3Q1|S46A3_HUMAN,GO:0060089,0.11330,molecular transducer activity
+sp|Q9NTJ4|MA2C1_HUMAN,GO:0140096,0.14971,"catalytic activity, acting on a protein"
+sp|Q13585|MTR1L_HUMAN,GO:0038023,0.10551,signaling receptor activity
+sp|Q13585|MTR1L_HUMAN,GO:0046914,0.10087,transition metal ion binding
+sp|Q5JSZ5|PRC2B_HUMAN,GO:0097367,0.15297,carbohydrate derivative binding
+sp|Q5JSZ5|PRC2B_HUMAN,GO:0017076,0.13063,purine nucleotide binding
+sp|Q5JSZ5|PRC2B_HUMAN,GO:0003723,0.12942,RNA binding
+sp|Q5JSZ5|PRC2B_HUMAN,GO:0032553,0.12146,ribonucleotide binding
+sp|Q5JSZ5|PRC2B_HUMAN,GO:0032555,0.11456,purine ribonucleotide binding
+sp|Q5JSZ5|PRC2B_HUMAN,GO:0035639,0.11270,purine ribonucleoside triphosphate binding
+sp|Q9BW71|HIRP3_HUMAN,GO:0003677,0.22226,DNA binding
+sp|Q9BW71|HIRP3_HUMAN,GO:0097367,0.13629,carbohydrate derivative binding
+sp|Q9BW71|HIRP3_HUMAN,GO:0003723,0.13394,RNA binding
+sp|Q9BW71|HIRP3_HUMAN,GO:0030554,0.11950,adenyl nucleotide binding
+sp|Q9BW71|HIRP3_HUMAN,GO:0032553,0.11246,ribonucleotide binding
+sp|Q9BW71|HIRP3_HUMAN,GO:0032559,0.11229,adenyl ribonucleotide binding
+sp|Q9BW71|HIRP3_HUMAN,GO:0005524,0.10981,ATP binding
+sp|Q9BW71|HIRP3_HUMAN,GO:0017076,0.10609,purine nucleotide binding
+sp|O97980|HMHB1_HUMAN,GO:0003677,0.17149,DNA binding
+sp|O97980|HMHB1_HUMAN,GO:0098772,0.17097,molecular function regulator
+sp|O97980|HMHB1_HUMAN,GO:0140110,0.16150,transcription regulator activity
+sp|O97980|HMHB1_HUMAN,GO:0003700,0.13797,DNA-binding transcription factor activity
+sp|O97980|HMHB1_HUMAN,GO:0005126,0.12642,cytokine receptor binding
+sp|O97980|HMHB1_HUMAN,GO:0016788,0.12470,"hydrolase activity, acting on ester bonds"
+sp|O97980|HMHB1_HUMAN,GO:0030546,0.12299,signaling receptor activator activity
+sp|O97980|HMHB1_HUMAN,GO:0005125,0.12298,cytokine activity
+sp|O97980|HMHB1_HUMAN,GO:0048018,0.12287,receptor ligand activity
+sp|O97980|HMHB1_HUMAN,GO:0030545,0.12248,receptor regulator activity
+sp|O97980|HMHB1_HUMAN,GO:0003712,0.12181,transcription coregulator activity
+sp|O97980|HMHB1_HUMAN,GO:0046914,0.12111,transition metal ion binding
+sp|O97980|HMHB1_HUMAN,GO:0030234,0.11857,enzyme regulator activity
+sp|O97980|HMHB1_HUMAN,GO:0015035,0.11571,protein disulfide oxidoreductase activity
+sp|O97980|HMHB1_HUMAN,GO:0003723,0.11461,RNA binding
+sp|O97980|HMHB1_HUMAN,GO:0140096,0.11227,"catalytic activity, acting on a protein"
+sp|O97980|HMHB1_HUMAN,GO:0008047,0.10205,enzyme activator activity
+sp|O97980|HMHB1_HUMAN,GO:0019787,0.10200,ubiquitin-like protein transferase activity
+sp|O97980|HMHB1_HUMAN,GO:0004842,0.10181,ubiquitin-protein transferase activity
+sp|O97980|HMHB1_HUMAN,GO:0016895,0.10113,"exodeoxyribonuclease activity, producing 5'-phosphomonoesters"
+sp|O97980|HMHB1_HUMAN,GO:0003899,0.10019,DNA-directed 5'-3' RNA polymerase activity
+sp|O97980|HMHB1_HUMAN,GO:0004518,0.10001,nuclease activity
+sp|P31939|PUR9_HUMAN,GO:0016741,0.77341,"transferase activity, transferring one-carbon groups"
+sp|P31939|PUR9_HUMAN,GO:0016742,0.18340,"hydroxymethyl-, formyl- and related transferase activity"
+sp|P31939|PUR9_HUMAN,GO:0016810,0.13074,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+sp|Q03111|ENL_HUMAN,GO:0003677,0.14517,DNA binding
+sp|P55039|DRG2_HUMAN,GO:0017076,0.94281,purine nucleotide binding
+sp|P55039|DRG2_HUMAN,GO:0032553,0.94030,ribonucleotide binding
+sp|P55039|DRG2_HUMAN,GO:0032555,0.93843,purine ribonucleotide binding
+sp|P55039|DRG2_HUMAN,GO:0035639,0.93818,purine ribonucleoside triphosphate binding
+sp|P55039|DRG2_HUMAN,GO:0097367,0.93738,carbohydrate derivative binding
+sp|P55039|DRG2_HUMAN,GO:0032550,0.92627,purine ribonucleoside binding
+sp|P55039|DRG2_HUMAN,GO:0001883,0.92561,purine nucleoside binding
+sp|P55039|DRG2_HUMAN,GO:0005525,0.92548,GTP binding
+sp|P55039|DRG2_HUMAN,GO:0032549,0.92245,ribonucleoside binding
+sp|P55039|DRG2_HUMAN,GO:0001882,0.92191,nucleoside binding
+sp|P55039|DRG2_HUMAN,GO:0019001,0.92141,guanyl nucleotide binding
+sp|P55039|DRG2_HUMAN,GO:0032561,0.92045,guanyl ribonucleotide binding
+sp|P55039|DRG2_HUMAN,GO:0016462,0.29057,pyrophosphatase activity
+sp|P55039|DRG2_HUMAN,GO:0017111,0.28294,nucleoside-triphosphatase activity
+sp|P55039|DRG2_HUMAN,GO:0016817,0.27996,"hydrolase activity, acting on acid anhydrides"
+sp|P55039|DRG2_HUMAN,GO:0016818,0.27890,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|P55039|DRG2_HUMAN,GO:0003924,0.16473,GTPase activity
+sp|P55039|DRG2_HUMAN,GO:0003723,0.13398,RNA binding
+sp|P46663|BKRB1_HUMAN,GO:0060089,0.42951,molecular transducer activity
+sp|P46663|BKRB1_HUMAN,GO:0038023,0.38022,signaling receptor activity
+sp|P46663|BKRB1_HUMAN,GO:0004930,0.37379,G protein-coupled receptor activity
+sp|P46663|BKRB1_HUMAN,GO:0004888,0.37357,transmembrane signaling receptor activity
+sp|P46663|BKRB1_HUMAN,GO:0140096,0.10127,"catalytic activity, acting on a protein"
+sp|Q6IC83|CV042_HUMAN,GO:0046914,0.12560,transition metal ion binding
+sp|Q6IC83|CV042_HUMAN,GO:0098772,0.10465,molecular function regulator
+sp|Q6IC83|CV042_HUMAN,GO:0140096,0.10383,"catalytic activity, acting on a protein"
+sp|Q2VIR3|IF2GL_HUMAN,GO:0032550,0.99342,purine ribonucleoside binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0001883,0.99332,purine nucleoside binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0032549,0.99329,ribonucleoside binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0005525,0.99326,GTP binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0001882,0.99322,nucleoside binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0019001,0.99320,guanyl nucleotide binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0032561,0.99285,guanyl ribonucleotide binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0032555,0.97310,purine ribonucleotide binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0035639,0.97243,purine ribonucleoside triphosphate binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0017076,0.97181,purine nucleotide binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0032553,0.96911,ribonucleotide binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0097367,0.96755,carbohydrate derivative binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0003924,0.88243,GTPase activity
+sp|Q2VIR3|IF2GL_HUMAN,GO:0017111,0.80485,nucleoside-triphosphatase activity
+sp|Q2VIR3|IF2GL_HUMAN,GO:0016462,0.77193,pyrophosphatase activity
+sp|Q2VIR3|IF2GL_HUMAN,GO:0016817,0.75610,"hydrolase activity, acting on acid anhydrides"
+sp|Q2VIR3|IF2GL_HUMAN,GO:0016818,0.75550,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q2VIR3|IF2GL_HUMAN,GO:0003723,0.61839,RNA binding
+sp|Q2VIR3|IF2GL_HUMAN,GO:0045182,0.24179,translation regulator activity
+sp|Q2VIR3|IF2GL_HUMAN,GO:0008135,0.23803,"translation factor activity, RNA binding"
+sp|Q2VIR3|IF2GL_HUMAN,GO:0090079,0.23586,"translation regulator activity, nucleic acid binding"
+sp|O60669|MOT2_HUMAN,GO:0022857,0.13889,transmembrane transporter activity
+sp|O60669|MOT2_HUMAN,GO:0005215,0.13742,transporter activity
+sp|O60669|MOT2_HUMAN,GO:0140096,0.10134,"catalytic activity, acting on a protein"
+sp|Q6P1M9|ARMX5_HUMAN,GO:0003723,0.10670,RNA binding
+sp|P17661|DESM_HUMAN,GO:0017076,0.15388,purine nucleotide binding
+sp|P17661|DESM_HUMAN,GO:0003677,0.15367,DNA binding
+sp|P17661|DESM_HUMAN,GO:0030554,0.13997,adenyl nucleotide binding
+sp|P17661|DESM_HUMAN,GO:0097367,0.13746,carbohydrate derivative binding
+sp|P17661|DESM_HUMAN,GO:0032555,0.13040,purine ribonucleotide binding
+sp|P17661|DESM_HUMAN,GO:0035639,0.12649,purine ribonucleoside triphosphate binding
+sp|P17661|DESM_HUMAN,GO:0032553,0.12230,ribonucleotide binding
+sp|P17661|DESM_HUMAN,GO:0032559,0.11800,adenyl ribonucleotide binding
+sp|P17661|DESM_HUMAN,GO:0005524,0.11552,ATP binding
+sp|Q9NP31|SH22A_HUMAN,GO:0140096,0.18844,"catalytic activity, acting on a protein"
+sp|Q9NP31|SH22A_HUMAN,GO:0046914,0.13153,transition metal ion binding
+sp|O95371|OR2C1_HUMAN,GO:0060089,0.25678,molecular transducer activity
+sp|O95371|OR2C1_HUMAN,GO:0038023,0.22836,signaling receptor activity
+sp|O95371|OR2C1_HUMAN,GO:0004930,0.22537,G protein-coupled receptor activity
+sp|O95371|OR2C1_HUMAN,GO:0004888,0.21753,transmembrane signaling receptor activity
+sp|Q9H0M0|WWP1_HUMAN,GO:0140096,0.16775,"catalytic activity, acting on a protein"
+sp|Q9H0M0|WWP1_HUMAN,GO:0097367,0.10239,carbohydrate derivative binding
+sp|Q96KN4|LRAT1_HUMAN,GO:0046914,0.29077,transition metal ion binding
+sp|Q96KN4|LRAT1_HUMAN,GO:0008270,0.16781,zinc ion binding
+sp|Q96KN4|LRAT1_HUMAN,GO:0140096,0.13770,"catalytic activity, acting on a protein"
+sp|Q96KN4|LRAT1_HUMAN,GO:0051540,0.11678,metal cluster binding
+sp|Q96KN4|LRAT1_HUMAN,GO:0051536,0.11674,iron-sulfur cluster binding
+sp|Q96KN4|LRAT1_HUMAN,GO:0016788,0.10089,"hydrolase activity, acting on ester bonds"
+sp|Q8NC42|RN149_HUMAN,GO:0046914,0.11355,transition metal ion binding
+sp|Q13702|RAPSN_HUMAN,GO:0046914,0.16468,transition metal ion binding
+sp|Q13702|RAPSN_HUMAN,GO:0003677,0.15681,DNA binding
+sp|Q13702|RAPSN_HUMAN,GO:0008270,0.12647,zinc ion binding
+sp|Q13702|RAPSN_HUMAN,GO:0140096,0.11134,"catalytic activity, acting on a protein"
+sp|Q9BQS7|HEPH_HUMAN,GO:0140096,0.10701,"catalytic activity, acting on a protein"
+sp|Q6PEW1|ZCH12_HUMAN,GO:0003677,0.15075,DNA binding
+sp|Q6PEW1|ZCH12_HUMAN,GO:0046914,0.13678,transition metal ion binding
+sp|Q6PEW1|ZCH12_HUMAN,GO:0008270,0.11409,zinc ion binding
+sp|P0CE72|ONCO_HUMAN,GO:0003677,0.13143,DNA binding
+sp|P0CE72|ONCO_HUMAN,GO:0005509,0.12744,calcium ion binding
+sp|Q6UX40|TM107_HUMAN,GO:0005215,0.19821,transporter activity
+sp|Q6UX40|TM107_HUMAN,GO:0022857,0.18747,transmembrane transporter activity
+sp|Q6UX40|TM107_HUMAN,GO:0015075,0.15416,ion transmembrane transporter activity
+sp|Q6UX40|TM107_HUMAN,GO:0015318,0.12997,inorganic molecular entity transmembrane transporter activity
+sp|Q6UX40|TM107_HUMAN,GO:0009055,0.12911,electron transfer activity
+sp|Q6UX40|TM107_HUMAN,GO:0060089,0.10168,molecular transducer activity
+sp|Q6UX40|TM107_HUMAN,GO:0038023,0.10074,signaling receptor activity
+sp|P16452|EPB42_HUMAN,GO:0140096,0.13520,"catalytic activity, acting on a protein"
+sp|P16452|EPB42_HUMAN,GO:0097367,0.11013,carbohydrate derivative binding
+sp|P01709|LV208_HUMAN,GO:0003823,0.10392,antigen binding
+sp|P25105|PTAFR_HUMAN,GO:0060089,0.27475,molecular transducer activity
+sp|P25105|PTAFR_HUMAN,GO:0038023,0.27271,signaling receptor activity
+sp|P25105|PTAFR_HUMAN,GO:0004888,0.24305,transmembrane signaling receptor activity
+sp|P25105|PTAFR_HUMAN,GO:0004930,0.15914,G protein-coupled receptor activity
+sp|P25105|PTAFR_HUMAN,GO:0140096,0.10235,"catalytic activity, acting on a protein"
+sp|Q96JA3|PKHA8_HUMAN,GO:0140096,0.14533,"catalytic activity, acting on a protein"
+sp|Q96JA3|PKHA8_HUMAN,GO:0097367,0.12803,carbohydrate derivative binding
+sp|Q96JA3|PKHA8_HUMAN,GO:0032553,0.11387,ribonucleotide binding
+sp|P42261|GRIA1_HUMAN,GO:0022857,0.11580,transmembrane transporter activity
+sp|P42261|GRIA1_HUMAN,GO:0005215,0.11227,transporter activity
+sp|O96013|PAK4_HUMAN,GO:0016773,0.95308,"phosphotransferase activity, alcohol group as acceptor"
+sp|O96013|PAK4_HUMAN,GO:0016301,0.93480,kinase activity
+sp|O96013|PAK4_HUMAN,GO:0140096,0.88697,"catalytic activity, acting on a protein"
+sp|O96013|PAK4_HUMAN,GO:0016772,0.85092,"transferase activity, transferring phosphorus-containing groups"
+sp|O96013|PAK4_HUMAN,GO:0004672,0.84082,protein kinase activity
+sp|O96013|PAK4_HUMAN,GO:0097367,0.56255,carbohydrate derivative binding
+sp|O96013|PAK4_HUMAN,GO:0032559,0.53724,adenyl ribonucleotide binding
+sp|O96013|PAK4_HUMAN,GO:0005524,0.53301,ATP binding
+sp|O96013|PAK4_HUMAN,GO:0032553,0.52421,ribonucleotide binding
+sp|O96013|PAK4_HUMAN,GO:0032555,0.50275,purine ribonucleotide binding
+sp|O96013|PAK4_HUMAN,GO:0030554,0.50091,adenyl nucleotide binding
+sp|O96013|PAK4_HUMAN,GO:0035639,0.49575,purine ribonucleoside triphosphate binding
+sp|O96013|PAK4_HUMAN,GO:0017076,0.46604,purine nucleotide binding
+sp|O96013|PAK4_HUMAN,GO:0004674,0.18106,protein serine/threonine kinase activity
+sp|Q5VWC8|HACD4_HUMAN,GO:0009055,0.21486,electron transfer activity
+sp|Q5VWC8|HACD4_HUMAN,GO:0016651,0.20222,"oxidoreductase activity, acting on NAD(P)H"
+sp|Q5VWC8|HACD4_HUMAN,GO:0003954,0.13145,NADH dehydrogenase activity
+sp|Q5VWC8|HACD4_HUMAN,GO:0005215,0.13123,transporter activity
+sp|Q5VWC8|HACD4_HUMAN,GO:0050136,0.12986,NADH dehydrogenase (quinone) activity
+sp|Q5VWC8|HACD4_HUMAN,GO:0022857,0.12392,transmembrane transporter activity
+sp|Q5VWC8|HACD4_HUMAN,GO:0008137,0.12186,NADH dehydrogenase (ubiquinone) activity
+sp|Q5VWC8|HACD4_HUMAN,GO:0016655,0.11153,"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor"
+sp|Q5VWC8|HACD4_HUMAN,GO:0003955,0.10993,NAD(P)H dehydrogenase (quinone) activity
+sp|Q5VWC8|HACD4_HUMAN,GO:0015075,0.10955,ion transmembrane transporter activity
+sp|Q5VYM1|CI131_HUMAN,GO:0046914,0.17228,transition metal ion binding
+sp|O75157|T22D2_HUMAN,GO:0140096,0.12537,"catalytic activity, acting on a protein"
+sp|A0A286YF01|SCGR7_HUMAN,GO:0051536,0.63431,iron-sulfur cluster binding
+sp|A0A286YF01|SCGR7_HUMAN,GO:0051540,0.63225,metal cluster binding
+sp|A0A286YF01|SCGR7_HUMAN,GO:0051539,0.36936,"4 iron, 4 sulfur cluster binding"
+sp|A0A286YF01|SCGR7_HUMAN,GO:0090729,0.32793,toxin activity
+sp|A0A286YF01|SCGR7_HUMAN,GO:0005102,0.21594,signaling receptor binding
+sp|A0A286YF01|SCGR7_HUMAN,GO:0046914,0.14328,transition metal ion binding
+sp|A0A286YF01|SCGR7_HUMAN,GO:0004623,0.13439,phospholipase A2 activity
+sp|A0A286YF01|SCGR7_HUMAN,GO:0098772,0.11397,molecular function regulator
+sp|A0A286YF01|SCGR7_HUMAN,GO:0102567,0.10180,"phospholipase A2 activity (consuming 1,2-dipalmitoylphosphatidylcholine)"
+sp|A0A286YF01|SCGR7_HUMAN,GO:0102568,0.10147,"phospholipase A2 activity consuming 1,2-dioleoylphosphatidylethanolamine)"
+sp|P01036|CYTS_HUMAN,GO:0003677,0.10771,DNA binding
+sp|P56202|CATW_HUMAN,GO:0051536,0.14790,iron-sulfur cluster binding
+sp|P56202|CATW_HUMAN,GO:0051540,0.14778,metal cluster binding
+sp|P56202|CATW_HUMAN,GO:0046914,0.13659,transition metal ion binding
+sp|P56202|CATW_HUMAN,GO:0140096,0.12119,"catalytic activity, acting on a protein"
+sp|Q8TCB6|O51E1_HUMAN,GO:0097367,0.10393,carbohydrate derivative binding
+sp|Q8TCB6|O51E1_HUMAN,GO:0060089,0.10035,molecular transducer activity
+sp|Q9P031|TAP26_HUMAN,GO:0005198,0.56524,structural molecule activity
+sp|Q9P031|TAP26_HUMAN,GO:0003723,0.51906,RNA binding
+sp|Q9P031|TAP26_HUMAN,GO:0003735,0.40753,structural constituent of ribosome
+sp|Q92565|RPGF5_HUMAN,GO:0097367,0.14231,carbohydrate derivative binding
+sp|Q92565|RPGF5_HUMAN,GO:0032553,0.13901,ribonucleotide binding
+sp|Q92565|RPGF5_HUMAN,GO:0017076,0.12690,purine nucleotide binding
+sp|Q92565|RPGF5_HUMAN,GO:0003677,0.12419,DNA binding
+sp|Q92565|RPGF5_HUMAN,GO:0032555,0.11915,purine ribonucleotide binding
+sp|Q92565|RPGF5_HUMAN,GO:0035639,0.11473,purine ribonucleoside triphosphate binding
+sp|Q92565|RPGF5_HUMAN,GO:0030554,0.11182,adenyl nucleotide binding
+sp|Q92565|RPGF5_HUMAN,GO:0032559,0.10441,adenyl ribonucleotide binding
+sp|Q92565|RPGF5_HUMAN,GO:0005524,0.10184,ATP binding
+sp|Q8NGN8|OR4A4_HUMAN,GO:0060089,0.22341,molecular transducer activity
+sp|Q8NGN8|OR4A4_HUMAN,GO:0038023,0.18004,signaling receptor activity
+sp|Q8NGN8|OR4A4_HUMAN,GO:0004888,0.16695,transmembrane signaling receptor activity
+sp|Q8NGN8|OR4A4_HUMAN,GO:0004930,0.14514,G protein-coupled receptor activity
+sp|Q8NGN8|OR4A4_HUMAN,GO:0005215,0.13718,transporter activity
+sp|Q8NGN8|OR4A4_HUMAN,GO:0022857,0.13106,transmembrane transporter activity
+sp|Q8NGN8|OR4A4_HUMAN,GO:0140096,0.11468,"catalytic activity, acting on a protein"
+sp|Q8NGN8|OR4A4_HUMAN,GO:0015075,0.10248,ion transmembrane transporter activity
+sp|Q9H3L0|MMAD_HUMAN,GO:0097367,0.16491,carbohydrate derivative binding
+sp|Q9H3L0|MMAD_HUMAN,GO:0032553,0.14248,ribonucleotide binding
+sp|Q9H3L0|MMAD_HUMAN,GO:0140096,0.13485,"catalytic activity, acting on a protein"
+sp|Q9H3L0|MMAD_HUMAN,GO:0017076,0.12347,purine nucleotide binding
+sp|Q9H3L0|MMAD_HUMAN,GO:0032555,0.12165,purine ribonucleotide binding
+sp|Q9H3L0|MMAD_HUMAN,GO:0035639,0.11866,purine ribonucleoside triphosphate binding
+sp|Q8TC59|PIWL2_HUMAN,GO:0140096,0.15953,"catalytic activity, acting on a protein"
+sp|Q8TC59|PIWL2_HUMAN,GO:0003677,0.12184,DNA binding
+sp|Q8TC59|PIWL2_HUMAN,GO:0097367,0.12079,carbohydrate derivative binding
+sp|Q9H8X2|IPPK_HUMAN,GO:0046914,0.14464,transition metal ion binding
+sp|Q9H8X2|IPPK_HUMAN,GO:0097367,0.12934,carbohydrate derivative binding
+sp|Q9H8X2|IPPK_HUMAN,GO:0017076,0.11929,purine nucleotide binding
+sp|Q9H8X2|IPPK_HUMAN,GO:0032553,0.11856,ribonucleotide binding
+sp|Q9H8X2|IPPK_HUMAN,GO:0032555,0.11751,purine ribonucleotide binding
+sp|Q9H8X2|IPPK_HUMAN,GO:0035639,0.11447,purine ribonucleoside triphosphate binding
+sp|Q9H8X2|IPPK_HUMAN,GO:0140096,0.10326,"catalytic activity, acting on a protein"
+sp|O14966|RAB7L_HUMAN,GO:0032550,0.99026,purine ribonucleoside binding
+sp|O14966|RAB7L_HUMAN,GO:0001883,0.99011,purine nucleoside binding
+sp|O14966|RAB7L_HUMAN,GO:0005525,0.99001,GTP binding
+sp|O14966|RAB7L_HUMAN,GO:0019001,0.99000,guanyl nucleotide binding
+sp|O14966|RAB7L_HUMAN,GO:0032561,0.98951,guanyl ribonucleotide binding
+sp|O14966|RAB7L_HUMAN,GO:0032549,0.98930,ribonucleoside binding
+sp|O14966|RAB7L_HUMAN,GO:0001882,0.98894,nucleoside binding
+sp|O14966|RAB7L_HUMAN,GO:0032555,0.91023,purine ribonucleotide binding
+sp|O14966|RAB7L_HUMAN,GO:0017076,0.90819,purine nucleotide binding
+sp|O14966|RAB7L_HUMAN,GO:0035639,0.90575,purine ribonucleoside triphosphate binding
+sp|O14966|RAB7L_HUMAN,GO:0097367,0.90353,carbohydrate derivative binding
+sp|O14966|RAB7L_HUMAN,GO:0032553,0.89641,ribonucleotide binding
+sp|O14966|RAB7L_HUMAN,GO:0003924,0.82234,GTPase activity
+sp|O14966|RAB7L_HUMAN,GO:0017111,0.77674,nucleoside-triphosphatase activity
+sp|O14966|RAB7L_HUMAN,GO:0016818,0.75608,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|O14966|RAB7L_HUMAN,GO:0016817,0.75562,"hydrolase activity, acting on acid anhydrides"
+sp|O14966|RAB7L_HUMAN,GO:0016462,0.73456,pyrophosphatase activity
+sp|Q9Y4Y9|LSM5_HUMAN,GO:0003723,0.10148,RNA binding
+sp|Q9GZL8|BPEC1_HUMAN,GO:0140096,0.16238,"catalytic activity, acting on a protein"
+sp|Q9GZL8|BPEC1_HUMAN,GO:0016788,0.11991,"hydrolase activity, acting on ester bonds"
+sp|Q9GZL8|BPEC1_HUMAN,GO:0052689,0.11914,carboxylic ester hydrolase activity
+sp|Q9GZL8|BPEC1_HUMAN,GO:0098772,0.11010,molecular function regulator
+sp|Q9GZL8|BPEC1_HUMAN,GO:0097367,0.10376,carbohydrate derivative binding
+sp|Q5JPF3|AN36C_HUMAN,GO:0017076,0.16339,purine nucleotide binding
+sp|Q5JPF3|AN36C_HUMAN,GO:0097367,0.15753,carbohydrate derivative binding
+sp|Q5JPF3|AN36C_HUMAN,GO:0032555,0.13495,purine ribonucleotide binding
+sp|Q5JPF3|AN36C_HUMAN,GO:0035639,0.13207,purine ribonucleoside triphosphate binding
+sp|Q5JPF3|AN36C_HUMAN,GO:0032553,0.12854,ribonucleotide binding
+sp|Q5JPF3|AN36C_HUMAN,GO:0030554,0.11024,adenyl nucleotide binding
+sp|Q5JPF3|AN36C_HUMAN,GO:0003723,0.10470,RNA binding
+sp|Q96GX8|CP074_HUMAN,GO:0003677,0.12150,DNA binding
+sp|Q8NHP6|MSPD2_HUMAN,GO:0017076,0.13874,purine nucleotide binding
+sp|Q8NHP6|MSPD2_HUMAN,GO:0030554,0.12666,adenyl nucleotide binding
+sp|Q8NHP6|MSPD2_HUMAN,GO:0097367,0.11635,carbohydrate derivative binding
+sp|Q8NHP6|MSPD2_HUMAN,GO:0032553,0.11142,ribonucleotide binding
+sp|Q8NHP6|MSPD2_HUMAN,GO:0032555,0.11084,purine ribonucleotide binding
+sp|Q8NHP6|MSPD2_HUMAN,GO:0035639,0.10514,purine ribonucleoside triphosphate binding
+sp|Q8NHP6|MSPD2_HUMAN,GO:0140096,0.10179,"catalytic activity, acting on a protein"
+sp|Q8NHP6|MSPD2_HUMAN,GO:0032559,0.10086,adenyl ribonucleotide binding
+sp|P43353|AL3B1_HUMAN,GO:0016903,0.51126,"oxidoreductase activity, acting on the aldehyde or oxo group of donors"
+sp|P43353|AL3B1_HUMAN,GO:0016620,0.49122,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"
+sp|P43353|AL3B1_HUMAN,GO:0097367,0.16844,carbohydrate derivative binding
+sp|P43353|AL3B1_HUMAN,GO:0017076,0.16299,purine nucleotide binding
+sp|P43353|AL3B1_HUMAN,GO:0032553,0.16108,ribonucleotide binding
+sp|P43353|AL3B1_HUMAN,GO:0032555,0.15630,purine ribonucleotide binding
+sp|P43353|AL3B1_HUMAN,GO:0035639,0.15178,purine ribonucleoside triphosphate binding
+sp|P43353|AL3B1_HUMAN,GO:0030554,0.10391,adenyl nucleotide binding
+sp|Q15464|SHB_HUMAN,GO:0097367,0.10163,carbohydrate derivative binding
+sp|A6NM10|AQ12B_HUMAN,GO:0016741,0.13456,"transferase activity, transferring one-carbon groups"
+sp|Q9BW61|DDA1_HUMAN,GO:0003677,0.17177,DNA binding
+sp|Q9BW61|DDA1_HUMAN,GO:0005198,0.13391,structural molecule activity
+sp|Q9BW61|DDA1_HUMAN,GO:0140110,0.12753,transcription regulator activity
+sp|Q9BW61|DDA1_HUMAN,GO:0003723,0.11690,RNA binding
+sp|Q9BW61|DDA1_HUMAN,GO:0003735,0.10521,structural constituent of ribosome
+sp|Q9BW61|DDA1_HUMAN,GO:0003700,0.10446,DNA-binding transcription factor activity
+sp|Q8WV60|PTCD2_HUMAN,GO:0003677,0.15875,DNA binding
+sp|Q8WV60|PTCD2_HUMAN,GO:0140096,0.11491,"catalytic activity, acting on a protein"
+sp|Q5T1J6|F182A_HUMAN,GO:0046914,0.11155,transition metal ion binding
+sp|Q5T1J6|F182A_HUMAN,GO:0003723,0.10837,RNA binding
+sp|Q5T1J6|F182A_HUMAN,GO:0140096,0.10792,"catalytic activity, acting on a protein"
+sp|P41271|NBL1_HUMAN,GO:0046914,0.26803,transition metal ion binding
+sp|P41271|NBL1_HUMAN,GO:0051540,0.22788,metal cluster binding
+sp|P41271|NBL1_HUMAN,GO:0051536,0.22769,iron-sulfur cluster binding
+sp|P41271|NBL1_HUMAN,GO:0140096,0.13948,"catalytic activity, acting on a protein"
+sp|P41271|NBL1_HUMAN,GO:0009055,0.13734,electron transfer activity
+sp|P41271|NBL1_HUMAN,GO:0051539,0.12677,"4 iron, 4 sulfur cluster binding"
+sp|Q4AC94|C2CD3_HUMAN,GO:0097367,0.29749,carbohydrate derivative binding
+sp|Q4AC94|C2CD3_HUMAN,GO:0032555,0.28409,purine ribonucleotide binding
+sp|Q4AC94|C2CD3_HUMAN,GO:0035639,0.28181,purine ribonucleoside triphosphate binding
+sp|Q4AC94|C2CD3_HUMAN,GO:0017076,0.27125,purine nucleotide binding
+sp|Q4AC94|C2CD3_HUMAN,GO:0032553,0.26539,ribonucleotide binding
+sp|Q4AC94|C2CD3_HUMAN,GO:0032559,0.13832,adenyl ribonucleotide binding
+sp|Q4AC94|C2CD3_HUMAN,GO:0005524,0.13792,ATP binding
+sp|Q4AC94|C2CD3_HUMAN,GO:0030554,0.13005,adenyl nucleotide binding
+sp|Q14CZ8|HECAM_HUMAN,GO:0003677,0.14376,DNA binding
+sp|Q14CZ8|HECAM_HUMAN,GO:0097367,0.11174,carbohydrate derivative binding
+sp|Q14CZ8|HECAM_HUMAN,GO:0032553,0.10254,ribonucleotide binding
+sp|Q8NG41|NPB_HUMAN,GO:0003677,0.14944,DNA binding
+sp|Q9BQD3|KXDL1_HUMAN,GO:0003677,0.13422,DNA binding
+sp|Q9BQD3|KXDL1_HUMAN,GO:0140096,0.11849,"catalytic activity, acting on a protein"
+sp|Q9BQD3|KXDL1_HUMAN,GO:0098772,0.10824,molecular function regulator
+sp|Q9NPB6|PAR6A_HUMAN,GO:0140096,0.13474,"catalytic activity, acting on a protein"
+sp|Q9NPB6|PAR6A_HUMAN,GO:0097367,0.12635,carbohydrate derivative binding
+sp|Q9NPB6|PAR6A_HUMAN,GO:0032553,0.10437,ribonucleotide binding
+sp|Q9Y624|JAM1_HUMAN,GO:0140096,0.15746,"catalytic activity, acting on a protein"
+sp|Q9Y624|JAM1_HUMAN,GO:0005215,0.11484,transporter activity
+sp|Q9Y624|JAM1_HUMAN,GO:0022857,0.11469,transmembrane transporter activity
+sp|Q9BXM7|PINK1_HUMAN,GO:0016772,0.87849,"transferase activity, transferring phosphorus-containing groups"
+sp|Q9BXM7|PINK1_HUMAN,GO:0016773,0.80266,"phosphotransferase activity, alcohol group as acceptor"
+sp|Q9BXM7|PINK1_HUMAN,GO:0016301,0.79225,kinase activity
+sp|Q9BXM7|PINK1_HUMAN,GO:0140096,0.51821,"catalytic activity, acting on a protein"
+sp|Q9BXM7|PINK1_HUMAN,GO:0097367,0.37659,carbohydrate derivative binding
+sp|Q9BXM7|PINK1_HUMAN,GO:0004672,0.37400,protein kinase activity
+sp|Q9BXM7|PINK1_HUMAN,GO:0032553,0.36927,ribonucleotide binding
+sp|Q9BXM7|PINK1_HUMAN,GO:0032555,0.35519,purine ribonucleotide binding
+sp|Q9BXM7|PINK1_HUMAN,GO:0035639,0.35492,purine ribonucleoside triphosphate binding
+sp|Q9BXM7|PINK1_HUMAN,GO:0005524,0.35119,ATP binding
+sp|Q9BXM7|PINK1_HUMAN,GO:0032559,0.34720,adenyl ribonucleotide binding
+sp|Q9BXM7|PINK1_HUMAN,GO:0017076,0.33669,purine nucleotide binding
+sp|Q9BXM7|PINK1_HUMAN,GO:0030554,0.32937,adenyl nucleotide binding
+sp|P0C8F1|PATE4_HUMAN,GO:0003677,0.16442,DNA binding
+sp|P0C8F1|PATE4_HUMAN,GO:0140110,0.12143,transcription regulator activity
+sp|P0C8F1|PATE4_HUMAN,GO:0005102,0.11960,signaling receptor binding
+sp|P0C8F1|PATE4_HUMAN,GO:0098772,0.11929,molecular function regulator
+sp|P0C8F1|PATE4_HUMAN,GO:0003700,0.10195,DNA-binding transcription factor activity
+sp|Q9H3U5|MFSD1_HUMAN,GO:0022857,0.15886,transmembrane transporter activity
+sp|Q9H3U5|MFSD1_HUMAN,GO:0005215,0.15606,transporter activity
+sp|Q9H3U5|MFSD1_HUMAN,GO:0015075,0.10734,ion transmembrane transporter activity
+sp|Q9H3U5|MFSD1_HUMAN,GO:0140096,0.10057,"catalytic activity, acting on a protein"
+sp|Q9BTY7|HGH1_HUMAN,GO:0046914,0.14810,transition metal ion binding
+sp|Q9BTY7|HGH1_HUMAN,GO:0097367,0.14572,carbohydrate derivative binding
+sp|Q9BTY7|HGH1_HUMAN,GO:0032559,0.14220,adenyl ribonucleotide binding
+sp|Q9BTY7|HGH1_HUMAN,GO:0005524,0.14150,ATP binding
+sp|Q9BTY7|HGH1_HUMAN,GO:0032553,0.14125,ribonucleotide binding
+sp|Q9BTY7|HGH1_HUMAN,GO:0030554,0.13684,adenyl nucleotide binding
+sp|Q9BTY7|HGH1_HUMAN,GO:0032555,0.12560,purine ribonucleotide binding
+sp|Q9BTY7|HGH1_HUMAN,GO:0035639,0.12342,purine ribonucleoside triphosphate binding
+sp|Q9BTY7|HGH1_HUMAN,GO:0017076,0.12110,purine nucleotide binding
+sp|Q6IC98|GRAM4_HUMAN,GO:0140096,0.14242,"catalytic activity, acting on a protein"
+sp|Q6IC98|GRAM4_HUMAN,GO:0017076,0.12648,purine nucleotide binding
+sp|Q6IC98|GRAM4_HUMAN,GO:0097367,0.12427,carbohydrate derivative binding
+sp|Q6IC98|GRAM4_HUMAN,GO:0032555,0.12371,purine ribonucleotide binding
+sp|Q6IC98|GRAM4_HUMAN,GO:0032553,0.12083,ribonucleotide binding
+sp|Q6IC98|GRAM4_HUMAN,GO:0035639,0.11855,purine ribonucleoside triphosphate binding
+sp|Q6IC98|GRAM4_HUMAN,GO:0030554,0.11152,adenyl nucleotide binding
+sp|Q6IC98|GRAM4_HUMAN,GO:0032559,0.10929,adenyl ribonucleotide binding
+sp|Q6IC98|GRAM4_HUMAN,GO:0005524,0.10637,ATP binding
+sp|Q96R09|OR5B2_HUMAN,GO:0004930,0.54119,G protein-coupled receptor activity
+sp|Q96R09|OR5B2_HUMAN,GO:0004888,0.41420,transmembrane signaling receptor activity
+sp|Q96R09|OR5B2_HUMAN,GO:0038023,0.39816,signaling receptor activity
+sp|Q96R09|OR5B2_HUMAN,GO:0060089,0.39148,molecular transducer activity
+sp|Q96R09|OR5B2_HUMAN,GO:0005215,0.13440,transporter activity
+sp|Q96R09|OR5B2_HUMAN,GO:0022857,0.12621,transmembrane transporter activity
+sp|Q96R09|OR5B2_HUMAN,GO:0009055,0.10216,electron transfer activity
+sp|Q13206|DDX10_HUMAN,GO:0017076,0.99794,purine nucleotide binding
+sp|Q13206|DDX10_HUMAN,GO:0035639,0.99788,purine ribonucleoside triphosphate binding
+sp|Q13206|DDX10_HUMAN,GO:0032555,0.99784,purine ribonucleotide binding
+sp|Q13206|DDX10_HUMAN,GO:0016818,0.99771,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q13206|DDX10_HUMAN,GO:0016817,0.99769,"hydrolase activity, acting on acid anhydrides"
+sp|Q13206|DDX10_HUMAN,GO:0017111,0.99729,nucleoside-triphosphatase activity
+sp|Q13206|DDX10_HUMAN,GO:0032553,0.99724,ribonucleotide binding
+sp|Q13206|DDX10_HUMAN,GO:0016462,0.99716,pyrophosphatase activity
+sp|Q13206|DDX10_HUMAN,GO:0097367,0.99700,carbohydrate derivative binding
+sp|Q13206|DDX10_HUMAN,GO:0030554,0.99673,adenyl nucleotide binding
+sp|Q13206|DDX10_HUMAN,GO:0005524,0.99663,ATP binding
+sp|Q13206|DDX10_HUMAN,GO:0032559,0.99658,adenyl ribonucleotide binding
+sp|Q13206|DDX10_HUMAN,GO:0016887,0.99627,ATPase activity
+sp|Q13206|DDX10_HUMAN,GO:0004386,0.97498,helicase activity
+sp|Q13206|DDX10_HUMAN,GO:0140098,0.90499,"catalytic activity, acting on RNA"
+sp|Q13206|DDX10_HUMAN,GO:0003723,0.88768,RNA binding
+sp|Q13206|DDX10_HUMAN,GO:0003724,0.65773,RNA helicase activity
+sp|Q8TDY3|ACTT2_HUMAN,GO:0097367,0.16506,carbohydrate derivative binding
+sp|Q8TDY3|ACTT2_HUMAN,GO:0032559,0.15616,adenyl ribonucleotide binding
+sp|Q8TDY3|ACTT2_HUMAN,GO:0032553,0.15431,ribonucleotide binding
+sp|Q8TDY3|ACTT2_HUMAN,GO:0005524,0.15128,ATP binding
+sp|Q8TDY3|ACTT2_HUMAN,GO:0030554,0.14910,adenyl nucleotide binding
+sp|Q8TDY3|ACTT2_HUMAN,GO:0032555,0.14877,purine ribonucleotide binding
+sp|Q8TDY3|ACTT2_HUMAN,GO:0035639,0.14232,purine ribonucleoside triphosphate binding
+sp|Q8TDY3|ACTT2_HUMAN,GO:0017076,0.14153,purine nucleotide binding
+sp|Q8TDY3|ACTT2_HUMAN,GO:0016788,0.12035,"hydrolase activity, acting on ester bonds"
+sp|Q8TDY3|ACTT2_HUMAN,GO:0140096,0.11709,"catalytic activity, acting on a protein"
+sp|Q92535|PIGC_HUMAN,GO:0005215,0.13146,transporter activity
+sp|Q92535|PIGC_HUMAN,GO:0022857,0.12414,transmembrane transporter activity
+sp|Q9BZA5|TXNG2_HUMAN,GO:0140110,0.11137,transcription regulator activity
+sp|Q9BZA5|TXNG2_HUMAN,GO:0098772,0.10421,molecular function regulator
+sp|Q8NG35|D105A_HUMAN,GO:0003677,0.12000,DNA binding
+sp|Q8NG35|D105A_HUMAN,GO:0098772,0.11408,molecular function regulator
+sp|Q8NG35|D105A_HUMAN,GO:0009055,0.10657,electron transfer activity
+sp|P0DMU3|F231L_HUMAN,GO:0003677,0.14175,DNA binding
+sp|Q7L591|DOK3_HUMAN,GO:0140096,0.13818,"catalytic activity, acting on a protein"
+sp|Q7L591|DOK3_HUMAN,GO:0016741,0.10550,"transferase activity, transferring one-carbon groups"
+sp|Q6TFL3|CC171_HUMAN,GO:0003677,0.15688,DNA binding
+sp|Q6TFL3|CC171_HUMAN,GO:0030554,0.13414,adenyl nucleotide binding
+sp|Q6TFL3|CC171_HUMAN,GO:0017076,0.13330,purine nucleotide binding
+sp|Q6TFL3|CC171_HUMAN,GO:0097367,0.12917,carbohydrate derivative binding
+sp|Q6TFL3|CC171_HUMAN,GO:0032553,0.11827,ribonucleotide binding
+sp|Q6TFL3|CC171_HUMAN,GO:0032559,0.11500,adenyl ribonucleotide binding
+sp|Q6TFL3|CC171_HUMAN,GO:0032555,0.11439,purine ribonucleotide binding
+sp|Q6TFL3|CC171_HUMAN,GO:0005524,0.11333,ATP binding
+sp|Q6TFL3|CC171_HUMAN,GO:0035639,0.11196,purine ribonucleoside triphosphate binding
+sp|P08100|OPSD_HUMAN,GO:0004888,0.53262,transmembrane signaling receptor activity
+sp|P08100|OPSD_HUMAN,GO:0038023,0.49781,signaling receptor activity
+sp|P08100|OPSD_HUMAN,GO:0004930,0.47124,G protein-coupled receptor activity
+sp|P08100|OPSD_HUMAN,GO:0060089,0.43168,molecular transducer activity
+sp|P08100|OPSD_HUMAN,GO:0019842,0.32415,vitamin binding
+sp|P08100|OPSD_HUMAN,GO:0009881,0.18393,photoreceptor activity
+sp|Q96LR4|TAFA4_HUMAN,GO:0005102,0.11818,signaling receptor binding
+sp|Q96LR4|TAFA4_HUMAN,GO:0003677,0.11471,DNA binding
+sp|A8K554|ZN815_HUMAN,GO:0098772,0.19965,molecular function regulator
+sp|A8K554|ZN815_HUMAN,GO:0140096,0.14233,"catalytic activity, acting on a protein"
+sp|A8K554|ZN815_HUMAN,GO:0003677,0.13772,DNA binding
+sp|A8K554|ZN815_HUMAN,GO:0140110,0.12938,transcription regulator activity
+sp|A8K554|ZN815_HUMAN,GO:0030234,0.11216,enzyme regulator activity
+sp|Q9HDC5|JPH1_HUMAN,GO:0046914,0.11475,transition metal ion binding
+sp|Q15714|T22D1_HUMAN,GO:0008233,0.10874,peptidase activity
+sp|Q15714|T22D1_HUMAN,GO:0140096,0.10538,"catalytic activity, acting on a protein"
+sp|A0A096LP01|SIM26_HUMAN,GO:0003677,0.10266,DNA binding
+sp|Q9BWU1|CDK19_HUMAN,GO:0016773,0.99559,"phosphotransferase activity, alcohol group as acceptor"
+sp|Q9BWU1|CDK19_HUMAN,GO:0016301,0.99425,kinase activity
+sp|Q9BWU1|CDK19_HUMAN,GO:0016772,0.99138,"transferase activity, transferring phosphorus-containing groups"
+sp|Q9BWU1|CDK19_HUMAN,GO:0004672,0.98654,protein kinase activity
+sp|Q9BWU1|CDK19_HUMAN,GO:0140096,0.98196,"catalytic activity, acting on a protein"
+sp|Q9BWU1|CDK19_HUMAN,GO:0097367,0.85891,carbohydrate derivative binding
+sp|Q9BWU1|CDK19_HUMAN,GO:0005524,0.84693,ATP binding
+sp|Q9BWU1|CDK19_HUMAN,GO:0030554,0.84692,adenyl nucleotide binding
+sp|Q9BWU1|CDK19_HUMAN,GO:0032559,0.84396,adenyl ribonucleotide binding
+sp|Q9BWU1|CDK19_HUMAN,GO:0032553,0.80754,ribonucleotide binding
+sp|Q9BWU1|CDK19_HUMAN,GO:0035639,0.80080,purine ribonucleoside triphosphate binding
+sp|Q9BWU1|CDK19_HUMAN,GO:0017076,0.80065,purine nucleotide binding
+sp|Q9BWU1|CDK19_HUMAN,GO:0032555,0.79692,purine ribonucleotide binding
+sp|Q9BWU1|CDK19_HUMAN,GO:0004674,0.41284,protein serine/threonine kinase activity
+sp|P40261|NNMT_HUMAN,GO:0003677,0.19580,DNA binding
+sp|P40261|NNMT_HUMAN,GO:0008168,0.18308,methyltransferase activity
+sp|P40261|NNMT_HUMAN,GO:0016741,0.17753,"transferase activity, transferring one-carbon groups"
+sp|P40261|NNMT_HUMAN,GO:0140096,0.14013,"catalytic activity, acting on a protein"
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0017076,0.99137,purine nucleotide binding
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0032555,0.99130,purine ribonucleotide binding
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0035639,0.99110,purine ribonucleoside triphosphate binding
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0032553,0.99090,ribonucleotide binding
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0097367,0.99012,carbohydrate derivative binding
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0032559,0.93674,adenyl ribonucleotide binding
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0030554,0.93629,adenyl nucleotide binding
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0005524,0.93605,ATP binding
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0017111,0.57565,nucleoside-triphosphatase activity
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0016462,0.56551,pyrophosphatase activity
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0016817,0.55050,"hydrolase activity, acting on acid anhydrides"
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0016818,0.55032,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0016887,0.37477,ATPase activity
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0003677,0.35458,DNA binding
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0003924,0.12662,GTPase activity
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0140096,0.12511,"catalytic activity, acting on a protein"
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0140097,0.11916,"catalytic activity, acting on DNA"
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0016772,0.11412,"transferase activity, transferring phosphorus-containing groups"
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0001882,0.10977,nucleoside binding
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0032549,0.10938,ribonucleoside binding
+sp|Q9BRT8|ZNG1A_HUMAN,GO:0016301,0.10502,kinase activity
+sp|P05023|AT1A1_HUMAN,GO:0032553,0.96053,ribonucleotide binding
+sp|P05023|AT1A1_HUMAN,GO:0097367,0.95930,carbohydrate derivative binding
+sp|P05023|AT1A1_HUMAN,GO:0005524,0.95652,ATP binding
+sp|P05023|AT1A1_HUMAN,GO:0032559,0.95645,adenyl ribonucleotide binding
+sp|P05023|AT1A1_HUMAN,GO:0030554,0.95578,adenyl nucleotide binding
+sp|P05023|AT1A1_HUMAN,GO:0035639,0.95377,purine ribonucleoside triphosphate binding
+sp|P05023|AT1A1_HUMAN,GO:0032555,0.95345,purine ribonucleotide binding
+sp|P05023|AT1A1_HUMAN,GO:0017076,0.95245,purine nucleotide binding
+sp|P05023|AT1A1_HUMAN,GO:0015399,0.84698,primary active transmembrane transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0042626,0.84542,ATPase-coupled transmembrane transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0042625,0.84454,ATPase-coupled ion transmembrane transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0019829,0.83252,ATPase-coupled cation transmembrane transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0022804,0.83157,active transmembrane transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0022853,0.82505,active ion transmembrane transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0022857,0.81262,transmembrane transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0015075,0.81015,ion transmembrane transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0005215,0.80002,transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0022890,0.79269,inorganic cation transmembrane transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0008324,0.78209,cation transmembrane transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0015318,0.72761,inorganic molecular entity transmembrane transporter activity
+sp|P05023|AT1A1_HUMAN,GO:0046873,0.30304,metal ion transmembrane transporter activity
+sp|Q9P1P4|TAAR3_HUMAN,GO:0038023,0.23868,signaling receptor activity
+sp|Q9P1P4|TAAR3_HUMAN,GO:0004888,0.21562,transmembrane signaling receptor activity
+sp|Q9P1P4|TAAR3_HUMAN,GO:0060089,0.20291,molecular transducer activity
+sp|Q9P1P4|TAAR3_HUMAN,GO:0004930,0.14891,G protein-coupled receptor activity
+sp|Q9P1P4|TAAR3_HUMAN,GO:0140096,0.11944,"catalytic activity, acting on a protein"
+sp|Q6P2E9|EDC4_HUMAN,GO:0097367,0.45707,carbohydrate derivative binding
+sp|Q6P2E9|EDC4_HUMAN,GO:0032553,0.40518,ribonucleotide binding
+sp|Q6P2E9|EDC4_HUMAN,GO:0017076,0.38947,purine nucleotide binding
+sp|Q6P2E9|EDC4_HUMAN,GO:0032555,0.37546,purine ribonucleotide binding
+sp|Q6P2E9|EDC4_HUMAN,GO:0035639,0.37118,purine ribonucleoside triphosphate binding
+sp|Q6P2E9|EDC4_HUMAN,GO:0030554,0.33682,adenyl nucleotide binding
+sp|Q6P2E9|EDC4_HUMAN,GO:0032559,0.32330,adenyl ribonucleotide binding
+sp|Q6P2E9|EDC4_HUMAN,GO:0005524,0.32131,ATP binding
+sp|Q5MNZ9|WIPI1_HUMAN,GO:0140096,0.14061,"catalytic activity, acting on a protein"
+sp|Q96JM4|LRIQ1_HUMAN,GO:0017076,0.18991,purine nucleotide binding
+sp|Q96JM4|LRIQ1_HUMAN,GO:0097367,0.14951,carbohydrate derivative binding
+sp|Q96JM4|LRIQ1_HUMAN,GO:0032555,0.13966,purine ribonucleotide binding
+sp|Q96JM4|LRIQ1_HUMAN,GO:0035639,0.13768,purine ribonucleoside triphosphate binding
+sp|Q96JM4|LRIQ1_HUMAN,GO:0032553,0.12782,ribonucleotide binding
+sp|Q96JM4|LRIQ1_HUMAN,GO:0030554,0.11770,adenyl nucleotide binding
+sp|A6NGY1|FRG2C_HUMAN,GO:0003677,0.13501,DNA binding
+sp|A6NGY1|FRG2C_HUMAN,GO:0003723,0.11265,RNA binding
+sp|A6NGY1|FRG2C_HUMAN,GO:0140096,0.10412,"catalytic activity, acting on a protein"
+sp|Q9Y6U7|RN215_HUMAN,GO:0003677,0.13977,DNA binding
+sp|Q9Y6U7|RN215_HUMAN,GO:0003723,0.10437,RNA binding
+sp|Q96PB7|NOE3_HUMAN,GO:0140096,0.14030,"catalytic activity, acting on a protein"
+sp|Q15021|CND1_HUMAN,GO:0097367,0.17400,carbohydrate derivative binding
+sp|Q15021|CND1_HUMAN,GO:0032553,0.16673,ribonucleotide binding
+sp|Q15021|CND1_HUMAN,GO:0032555,0.16430,purine ribonucleotide binding
+sp|Q15021|CND1_HUMAN,GO:0035639,0.15532,purine ribonucleoside triphosphate binding
+sp|Q15021|CND1_HUMAN,GO:0017076,0.15470,purine nucleotide binding
+sp|P43234|CATO_HUMAN,GO:0140096,0.14357,"catalytic activity, acting on a protein"
+sp|Q8WVI0|SMIM4_HUMAN,GO:0003735,0.24203,structural constituent of ribosome
+sp|Q8WVI0|SMIM4_HUMAN,GO:0005198,0.23389,structural molecule activity
+sp|Q8WVI0|SMIM4_HUMAN,GO:0003677,0.21484,DNA binding
+sp|Q8WVI0|SMIM4_HUMAN,GO:0003723,0.11233,RNA binding
+sp|Q8WVI0|SMIM4_HUMAN,GO:0140110,0.11055,transcription regulator activity
+sp|Q8WVI0|SMIM4_HUMAN,GO:0003700,0.10653,DNA-binding transcription factor activity
+sp|A6NEK1|ARRD5_HUMAN,GO:0140096,0.14148,"catalytic activity, acting on a protein"
+sp|Q7RTY5|PRS48_HUMAN,GO:0140096,0.95562,"catalytic activity, acting on a protein"
+sp|Q7RTY5|PRS48_HUMAN,GO:0008233,0.94237,peptidase activity
+sp|Q7RTY5|PRS48_HUMAN,GO:0004175,0.89475,endopeptidase activity
+sp|Q7RTY5|PRS48_HUMAN,GO:0017171,0.86153,serine hydrolase activity
+sp|Q7RTY5|PRS48_HUMAN,GO:0008236,0.86085,serine-type peptidase activity
+sp|Q7RTY5|PRS48_HUMAN,GO:0004252,0.75100,serine-type endopeptidase activity
+sp|P57059|SIK1_HUMAN,GO:0016773,0.99718,"phosphotransferase activity, alcohol group as acceptor"
+sp|P57059|SIK1_HUMAN,GO:0016301,0.99677,kinase activity
+sp|P57059|SIK1_HUMAN,GO:0016772,0.99496,"transferase activity, transferring phosphorus-containing groups"
+sp|P57059|SIK1_HUMAN,GO:0004672,0.99092,protein kinase activity
+sp|P57059|SIK1_HUMAN,GO:0140096,0.97625,"catalytic activity, acting on a protein"
+sp|P57059|SIK1_HUMAN,GO:0032553,0.94202,ribonucleotide binding
+sp|P57059|SIK1_HUMAN,GO:0097367,0.94133,carbohydrate derivative binding
+sp|P57059|SIK1_HUMAN,GO:0035639,0.93129,purine ribonucleoside triphosphate binding
+sp|P57059|SIK1_HUMAN,GO:0032555,0.93083,purine ribonucleotide binding
+sp|P57059|SIK1_HUMAN,GO:0017076,0.92678,purine nucleotide binding
+sp|P57059|SIK1_HUMAN,GO:0005524,0.92272,ATP binding
+sp|P57059|SIK1_HUMAN,GO:0032559,0.92182,adenyl ribonucleotide binding
+sp|P57059|SIK1_HUMAN,GO:0030554,0.91753,adenyl nucleotide binding
+sp|P57059|SIK1_HUMAN,GO:0004674,0.62643,protein serine/threonine kinase activity
+sp|Q86YW7|GPHB5_HUMAN,GO:0046914,0.16692,transition metal ion binding
+sp|P98194|AT2C1_HUMAN,GO:0032555,0.93504,purine ribonucleotide binding
+sp|P98194|AT2C1_HUMAN,GO:0035639,0.93425,purine ribonucleoside triphosphate binding
+sp|P98194|AT2C1_HUMAN,GO:0017076,0.92693,purine nucleotide binding
+sp|P98194|AT2C1_HUMAN,GO:0032553,0.92649,ribonucleotide binding
+sp|P98194|AT2C1_HUMAN,GO:0097367,0.91840,carbohydrate derivative binding
+sp|P98194|AT2C1_HUMAN,GO:0005524,0.90080,ATP binding
+sp|P98194|AT2C1_HUMAN,GO:0032559,0.90050,adenyl ribonucleotide binding
+sp|P98194|AT2C1_HUMAN,GO:0030554,0.88895,adenyl nucleotide binding
+sp|P98194|AT2C1_HUMAN,GO:0042626,0.82799,ATPase-coupled transmembrane transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0015399,0.81886,primary active transmembrane transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0022804,0.81326,active transmembrane transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0015075,0.81246,ion transmembrane transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0022857,0.80963,transmembrane transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0005215,0.80119,transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0042625,0.80103,ATPase-coupled ion transmembrane transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0022853,0.78125,active ion transmembrane transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0019829,0.76115,ATPase-coupled cation transmembrane transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0022890,0.75640,inorganic cation transmembrane transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0008324,0.74982,cation transmembrane transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0015318,0.72379,inorganic molecular entity transmembrane transporter activity
+sp|P98194|AT2C1_HUMAN,GO:0046873,0.41132,metal ion transmembrane transporter activity
+sp|Q8N808|S35G3_HUMAN,GO:0140096,0.22455,"catalytic activity, acting on a protein"
+sp|Q9BUE6|ISCA1_HUMAN,GO:0051540,0.38758,metal cluster binding
+sp|Q9BUE6|ISCA1_HUMAN,GO:0051536,0.38714,iron-sulfur cluster binding
+sp|Q9BUE6|ISCA1_HUMAN,GO:0051539,0.19778,"4 iron, 4 sulfur cluster binding"
+sp|Q9BUE6|ISCA1_HUMAN,GO:0003723,0.17719,RNA binding
+sp|Q9BUE6|ISCA1_HUMAN,GO:0005198,0.10967,structural molecule activity
+sp|Q9BUE6|ISCA1_HUMAN,GO:0046914,0.10605,transition metal ion binding
+sp|O75387|LAT3_HUMAN,GO:0009055,0.10328,electron transfer activity
+sp|Q8NC69|KCTD6_HUMAN,GO:0140096,0.16173,"catalytic activity, acting on a protein"
+sp|Q8NC69|KCTD6_HUMAN,GO:0098772,0.10682,molecular function regulator
+sp|Q8NC69|KCTD6_HUMAN,GO:0016788,0.10272,"hydrolase activity, acting on ester bonds"
+sp|Q9H173|SIL1_HUMAN,GO:0003677,0.10265,DNA binding
+sp|O75711|SCRG1_HUMAN,GO:0005102,0.12773,signaling receptor binding
+sp|O75711|SCRG1_HUMAN,GO:0098772,0.11849,molecular function regulator
+sp|Q9BXP8|PAPP2_HUMAN,GO:0140096,0.62127,"catalytic activity, acting on a protein"
+sp|Q9BXP8|PAPP2_HUMAN,GO:0008233,0.53276,peptidase activity
+sp|Q9BXP8|PAPP2_HUMAN,GO:0008237,0.23854,metallopeptidase activity
+sp|Q9BXP8|PAPP2_HUMAN,GO:0046914,0.20576,transition metal ion binding
+sp|Q9BXP8|PAPP2_HUMAN,GO:0004175,0.14159,endopeptidase activity
+sp|Q15269|PWP2_HUMAN,GO:0097367,0.22292,carbohydrate derivative binding
+sp|Q15269|PWP2_HUMAN,GO:0032555,0.19817,purine ribonucleotide binding
+sp|Q15269|PWP2_HUMAN,GO:0017076,0.19531,purine nucleotide binding
+sp|Q15269|PWP2_HUMAN,GO:0032553,0.19368,ribonucleotide binding
+sp|Q15269|PWP2_HUMAN,GO:0035639,0.19132,purine ribonucleoside triphosphate binding
+sp|P32969|RL9_HUMAN,GO:0003735,0.63671,structural constituent of ribosome
+sp|P32969|RL9_HUMAN,GO:0005198,0.57541,structural molecule activity
+sp|P32969|RL9_HUMAN,GO:0003723,0.49367,RNA binding
+sp|P32969|RL9_HUMAN,GO:0019843,0.35109,rRNA binding
+sp|P32969|RL9_HUMAN,GO:0003677,0.13876,DNA binding
+sp|Q9Y5J1|UTP18_HUMAN,GO:0003723,0.37855,RNA binding
+sp|Q9Y5J1|UTP18_HUMAN,GO:0005198,0.16984,structural molecule activity
+sp|Q9BQ51|PD1L2_HUMAN,GO:0060089,0.10427,molecular transducer activity
+sp|Q96S38|KS6C1_HUMAN,GO:0016772,0.88990,"transferase activity, transferring phosphorus-containing groups"
+sp|Q96S38|KS6C1_HUMAN,GO:0016301,0.88984,kinase activity
+sp|Q96S38|KS6C1_HUMAN,GO:0016773,0.82719,"phosphotransferase activity, alcohol group as acceptor"
+sp|Q96S38|KS6C1_HUMAN,GO:0140096,0.81483,"catalytic activity, acting on a protein"
+sp|Q96S38|KS6C1_HUMAN,GO:0004672,0.80925,protein kinase activity
+sp|Q96S38|KS6C1_HUMAN,GO:0097367,0.51386,carbohydrate derivative binding
+sp|Q96S38|KS6C1_HUMAN,GO:0030554,0.50727,adenyl nucleotide binding
+sp|Q96S38|KS6C1_HUMAN,GO:0032553,0.49067,ribonucleotide binding
+sp|Q96S38|KS6C1_HUMAN,GO:0032559,0.48770,adenyl ribonucleotide binding
+sp|Q96S38|KS6C1_HUMAN,GO:0005524,0.48564,ATP binding
+sp|Q96S38|KS6C1_HUMAN,GO:0017076,0.48455,purine nucleotide binding
+sp|Q96S38|KS6C1_HUMAN,GO:0032555,0.46444,purine ribonucleotide binding
+sp|Q96S38|KS6C1_HUMAN,GO:0035639,0.46227,purine ribonucleoside triphosphate binding
+sp|Q96S38|KS6C1_HUMAN,GO:0004674,0.21842,protein serine/threonine kinase activity
+sp|A6NLX4|TM210_HUMAN,GO:0003677,0.10935,DNA binding
+sp|A6NLX4|TM210_HUMAN,GO:0140096,0.10225,"catalytic activity, acting on a protein"
+sp|O95864|FADS2_HUMAN,GO:0140096,0.11975,"catalytic activity, acting on a protein"
+sp|Q495Y7|SPDE7_HUMAN,GO:0003677,0.26422,DNA binding
+sp|Q495Y7|SPDE7_HUMAN,GO:0140110,0.16516,transcription regulator activity
+sp|Q495Y7|SPDE7_HUMAN,GO:0043565,0.14330,sequence-specific DNA binding
+sp|Q495Y7|SPDE7_HUMAN,GO:0003700,0.13804,DNA-binding transcription factor activity
+sp|Q495Y7|SPDE7_HUMAN,GO:0016788,0.10272,"hydrolase activity, acting on ester bonds"
+sp|Q9H788|SH24A_HUMAN,GO:0003677,0.15731,DNA binding
+sp|Q9H788|SH24A_HUMAN,GO:0003723,0.11288,RNA binding
+sp|Q6P597|KLC3_HUMAN,GO:0097367,0.14036,carbohydrate derivative binding
+sp|Q6P597|KLC3_HUMAN,GO:0032553,0.13875,ribonucleotide binding
+sp|Q6P597|KLC3_HUMAN,GO:0017076,0.13859,purine nucleotide binding
+sp|Q6P597|KLC3_HUMAN,GO:0032555,0.13476,purine ribonucleotide binding
+sp|Q6P597|KLC3_HUMAN,GO:0035639,0.13224,purine ribonucleoside triphosphate binding
+sp|O43916|CHST1_HUMAN,GO:0003677,0.11028,DNA binding
+sp|P50406|5HT6R_HUMAN,GO:0140096,0.12172,"catalytic activity, acting on a protein"
+sp|P50406|5HT6R_HUMAN,GO:0038023,0.11178,signaling receptor activity
+sp|P50406|5HT6R_HUMAN,GO:0060089,0.10652,molecular transducer activity
+sp|Q02127|PYRD_HUMAN,GO:0016627,0.76905,"oxidoreductase activity, acting on the CH-CH group of donors"
+sp|Q02127|PYRD_HUMAN,GO:0016635,0.64001,"oxidoreductase activity, acting on the CH-CH group of donors, quinone or related compound as acceptor"
+sp|Q7Z5H4|VN1R5_HUMAN,GO:0060089,0.15383,molecular transducer activity
+sp|Q7Z5H4|VN1R5_HUMAN,GO:0140096,0.15093,"catalytic activity, acting on a protein"
+sp|Q7Z5H4|VN1R5_HUMAN,GO:0038023,0.12664,signaling receptor activity
+sp|Q7Z5H4|VN1R5_HUMAN,GO:0005215,0.11653,transporter activity
+sp|Q7Z5H4|VN1R5_HUMAN,GO:0009055,0.11253,electron transfer activity
+sp|Q7Z5H4|VN1R5_HUMAN,GO:0022857,0.11220,transmembrane transporter activity
+sp|Q7Z5H4|VN1R5_HUMAN,GO:0004888,0.11022,transmembrane signaling receptor activity
+sp|Q7Z4K8|TRI46_HUMAN,GO:0046914,0.14891,transition metal ion binding
+sp|Q7Z4K8|TRI46_HUMAN,GO:0140096,0.11404,"catalytic activity, acting on a protein"
+sp|Q16584|M3K11_HUMAN,GO:0097367,0.66556,carbohydrate derivative binding
+sp|Q16584|M3K11_HUMAN,GO:0016301,0.64763,kinase activity
+sp|Q16584|M3K11_HUMAN,GO:0032553,0.64686,ribonucleotide binding
+sp|Q16584|M3K11_HUMAN,GO:0030554,0.62732,adenyl nucleotide binding
+sp|Q16584|M3K11_HUMAN,GO:0016773,0.61292,"phosphotransferase activity, alcohol group as acceptor"
+sp|Q16584|M3K11_HUMAN,GO:0005524,0.61249,ATP binding
+sp|Q16584|M3K11_HUMAN,GO:0032559,0.60907,adenyl ribonucleotide binding
+sp|Q16584|M3K11_HUMAN,GO:0016772,0.57867,"transferase activity, transferring phosphorus-containing groups"
+sp|Q16584|M3K11_HUMAN,GO:0017076,0.56556,purine nucleotide binding
+sp|Q16584|M3K11_HUMAN,GO:0035639,0.54734,purine ribonucleoside triphosphate binding
+sp|Q16584|M3K11_HUMAN,GO:0032555,0.54644,purine ribonucleotide binding
+sp|Q16584|M3K11_HUMAN,GO:0004672,0.36779,protein kinase activity
+sp|Q16584|M3K11_HUMAN,GO:0140096,0.35982,"catalytic activity, acting on a protein"
+sp|Q7Z5H3|RHG22_HUMAN,GO:0003723,0.11457,RNA binding
+sp|Q7Z5H3|RHG22_HUMAN,GO:0097367,0.10930,carbohydrate derivative binding
+sp|P04259|K2C6B_HUMAN,GO:0097367,0.18739,carbohydrate derivative binding
+sp|P04259|K2C6B_HUMAN,GO:0032553,0.11624,ribonucleotide binding
+sp|P04259|K2C6B_HUMAN,GO:0017076,0.10307,purine nucleotide binding
+sp|Q8NFP0|PXT1_HUMAN,GO:0003677,0.13503,DNA binding
+sp|Q8NFP0|PXT1_HUMAN,GO:0140096,0.12770,"catalytic activity, acting on a protein"
+sp|Q8NFP0|PXT1_HUMAN,GO:0098772,0.10871,molecular function regulator
+sp|Q8NFP0|PXT1_HUMAN,GO:0016788,0.10158,"hydrolase activity, acting on ester bonds"
+sp|Q96LA9|MRGX4_HUMAN,GO:0038023,0.31513,signaling receptor activity
+sp|Q96LA9|MRGX4_HUMAN,GO:0060089,0.31245,molecular transducer activity
+sp|Q96LA9|MRGX4_HUMAN,GO:0004888,0.28105,transmembrane signaling receptor activity
+sp|Q96LA9|MRGX4_HUMAN,GO:0005215,0.19729,transporter activity
+sp|Q96LA9|MRGX4_HUMAN,GO:0022857,0.18490,transmembrane transporter activity
+sp|Q96LA9|MRGX4_HUMAN,GO:0004930,0.17608,G protein-coupled receptor activity
+sp|Q96LA9|MRGX4_HUMAN,GO:0015075,0.14211,ion transmembrane transporter activity
+sp|Q96LA9|MRGX4_HUMAN,GO:0015318,0.13715,inorganic molecular entity transmembrane transporter activity
+sp|Q96LA9|MRGX4_HUMAN,GO:0022836,0.10553,gated channel activity
+sp|A6NDN8|UBIML_HUMAN,GO:0003677,0.13990,DNA binding
+sp|A6NDN8|UBIML_HUMAN,GO:0003735,0.13187,structural constituent of ribosome
+sp|A6NDN8|UBIML_HUMAN,GO:0005198,0.12895,structural molecule activity
+sp|A6NDN8|UBIML_HUMAN,GO:0003723,0.11424,RNA binding
+sp|Q16690|DUS5_HUMAN,GO:0140096,0.20590,"catalytic activity, acting on a protein"
+sp|Q16690|DUS5_HUMAN,GO:0016788,0.13240,"hydrolase activity, acting on ester bonds"
+sp|Q9BQE6|LBHD1_HUMAN,GO:0140096,0.11824,"catalytic activity, acting on a protein"
+sp|Q2Q1W2|LIN41_HUMAN,GO:0097367,0.21969,carbohydrate derivative binding
+sp|Q2Q1W2|LIN41_HUMAN,GO:0017076,0.21429,purine nucleotide binding
+sp|Q2Q1W2|LIN41_HUMAN,GO:0032555,0.20980,purine ribonucleotide binding
+sp|Q2Q1W2|LIN41_HUMAN,GO:0035639,0.20853,purine ribonucleoside triphosphate binding
+sp|Q2Q1W2|LIN41_HUMAN,GO:0032553,0.19701,ribonucleotide binding
+sp|Q2Q1W2|LIN41_HUMAN,GO:0030554,0.18575,adenyl nucleotide binding
+sp|Q2Q1W2|LIN41_HUMAN,GO:0005524,0.18255,ATP binding
+sp|Q2Q1W2|LIN41_HUMAN,GO:0032559,0.18188,adenyl ribonucleotide binding
+sp|Q8NFM4|ADCY4_HUMAN,GO:0097367,0.26980,carbohydrate derivative binding
+sp|Q8NFM4|ADCY4_HUMAN,GO:0032553,0.25441,ribonucleotide binding
+sp|Q8NFM4|ADCY4_HUMAN,GO:0032555,0.24727,purine ribonucleotide binding
+sp|Q8NFM4|ADCY4_HUMAN,GO:0035639,0.23560,purine ribonucleoside triphosphate binding
+sp|Q8NFM4|ADCY4_HUMAN,GO:0017076,0.23004,purine nucleotide binding
+sp|Q8NFM4|ADCY4_HUMAN,GO:0032559,0.22582,adenyl ribonucleotide binding
+sp|Q8NFM4|ADCY4_HUMAN,GO:0005524,0.22346,ATP binding
+sp|Q8NFM4|ADCY4_HUMAN,GO:0030554,0.20970,adenyl nucleotide binding
+sp|Q8NFM4|ADCY4_HUMAN,GO:0140096,0.17914,"catalytic activity, acting on a protein"
+sp|O95453|PARN_HUMAN,GO:0003677,0.10125,DNA binding
+sp|Q9GZU7|CTDS1_HUMAN,GO:0003677,0.17862,DNA binding
+sp|Q9GZU7|CTDS1_HUMAN,GO:0140096,0.13706,"catalytic activity, acting on a protein"
+sp|Q9GZU7|CTDS1_HUMAN,GO:0046914,0.10120,transition metal ion binding
+sp|Q6B8I1|DS13A_HUMAN,GO:0016788,0.25036,"hydrolase activity, acting on ester bonds"
+sp|Q6B8I1|DS13A_HUMAN,GO:0042578,0.20964,phosphoric ester hydrolase activity
+sp|Q6B8I1|DS13A_HUMAN,GO:0016791,0.16955,phosphatase activity
+sp|Q6B8I1|DS13A_HUMAN,GO:0140096,0.14431,"catalytic activity, acting on a protein"
+sp|Q6B8I1|DS13A_HUMAN,GO:0003677,0.10853,DNA binding
+sp|A0A1B0GX68|TVB2_HUMAN,GO:0003677,0.10586,DNA binding
+sp|A0A1B0GX68|TVB2_HUMAN,GO:0098772,0.10446,molecular function regulator
+sp|Q5T011|SZT2_HUMAN,GO:0097367,0.60030,carbohydrate derivative binding
+sp|Q5T011|SZT2_HUMAN,GO:0035639,0.57703,purine ribonucleoside triphosphate binding
+sp|Q5T011|SZT2_HUMAN,GO:0032555,0.57336,purine ribonucleotide binding
+sp|Q5T011|SZT2_HUMAN,GO:0017076,0.56315,purine nucleotide binding
+sp|Q5T011|SZT2_HUMAN,GO:0032553,0.55587,ribonucleotide binding
+sp|Q5T011|SZT2_HUMAN,GO:0005524,0.32716,ATP binding
+sp|Q5T011|SZT2_HUMAN,GO:0032559,0.32245,adenyl ribonucleotide binding
+sp|Q5T011|SZT2_HUMAN,GO:0030554,0.31198,adenyl nucleotide binding
+sp|Q9NQ35|NRIP3_HUMAN,GO:0003677,0.20105,DNA binding
+sp|Q9NQ35|NRIP3_HUMAN,GO:0003723,0.15460,RNA binding
+sp|Q9NQ35|NRIP3_HUMAN,GO:0097367,0.12863,carbohydrate derivative binding
+sp|Q9NQ35|NRIP3_HUMAN,GO:0140098,0.12500,"catalytic activity, acting on RNA"
+sp|Q9NQ35|NRIP3_HUMAN,GO:0032553,0.11773,ribonucleotide binding
+sp|Q9NQ35|NRIP3_HUMAN,GO:0017076,0.11630,purine nucleotide binding
+sp|Q9NQ35|NRIP3_HUMAN,GO:0016788,0.11558,"hydrolase activity, acting on ester bonds"
+sp|Q9NQ35|NRIP3_HUMAN,GO:0032555,0.11414,purine ribonucleotide binding
+sp|Q9NQ35|NRIP3_HUMAN,GO:0035639,0.11160,purine ribonucleoside triphosphate binding
+sp|Q96QA6|YPEL2_HUMAN,GO:0046914,0.31780,transition metal ion binding
+sp|Q96QA6|YPEL2_HUMAN,GO:0051540,0.16743,metal cluster binding
+sp|Q96QA6|YPEL2_HUMAN,GO:0051536,0.16721,iron-sulfur cluster binding
+sp|Q96QA6|YPEL2_HUMAN,GO:0008270,0.16377,zinc ion binding
+sp|Q96QA6|YPEL2_HUMAN,GO:0009055,0.11286,electron transfer activity
+sp|Q96QA6|YPEL2_HUMAN,GO:0005506,0.10528,iron ion binding
+sp|Q96QA6|YPEL2_HUMAN,GO:0140096,0.10475,"catalytic activity, acting on a protein"
+sp|Q8N4S0|CCD82_HUMAN,GO:0003677,0.17119,DNA binding
+sp|Q8N4S0|CCD82_HUMAN,GO:0140096,0.15312,"catalytic activity, acting on a protein"
+sp|Q8N4S0|CCD82_HUMAN,GO:0008270,0.12448,zinc ion binding
+sp|Q8N4S0|CCD82_HUMAN,GO:0046914,0.12080,transition metal ion binding
+sp|Q99689|FEZ1_HUMAN,GO:0140096,0.19760,"catalytic activity, acting on a protein"
+sp|Q99689|FEZ1_HUMAN,GO:0003677,0.14987,DNA binding
+sp|Q99689|FEZ1_HUMAN,GO:0097367,0.10285,carbohydrate derivative binding
+sp|Q9BTK2|YX002_HUMAN,GO:0003735,0.28965,structural constituent of ribosome
+sp|Q9BTK2|YX002_HUMAN,GO:0003677,0.23076,DNA binding
+sp|Q9BTK2|YX002_HUMAN,GO:0005198,0.21916,structural molecule activity
+sp|Q9BTK2|YX002_HUMAN,GO:0140110,0.17105,transcription regulator activity
+sp|Q9BTK2|YX002_HUMAN,GO:0003700,0.15617,DNA-binding transcription factor activity
+sp|Q9BTK2|YX002_HUMAN,GO:0003723,0.14253,RNA binding
+sp|Q9BTK2|YX002_HUMAN,GO:0019843,0.14238,rRNA binding
+sp|Q9BTK2|YX002_HUMAN,GO:0098772,0.13484,molecular function regulator
+sp|Q9BTK2|YX002_HUMAN,GO:0043565,0.11169,sequence-specific DNA binding
+sp|Q9BTK2|YX002_HUMAN,GO:0046914,0.10718,transition metal ion binding
+sp|Q9BTK2|YX002_HUMAN,GO:0030545,0.10419,receptor regulator activity
+sp|Q9BTK2|YX002_HUMAN,GO:0048018,0.10404,receptor ligand activity
+sp|Q9BTK2|YX002_HUMAN,GO:0030546,0.10381,signaling receptor activator activity
+sp|P98174|FGD1_HUMAN,GO:0046914,0.26011,transition metal ion binding
+sp|P98174|FGD1_HUMAN,GO:0008270,0.12615,zinc ion binding
+sp|Q14696|MESD_HUMAN,GO:0003723,0.13227,RNA binding
+sp|Q14696|MESD_HUMAN,GO:0003677,0.12802,DNA binding
+sp|Q14696|MESD_HUMAN,GO:0005198,0.11886,structural molecule activity
+sp|Q96C90|PP14B_HUMAN,GO:0032559,0.12575,adenyl ribonucleotide binding
+sp|Q96C90|PP14B_HUMAN,GO:0030554,0.12337,adenyl nucleotide binding
+sp|Q96C90|PP14B_HUMAN,GO:0005524,0.12331,ATP binding
+sp|Q96C90|PP14B_HUMAN,GO:0097367,0.12272,carbohydrate derivative binding
+sp|Q96C90|PP14B_HUMAN,GO:0032553,0.11848,ribonucleotide binding
+sp|Q96C90|PP14B_HUMAN,GO:0032555,0.11184,purine ribonucleotide binding
+sp|Q96C90|PP14B_HUMAN,GO:0017076,0.10981,purine nucleotide binding
+sp|Q96C90|PP14B_HUMAN,GO:0035639,0.10825,purine ribonucleoside triphosphate binding
+sp|Q96H55|MYO19_HUMAN,GO:0032555,0.99201,purine ribonucleotide binding
+sp|Q96H55|MYO19_HUMAN,GO:0035639,0.99186,purine ribonucleoside triphosphate binding
+sp|Q96H55|MYO19_HUMAN,GO:0017076,0.99172,purine nucleotide binding
+sp|Q96H55|MYO19_HUMAN,GO:0032553,0.99168,ribonucleotide binding
+sp|Q96H55|MYO19_HUMAN,GO:0097367,0.99053,carbohydrate derivative binding
+sp|Q96H55|MYO19_HUMAN,GO:0032559,0.96369,adenyl ribonucleotide binding
+sp|Q96H55|MYO19_HUMAN,GO:0005524,0.96356,ATP binding
+sp|Q96H55|MYO19_HUMAN,GO:0030554,0.96202,adenyl nucleotide binding
+sp|Q96H55|MYO19_HUMAN,GO:0016817,0.90263,"hydrolase activity, acting on acid anhydrides"
+sp|Q96H55|MYO19_HUMAN,GO:0016818,0.90240,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q96H55|MYO19_HUMAN,GO:0016462,0.89918,pyrophosphatase activity
+sp|Q96H55|MYO19_HUMAN,GO:0017111,0.83784,nucleoside-triphosphatase activity
+sp|Q96H55|MYO19_HUMAN,GO:0016887,0.48047,ATPase activity
+sp|Q96H55|MYO19_HUMAN,GO:0008092,0.29817,cytoskeletal protein binding
+sp|Q96H55|MYO19_HUMAN,GO:0003774,0.29204,motor activity
+sp|Q96H55|MYO19_HUMAN,GO:0046914,0.11466,transition metal ion binding
+sp|Q96IZ2|ADTRP_HUMAN,GO:0060089,0.11468,molecular transducer activity
+sp|Q96IZ2|ADTRP_HUMAN,GO:0005215,0.11273,transporter activity
+sp|Q96IZ2|ADTRP_HUMAN,GO:0038023,0.10966,signaling receptor activity
+sp|Q96IZ2|ADTRP_HUMAN,GO:0022857,0.10530,transmembrane transporter activity
+sp|A8MX19|F90AC_HUMAN,GO:0003723,0.15031,RNA binding
+sp|A8MX19|F90AC_HUMAN,GO:0005198,0.13369,structural molecule activity
+sp|A8MX19|F90AC_HUMAN,GO:0003677,0.10720,DNA binding
+sp|P57775|FBXW4_HUMAN,GO:0140096,0.27604,"catalytic activity, acting on a protein"
+sp|P57775|FBXW4_HUMAN,GO:0016788,0.11104,"hydrolase activity, acting on ester bonds"
+sp|P31641|SC6A6_HUMAN,GO:0022857,0.20976,transmembrane transporter activity
+sp|P31641|SC6A6_HUMAN,GO:0005215,0.20519,transporter activity
+sp|P31641|SC6A6_HUMAN,GO:0015075,0.13822,ion transmembrane transporter activity
+sp|P31641|SC6A6_HUMAN,GO:0015318,0.11873,inorganic molecular entity transmembrane transporter activity
+sp|P31641|SC6A6_HUMAN,GO:0009055,0.11459,electron transfer activity
+sp|A0A5F9ZH02|SIM42_HUMAN,GO:0003677,0.11372,DNA binding
+sp|A0A5F9ZH02|SIM42_HUMAN,GO:0009055,0.10067,electron transfer activity
+sp|P31512|FMO4_HUMAN,GO:0050660,0.17328,flavin adenine dinucleotide binding
+sp|P31512|FMO4_HUMAN,GO:0050661,0.16438,NADP binding
+sp|P12109|CO6A1_HUMAN,GO:0046914,0.15522,transition metal ion binding
+sp|P12109|CO6A1_HUMAN,GO:0140096,0.12084,"catalytic activity, acting on a protein"
+sp|P12109|CO6A1_HUMAN,GO:0097367,0.11046,carbohydrate derivative binding
+sp|Q8N6S4|AN13C_HUMAN,GO:0003677,0.14283,DNA binding
+sp|Q5W0Q7|USPL1_HUMAN,GO:0140096,0.20766,"catalytic activity, acting on a protein"
+sp|Q13352|CENPR_HUMAN,GO:0003677,0.19290,DNA binding
+sp|Q13352|CENPR_HUMAN,GO:0003723,0.12580,RNA binding
+sp|Q13352|CENPR_HUMAN,GO:0140110,0.10539,transcription regulator activity
+sp|Q1W4C9|ISK13_HUMAN,GO:0003677,0.12564,DNA binding
+sp|Q96AQ1|CC74A_HUMAN,GO:0003677,0.19351,DNA binding
+sp|Q96AQ1|CC74A_HUMAN,GO:0003723,0.15735,RNA binding
+sp|Q96AQ1|CC74A_HUMAN,GO:0005198,0.13105,structural molecule activity
+sp|A0A0B4J277|TVA22_HUMAN,GO:0005102,0.12160,signaling receptor binding
+sp|A0A0B4J277|TVA22_HUMAN,GO:0098772,0.10421,molecular function regulator
+sp|Q8TAI7|REBL1_HUMAN,GO:0032550,0.99899,purine ribonucleoside binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0001883,0.99898,purine nucleoside binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0019001,0.99897,guanyl nucleotide binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0032549,0.99897,ribonucleoside binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0005525,0.99895,GTP binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0001882,0.99894,nucleoside binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0032561,0.99890,guanyl ribonucleotide binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0032553,0.98961,ribonucleotide binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0032555,0.98910,purine ribonucleotide binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0035639,0.98886,purine ribonucleoside triphosphate binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0017076,0.98883,purine nucleotide binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0097367,0.98814,carbohydrate derivative binding
+sp|Q8TAI7|REBL1_HUMAN,GO:0003924,0.95650,GTPase activity
+sp|Q8TAI7|REBL1_HUMAN,GO:0016818,0.92466,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q8TAI7|REBL1_HUMAN,GO:0016817,0.92448,"hydrolase activity, acting on acid anhydrides"
+sp|Q8TAI7|REBL1_HUMAN,GO:0016462,0.91778,pyrophosphatase activity
+sp|Q8TAI7|REBL1_HUMAN,GO:0017111,0.91042,nucleoside-triphosphatase activity
+sp|Q8TAI7|REBL1_HUMAN,GO:0003723,0.13480,RNA binding
+sp|Q9NRQ5|SMCO4_HUMAN,GO:0003735,0.34210,structural constituent of ribosome
+sp|Q9NRQ5|SMCO4_HUMAN,GO:0005198,0.32046,structural molecule activity
+sp|Q9NRQ5|SMCO4_HUMAN,GO:0003677,0.13670,DNA binding
+sp|Q9NRQ5|SMCO4_HUMAN,GO:0003723,0.10528,RNA binding
+sp|Q6L8H4|KRA51_HUMAN,GO:0051536,0.24056,iron-sulfur cluster binding
+sp|Q6L8H4|KRA51_HUMAN,GO:0051540,0.23863,metal cluster binding
+sp|Q6L8H4|KRA51_HUMAN,GO:0140096,0.21543,"catalytic activity, acting on a protein"
+sp|Q6L8H4|KRA51_HUMAN,GO:0090729,0.18946,toxin activity
+sp|Q6L8H4|KRA51_HUMAN,GO:0004175,0.14399,endopeptidase activity
+sp|Q6L8H4|KRA51_HUMAN,GO:0005102,0.11944,signaling receptor binding
+sp|Q6L8H4|KRA51_HUMAN,GO:0008233,0.10863,peptidase activity
+sp|Q6L8H4|KRA51_HUMAN,GO:0051539,0.10408,"4 iron, 4 sulfur cluster binding"
+sp|Q6YBV0|S36A4_HUMAN,GO:0097367,0.10157,carbohydrate derivative binding
+sp|Q5THJ4|VP13D_HUMAN,GO:0097367,0.42049,carbohydrate derivative binding
+sp|Q5THJ4|VP13D_HUMAN,GO:0032553,0.38759,ribonucleotide binding
+sp|Q5THJ4|VP13D_HUMAN,GO:0032555,0.37905,purine ribonucleotide binding
+sp|Q5THJ4|VP13D_HUMAN,GO:0035639,0.37187,purine ribonucleoside triphosphate binding
+sp|Q5THJ4|VP13D_HUMAN,GO:0017076,0.36456,purine nucleotide binding
+sp|Q5THJ4|VP13D_HUMAN,GO:0032559,0.17343,adenyl ribonucleotide binding
+sp|Q5THJ4|VP13D_HUMAN,GO:0005524,0.17058,ATP binding
+sp|Q5THJ4|VP13D_HUMAN,GO:0030554,0.16378,adenyl nucleotide binding
+sp|Q9NVH2|INT7_HUMAN,GO:0097367,0.10555,carbohydrate derivative binding
+sp|O14595|CTDS2_HUMAN,GO:0003677,0.14769,DNA binding
+sp|O14595|CTDS2_HUMAN,GO:0140096,0.12327,"catalytic activity, acting on a protein"
+sp|Q9ULL0|K1210_HUMAN,GO:0003723,0.10184,RNA binding
+sp|Q8IWV1|LAX1_HUMAN,GO:0140096,0.10605,"catalytic activity, acting on a protein"
+sp|Q86TD4|SRCA_HUMAN,GO:0017076,0.94140,purine nucleotide binding
+sp|Q86TD4|SRCA_HUMAN,GO:0032555,0.94032,purine ribonucleotide binding
+sp|Q86TD4|SRCA_HUMAN,GO:0032553,0.93917,ribonucleotide binding
+sp|Q86TD4|SRCA_HUMAN,GO:0035639,0.93854,purine ribonucleoside triphosphate binding
+sp|Q86TD4|SRCA_HUMAN,GO:0019001,0.93508,guanyl nucleotide binding
+sp|Q86TD4|SRCA_HUMAN,GO:0097367,0.93433,carbohydrate derivative binding
+sp|Q86TD4|SRCA_HUMAN,GO:0032561,0.93354,guanyl ribonucleotide binding
+sp|Q86TD4|SRCA_HUMAN,GO:0032550,0.92940,purine ribonucleoside binding
+sp|Q86TD4|SRCA_HUMAN,GO:0005525,0.92880,GTP binding
+sp|Q86TD4|SRCA_HUMAN,GO:0001883,0.92779,purine nucleoside binding
+sp|Q86TD4|SRCA_HUMAN,GO:0032549,0.92372,ribonucleoside binding
+sp|Q86TD4|SRCA_HUMAN,GO:0001882,0.92288,nucleoside binding
+sp|Q86TD4|SRCA_HUMAN,GO:0016462,0.57966,pyrophosphatase activity
+sp|Q86TD4|SRCA_HUMAN,GO:0016817,0.56106,"hydrolase activity, acting on acid anhydrides"
+sp|Q86TD4|SRCA_HUMAN,GO:0016818,0.56059,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q86TD4|SRCA_HUMAN,GO:0017111,0.47065,nucleoside-triphosphatase activity
+sp|Q86TD4|SRCA_HUMAN,GO:0003924,0.29220,GTPase activity
+sp|Q8NGI4|OR4DB_HUMAN,GO:0004888,0.28854,transmembrane signaling receptor activity
+sp|Q8NGI4|OR4DB_HUMAN,GO:0038023,0.28777,signaling receptor activity
+sp|Q8NGI4|OR4DB_HUMAN,GO:0060089,0.27356,molecular transducer activity
+sp|Q8NGI4|OR4DB_HUMAN,GO:0004930,0.27104,G protein-coupled receptor activity
+sp|Q2M2I5|K1C24_HUMAN,GO:0097367,0.19112,carbohydrate derivative binding
+sp|Q2M2I5|K1C24_HUMAN,GO:0032553,0.10600,ribonucleotide binding
+sp|Q6J9G0|STYK1_HUMAN,GO:0016772,0.77521,"transferase activity, transferring phosphorus-containing groups"
+sp|Q6J9G0|STYK1_HUMAN,GO:0016301,0.77338,kinase activity
+sp|Q6J9G0|STYK1_HUMAN,GO:0016773,0.76427,"phosphotransferase activity, alcohol group as acceptor"
+sp|Q6J9G0|STYK1_HUMAN,GO:0140096,0.71531,"catalytic activity, acting on a protein"
+sp|Q6J9G0|STYK1_HUMAN,GO:0004672,0.69652,protein kinase activity
+sp|Q6J9G0|STYK1_HUMAN,GO:0032555,0.49491,purine ribonucleotide binding
+sp|Q6J9G0|STYK1_HUMAN,GO:0017076,0.48244,purine nucleotide binding
+sp|Q6J9G0|STYK1_HUMAN,GO:0035639,0.48192,purine ribonucleoside triphosphate binding
+sp|Q6J9G0|STYK1_HUMAN,GO:0032553,0.47199,ribonucleotide binding
+sp|Q6J9G0|STYK1_HUMAN,GO:0032559,0.46318,adenyl ribonucleotide binding
+sp|Q6J9G0|STYK1_HUMAN,GO:0005524,0.45971,ATP binding
+sp|Q6J9G0|STYK1_HUMAN,GO:0097367,0.45756,carbohydrate derivative binding
+sp|Q6J9G0|STYK1_HUMAN,GO:0030554,0.45017,adenyl nucleotide binding
+sp|Q6J9G0|STYK1_HUMAN,GO:0004674,0.11478,protein serine/threonine kinase activity
+sp|Q96PY5|FMNL2_HUMAN,GO:0097367,0.18835,carbohydrate derivative binding
+sp|Q96PY5|FMNL2_HUMAN,GO:0032553,0.16926,ribonucleotide binding
+sp|Q96PY5|FMNL2_HUMAN,GO:0017076,0.16818,purine nucleotide binding
+sp|Q96PY5|FMNL2_HUMAN,GO:0032555,0.13471,purine ribonucleotide binding
+sp|Q96PY5|FMNL2_HUMAN,GO:0035639,0.13206,purine ribonucleoside triphosphate binding
+sp|Q96PY5|FMNL2_HUMAN,GO:0030554,0.12859,adenyl nucleotide binding
+sp|Q96PY5|FMNL2_HUMAN,GO:0032559,0.10231,adenyl ribonucleotide binding
+sp|Q96PY5|FMNL2_HUMAN,GO:0003723,0.10179,RNA binding
+sp|Q96PY5|FMNL2_HUMAN,GO:0005524,0.10137,ATP binding
+sp|Q7Z4H4|ADM2_HUMAN,GO:0003677,0.16421,DNA binding
+sp|Q7Z4H4|ADM2_HUMAN,GO:0005198,0.11750,structural molecule activity
+sp|P28072|PSB6_HUMAN,GO:0140096,0.52509,"catalytic activity, acting on a protein"
+sp|P28072|PSB6_HUMAN,GO:0008233,0.46109,peptidase activity
+sp|P28072|PSB6_HUMAN,GO:0004175,0.29410,endopeptidase activity
+sp|P28072|PSB6_HUMAN,GO:0070003,0.26247,threonine-type peptidase activity
+sp|P28072|PSB6_HUMAN,GO:0004298,0.21847,threonine-type endopeptidase activity
+sp|Q8NEX6|WFD11_HUMAN,GO:0003677,0.10932,DNA binding
+sp|Q8NEX6|WFD11_HUMAN,GO:0098772,0.10825,molecular function regulator
+sp|Q70CQ2|UBP34_HUMAN,GO:0097367,0.23333,carbohydrate derivative binding
+sp|Q70CQ2|UBP34_HUMAN,GO:0032553,0.20246,ribonucleotide binding
+sp|Q70CQ2|UBP34_HUMAN,GO:0035639,0.20001,purine ribonucleoside triphosphate binding
+sp|Q70CQ2|UBP34_HUMAN,GO:0032555,0.20000,purine ribonucleotide binding
+sp|Q70CQ2|UBP34_HUMAN,GO:0017076,0.18299,purine nucleotide binding
+sp|Q70CQ2|UBP34_HUMAN,GO:0046914,0.12516,transition metal ion binding
+sp|Q70CQ2|UBP34_HUMAN,GO:0140096,0.11948,"catalytic activity, acting on a protein"
+sp|Q9UJC3|HOOK1_HUMAN,GO:0098772,0.11910,molecular function regulator
+sp|Q9UJC3|HOOK1_HUMAN,GO:0003677,0.11386,DNA binding
+sp|Q12918|KLRB1_HUMAN,GO:0140096,0.11627,"catalytic activity, acting on a protein"
+sp|Q12918|KLRB1_HUMAN,GO:0098772,0.10337,molecular function regulator
+sp|F8VTS6|RFAL1_HUMAN,GO:0046914,0.16420,transition metal ion binding
+sp|F8VTS6|RFAL1_HUMAN,GO:0140096,0.11707,"catalytic activity, acting on a protein"
+sp|P15170|ERF3A_HUMAN,GO:0032550,0.99870,purine ribonucleoside binding
+sp|P15170|ERF3A_HUMAN,GO:0005525,0.99868,GTP binding
+sp|P15170|ERF3A_HUMAN,GO:0001883,0.99866,purine nucleoside binding
+sp|P15170|ERF3A_HUMAN,GO:0019001,0.99865,guanyl nucleotide binding
+sp|P15170|ERF3A_HUMAN,GO:0032549,0.99857,ribonucleoside binding
+sp|P15170|ERF3A_HUMAN,GO:0032561,0.99855,guanyl ribonucleotide binding
+sp|P15170|ERF3A_HUMAN,GO:0001882,0.99852,nucleoside binding
+sp|P15170|ERF3A_HUMAN,GO:0016818,0.99693,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|P15170|ERF3A_HUMAN,GO:0016817,0.99692,"hydrolase activity, acting on acid anhydrides"
+sp|P15170|ERF3A_HUMAN,GO:0032553,0.99689,ribonucleotide binding
+sp|P15170|ERF3A_HUMAN,GO:0097367,0.99655,carbohydrate derivative binding
+sp|P15170|ERF3A_HUMAN,GO:0016462,0.99577,pyrophosphatase activity
+sp|P15170|ERF3A_HUMAN,GO:0003924,0.99332,GTPase activity
+sp|P15170|ERF3A_HUMAN,GO:0017076,0.99327,purine nucleotide binding
+sp|P15170|ERF3A_HUMAN,GO:0032555,0.99269,purine ribonucleotide binding
+sp|P15170|ERF3A_HUMAN,GO:0035639,0.99259,purine ribonucleoside triphosphate binding
+sp|P15170|ERF3A_HUMAN,GO:0017111,0.98368,nucleoside-triphosphatase activity
+sp|P15170|ERF3A_HUMAN,GO:0003723,0.84355,RNA binding
+sp|P15170|ERF3A_HUMAN,GO:0008135,0.79629,"translation factor activity, RNA binding"
+sp|P15170|ERF3A_HUMAN,GO:0045182,0.79526,translation regulator activity
+sp|P15170|ERF3A_HUMAN,GO:0090079,0.79479,"translation regulator activity, nucleic acid binding"
+sp|P15170|ERF3A_HUMAN,GO:0003746,0.13294,translation elongation factor activity
+sp|P0CI01|SPDE6_HUMAN,GO:0003677,0.31586,DNA binding
+sp|P0CI01|SPDE6_HUMAN,GO:0003723,0.16914,RNA binding
+sp|P0CI01|SPDE6_HUMAN,GO:0043565,0.15763,sequence-specific DNA binding
+sp|P0CI01|SPDE6_HUMAN,GO:0140110,0.13869,transcription regulator activity
+sp|P0CI01|SPDE6_HUMAN,GO:0003700,0.12533,DNA-binding transcription factor activity
+sp|Q6ZWB6|KCTD8_HUMAN,GO:0140096,0.18853,"catalytic activity, acting on a protein"
+sp|Q9P2P1|NYNRI_HUMAN,GO:0097367,0.13345,carbohydrate derivative binding
+sp|Q9P2P1|NYNRI_HUMAN,GO:0032553,0.11601,ribonucleotide binding
+sp|Q8N8M0|NAT16_HUMAN,GO:0097367,0.10311,carbohydrate derivative binding
+sp|Q8N8M0|NAT16_HUMAN,GO:0032553,0.10028,ribonucleotide binding
+sp|Q6ZUX3|TGRM2_HUMAN,GO:0140098,0.12933,"catalytic activity, acting on RNA"
+sp|Q0VAM2|RGF1B_HUMAN,GO:0003677,0.32687,DNA binding
+sp|Q0VAM2|RGF1B_HUMAN,GO:0140097,0.13310,"catalytic activity, acting on DNA"
+sp|Q0VAM2|RGF1B_HUMAN,GO:0016788,0.12690,"hydrolase activity, acting on ester bonds"
+sp|Q0VAM2|RGF1B_HUMAN,GO:0098772,0.11253,molecular function regulator
+sp|Q0VAM2|RGF1B_HUMAN,GO:0140110,0.10860,transcription regulator activity
+sp|Q0VAM2|RGF1B_HUMAN,GO:0043565,0.10450,sequence-specific DNA binding
+sp|Q0VAM2|RGF1B_HUMAN,GO:0140096,0.10274,"catalytic activity, acting on a protein"
+sp|Q96J65|MRP9_HUMAN,GO:0032555,0.99999,purine ribonucleotide binding
+sp|Q96J65|MRP9_HUMAN,GO:0035639,0.99999,purine ribonucleoside triphosphate binding
+sp|Q96J65|MRP9_HUMAN,GO:0017076,0.99999,purine nucleotide binding
+sp|Q96J65|MRP9_HUMAN,GO:0032553,0.99998,ribonucleotide binding
+sp|Q96J65|MRP9_HUMAN,GO:0097367,0.99998,carbohydrate derivative binding
+sp|Q96J65|MRP9_HUMAN,GO:0032559,0.99903,adenyl ribonucleotide binding
+sp|Q96J65|MRP9_HUMAN,GO:0005524,0.99902,ATP binding
+sp|Q96J65|MRP9_HUMAN,GO:0030554,0.99894,adenyl nucleotide binding
+sp|Q96J65|MRP9_HUMAN,GO:0017111,0.99358,nucleoside-triphosphatase activity
+sp|Q96J65|MRP9_HUMAN,GO:0016462,0.99340,pyrophosphatase activity
+sp|Q96J65|MRP9_HUMAN,GO:0016818,0.99290,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q96J65|MRP9_HUMAN,GO:0016817,0.99282,"hydrolase activity, acting on acid anhydrides"
+sp|Q96J65|MRP9_HUMAN,GO:0016887,0.97802,ATPase activity
+sp|Q96J65|MRP9_HUMAN,GO:0005215,0.55361,transporter activity
+sp|Q96J65|MRP9_HUMAN,GO:0042626,0.47617,ATPase-coupled transmembrane transporter activity
+sp|Q96J65|MRP9_HUMAN,GO:0015399,0.46672,primary active transmembrane transporter activity
+sp|Q96J65|MRP9_HUMAN,GO:0022857,0.45528,transmembrane transporter activity
+sp|Q96J65|MRP9_HUMAN,GO:0022804,0.40410,active transmembrane transporter activity
+sp|Q96J65|MRP9_HUMAN,GO:0015075,0.16626,ion transmembrane transporter activity
+sp|Q96J65|MRP9_HUMAN,GO:0008509,0.13626,anion transmembrane transporter activity
+sp|Q96J65|MRP9_HUMAN,GO:0042625,0.13200,ATPase-coupled ion transmembrane transporter activity
+sp|Q96J65|MRP9_HUMAN,GO:0022853,0.11540,active ion transmembrane transporter activity
+sp|P40967|PMEL_HUMAN,GO:0140096,0.12321,"catalytic activity, acting on a protein"
+sp|P09001|RM03_HUMAN,GO:0005198,0.40690,structural molecule activity
+sp|P09001|RM03_HUMAN,GO:0003735,0.24556,structural constituent of ribosome
+sp|P09001|RM03_HUMAN,GO:0003723,0.21198,RNA binding
+sp|P09001|RM03_HUMAN,GO:0019843,0.10198,rRNA binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0005525,0.99835,GTP binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0032550,0.99835,purine ribonucleoside binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0001883,0.99829,purine nucleoside binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0032549,0.99825,ribonucleoside binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0019001,0.99823,guanyl nucleotide binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0032561,0.99818,guanyl ribonucleotide binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0001882,0.99817,nucleoside binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0016818,0.99458,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"
+sp|Q9H4B7|TBB1_HUMAN,GO:0016817,0.99455,"hydrolase activity, acting on acid anhydrides"
+sp|Q9H4B7|TBB1_HUMAN,GO:0016462,0.99403,pyrophosphatase activity
+sp|Q9H4B7|TBB1_HUMAN,GO:0003924,0.99079,GTPase activity
+sp|Q9H4B7|TBB1_HUMAN,GO:0017111,0.99023,nucleoside-triphosphatase activity
+sp|Q9H4B7|TBB1_HUMAN,GO:0017076,0.98889,purine nucleotide binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0035639,0.98783,purine ribonucleoside triphosphate binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0032555,0.98743,purine ribonucleotide binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0032553,0.98344,ribonucleotide binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0097367,0.98131,carbohydrate derivative binding
+sp|Q9H4B7|TBB1_HUMAN,GO:0005200,0.66762,structural constituent of cytoskeleton
+sp|Q9H4B7|TBB1_HUMAN,GO:0005198,0.23410,structural molecule activity
+sp|A6NDI0|TR49B_HUMAN,GO:0046914,0.12644,transition metal ion binding
+sp|A6NDI0|TR49B_HUMAN,GO:0140096,0.12386,"catalytic activity, acting on a protein"
+sp|Q9BR26|OCSTP_HUMAN,GO:0140096,0.10664,"catalytic activity, acting on a protein"
+sp|Q9NZW5|PALS2_HUMAN,GO:0032555,0.16444,purine ribonucleotide binding
+sp|Q9NZW5|PALS2_HUMAN,GO:0097367,0.16374,carbohydrate derivative binding
+sp|Q9NZW5|PALS2_HUMAN,GO:0035639,0.16232,purine ribonucleoside triphosphate binding
+sp|Q9NZW5|PALS2_HUMAN,GO:0017076,0.16121,purine nucleotide binding
+sp|Q9NZW5|PALS2_HUMAN,GO:0032553,0.15834,ribonucleotide binding
+sp|P41145|OPRK_HUMAN,GO:0038023,0.30273,signaling receptor activity
+sp|P41145|OPRK_HUMAN,GO:0060089,0.29607,molecular transducer activity
+sp|P41145|OPRK_HUMAN,GO:0004888,0.28253,transmembrane signaling receptor activity
+sp|P41145|OPRK_HUMAN,GO:0004930,0.23991,G protein-coupled receptor activity
+sp|Q8TEF2|CJ105_HUMAN,GO:0003677,0.14026,DNA binding
+sp|Q8TEF2|CJ105_HUMAN,GO:0140110,0.13932,transcription regulator activity
+sp|Q8TEF2|CJ105_HUMAN,GO:0016788,0.12551,"hydrolase activity, acting on ester bonds"
+sp|Q8TEF2|CJ105_HUMAN,GO:0098772,0.11879,molecular function regulator
+sp|Q8TEF2|CJ105_HUMAN,GO:0003700,0.11764,DNA-binding transcription factor activity
+sp|Q5TIE3|VW5B1_HUMAN,GO:0097367,0.10717,carbohydrate derivative binding
+sp|Q9NXH3|PP14D_HUMAN,GO:0003677,0.31934,DNA binding
+sp|Q9NXH3|PP14D_HUMAN,GO:0140110,0.24893,transcription regulator activity
+sp|Q9NXH3|PP14D_HUMAN,GO:0003700,0.21499,DNA-binding transcription factor activity
+sp|Q9NXH3|PP14D_HUMAN,GO:0043565,0.18223,sequence-specific DNA binding
+sp|Q9NXH3|PP14D_HUMAN,GO:0098772,0.12374,molecular function regulator
+sp|Q9NXH3|PP14D_HUMAN,GO:0001067,0.10563,regulatory region nucleic acid binding
+sp|Q9NXH3|PP14D_HUMAN,GO:1990837,0.10561,sequence-specific double-stranded DNA binding
+sp|Q9NXH3|PP14D_HUMAN,GO:0000976,0.10530,transcription regulatory region sequence-specific DNA binding
+sp|Q8N4Q1|MIA40_HUMAN,GO:0140096,0.12929,"catalytic activity, acting on a protein"
+sp|Q6PH81|CP087_HUMAN,GO:0005198,0.43162,structural molecule activity
+sp|Q6PH81|CP087_HUMAN,GO:0003735,0.29149,structural constituent of ribosome
+sp|Q6PH81|CP087_HUMAN,GO:0003723,0.24307,RNA binding
+sp|Q6PH81|CP087_HUMAN,GO:0003677,0.18329,DNA binding
+sp|Q12887|COX10_HUMAN,GO:0140096,0.12034,"catalytic activity, acting on a protein"
+sp|Q96M69|LRGUK_HUMAN,GO:0017076,0.77907,purine nucleotide binding
+sp|Q96M69|LRGUK_HUMAN,GO:0032555,0.77256,purine ribonucleotide binding
+sp|Q96M69|LRGUK_HUMAN,GO:0035639,0.76889,purine ribonucleoside triphosphate binding
+sp|Q96M69|LRGUK_HUMAN,GO:0032553,0.76654,ribonucleotide binding
+sp|Q96M69|LRGUK_HUMAN,GO:0097367,0.75370,carbohydrate derivative binding
+sp|Q96M69|LRGUK_HUMAN,GO:0030554,0.59917,adenyl nucleotide binding
+sp|Q96M69|LRGUK_HUMAN,GO:0032559,0.59220,adenyl ribonucleotide binding
+sp|Q96M69|LRGUK_HUMAN,GO:0005524,0.58950,ATP binding
+sp|Q96M69|LRGUK_HUMAN,GO:0016772,0.10133,"transferase activity, transferring phosphorus-containing groups"
+sp|Q6PI48|SYDM_HUMAN,GO:0017076,0.99729,purine nucleotide binding
+sp|Q6PI48|SYDM_HUMAN,GO:0140101,0.99727,"catalytic activity, acting on a tRNA"
+sp|Q6PI48|SYDM_HUMAN,GO:0035639,0.99669,purine ribonucleoside triphosphate binding
+sp|Q6PI48|SYDM_HUMAN,GO:0032555,0.99661,purine ribonucleotide binding
+sp|Q6PI48|SYDM_HUMAN,GO:0016875,0.99631,"ligase activity, forming carbon-oxygen bonds"
+sp|Q6PI48|SYDM_HUMAN,GO:0004812,0.99630,aminoacyl-tRNA ligase activity
+sp|Q6PI48|SYDM_HUMAN,GO:0030554,0.99614,adenyl nucleotide binding
+sp|Q6PI48|SYDM_HUMAN,GO:0032553,0.99607,ribonucleotide binding
+sp|Q6PI48|SYDM_HUMAN,GO:0097367,0.99551,carbohydrate derivative binding
+sp|Q6PI48|SYDM_HUMAN,GO:0005524,0.99530,ATP binding
+sp|Q6PI48|SYDM_HUMAN,GO:0032559,0.99517,adenyl ribonucleotide binding
+sp|Q6PI48|SYDM_HUMAN,GO:0016874,0.99494,ligase activity
+sp|Q6PI48|SYDM_HUMAN,GO:0140098,0.99319,"catalytic activity, acting on RNA"
+sp|Q9UBM4|OPT_HUMAN,GO:0003677,0.15335,DNA binding
+sp|Q9UBM4|OPT_HUMAN,GO:0140096,0.14010,"catalytic activity, acting on a protein"
+sp|Q9BWN1|PRR14_HUMAN,GO:0003677,0.14498,DNA binding
+sp|Q9HCC9|LST2_HUMAN,GO:0046914,0.57176,transition metal ion binding
+sp|Q9HCC9|LST2_HUMAN,GO:0008270,0.29114,zinc ion binding
+sp|Q9HCC9|LST2_HUMAN,GO:0051536,0.24806,iron-sulfur cluster binding
+sp|Q9HCC9|LST2_HUMAN,GO:0051540,0.24789,metal cluster binding
+sp|Q9HCC9|LST2_HUMAN,GO:0051539,0.22750,"4 iron, 4 sulfur cluster binding"
+sp|Q9HCC9|LST2_HUMAN,GO:0140096,0.13424,"catalytic activity, acting on a protein"
+sp|Q9HCC9|LST2_HUMAN,GO:0003677,0.11905,DNA binding
+sp|Q86XR5|PRIMA_HUMAN,GO:0060089,0.12482,molecular transducer activity
+sp|Q86XR5|PRIMA_HUMAN,GO:0140096,0.10529,"catalytic activity, acting on a protein"
+sp|Q5VZY2|PLPP4_HUMAN,GO:0097367,0.20044,carbohydrate derivative binding
+sp|Q5VZY2|PLPP4_HUMAN,GO:0032553,0.19519,ribonucleotide binding
+sp|Q5VZY2|PLPP4_HUMAN,GO:0032555,0.18761,purine ribonucleotide binding
+sp|Q5VZY2|PLPP4_HUMAN,GO:0017076,0.18569,purine nucleotide binding
+sp|Q5VZY2|PLPP4_HUMAN,GO:0035639,0.17959,purine ribonucleoside triphosphate binding
+sp|Q5VZY2|PLPP4_HUMAN,GO:0032559,0.16836,adenyl ribonucleotide binding
+sp|Q5VZY2|PLPP4_HUMAN,GO:0030554,0.16694,adenyl nucleotide binding
+sp|Q5VZY2|PLPP4_HUMAN,GO:0005524,0.16550,ATP binding
+sp|Q53TN4|CYBR1_HUMAN,GO:0005215,0.37337,transporter activity
+sp|Q53TN4|CYBR1_HUMAN,GO:0022857,0.36908,transmembrane transporter activity
+sp|Q53TN4|CYBR1_HUMAN,GO:0015075,0.25785,ion transmembrane transporter activity
+sp|Q53TN4|CYBR1_HUMAN,GO:0015318,0.20846,inorganic molecular entity transmembrane transporter activity
+sp|Q53TN4|CYBR1_HUMAN,GO:0008324,0.13062,cation transmembrane transporter activity
+sp|Q53TN4|CYBR1_HUMAN,GO:0022890,0.12531,inorganic cation transmembrane transporter activity
+sp|Q53TN4|CYBR1_HUMAN,GO:0022804,0.10086,active transmembrane transporter activity
+sp|Q7RTS6|OTOP2_HUMAN,GO:0038023,0.10247,signaling receptor activity
+sp|Q9Y536|PAL4A_HUMAN,GO:0003755,0.82261,peptidyl-prolyl cis-trans isomerase activity
+sp|Q9Y536|PAL4A_HUMAN,GO:0016859,0.81691,cis-trans isomerase activity
+sp|Q9Y536|PAL4A_HUMAN,GO:0016853,0.68014,isomerase activity
+sp|Q9Y536|PAL4A_HUMAN,GO:0140096,0.53108,"catalytic activity, acting on a protein"
+sp|Q9Y305|ACOT9_HUMAN,GO:0097367,0.13697,carbohydrate derivative binding
+sp|Q9Y305|ACOT9_HUMAN,GO:0032553,0.12739,ribonucleotide binding
+sp|Q9Y305|ACOT9_HUMAN,GO:0032555,0.12726,purine ribonucleotide binding
+sp|Q9Y305|ACOT9_HUMAN,GO:0035639,0.12278,purine ribonucleoside triphosphate binding
+sp|Q9Y305|ACOT9_HUMAN,GO:0017076,0.12202,purine nucleotide binding
+sp|Q9Y305|ACOT9_HUMAN,GO:0003723,0.11999,RNA binding
+sp|Q9Y305|ACOT9_HUMAN,GO:0003677,0.11695,DNA binding
+sp|P49019|HCAR3_HUMAN,GO:0038023,0.21377,signaling receptor activity
+sp|P49019|HCAR3_HUMAN,GO:0060089,0.19921,molecular transducer activity
+sp|P49019|HCAR3_HUMAN,GO:0004888,0.18452,transmembrane signaling receptor activity
+sp|P49019|HCAR3_HUMAN,GO:0004930,0.10492,G protein-coupled receptor activity
+sp|P51812|KS6A3_HUMAN,GO:0016301,0.99999,kinase activity
+sp|P51812|KS6A3_HUMAN,GO:0016773,0.99999,"phosphotransferase activity, alcohol group as acceptor"
+sp|P51812|KS6A3_HUMAN,GO:0004672,0.99995,protein kinase activity
+sp|P51812|KS6A3_HUMAN,GO:0016772,0.99993,"transferase activity, transferring phosphorus-containing groups"
+sp|P51812|KS6A3_HUMAN,GO:0035639,0.99897,purine ribonucleoside triphosphate binding
+sp|P51812|KS6A3_HUMAN,GO:0140096,0.99895,"catalytic activity, acting on a protein"
+sp|P51812|KS6A3_HUMAN,GO:0032555,0.99894,purine ribonucleotide binding
+sp|P51812|KS6A3_HUMAN,GO:0017076,0.99888,purine nucleotide binding
+sp|P51812|KS6A3_HUMAN,GO:0032553,0.99869,ribonucleotide binding
+sp|P51812|KS6A3_HUMAN,GO:0005524,0.99864,ATP binding
+sp|P51812|KS6A3_HUMAN,GO:0032559,0.99859,adenyl ribonucleotide binding
+sp|P51812|KS6A3_HUMAN,GO:0030554,0.99852,adenyl nucleotide binding
+sp|P51812|KS6A3_HUMAN,GO:0097367,0.99839,carbohydrate derivative binding
+sp|P51812|KS6A3_HUMAN,GO:0004674,0.97922,protein serine/threonine kinase activity
+sp|Q6UY13|YB003_HUMAN,GO:0003677,0.14809,DNA binding
+sp|Q6UY13|YB003_HUMAN,GO:0140110,0.10100,transcription regulator activity
+sp|Q495T6|MMEL1_HUMAN,GO:0140096,0.70851,"catalytic activity, acting on a protein"
+sp|Q495T6|MMEL1_HUMAN,GO:0008233,0.66442,peptidase activity
+sp|Q495T6|MMEL1_HUMAN,GO:0008237,0.47422,metallopeptidase activity
+sp|Q495T6|MMEL1_HUMAN,GO:0004175,0.25918,endopeptidase activity
+sp|Q495T6|MMEL1_HUMAN,GO:0046914,0.14888,transition metal ion binding
+sp|Q495T6|MMEL1_HUMAN,GO:0004222,0.13426,metalloendopeptidase activity
+sp|Q6P1W5|CA094_HUMAN,GO:0140096,0.19560,"catalytic activity, acting on a protein"
+sp|Q6P1W5|CA094_HUMAN,GO:0097367,0.11998,carbohydrate derivative binding

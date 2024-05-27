@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: DeepFRI
+Version: 0.0.1
+Summary: Implementation of Deep Functional Residue Identification
+Home-page: https://github.com/flatironinstitute/DeepFRI
+Download-URL: https://github.com/flatironinstitute/DeepFRI
+Author: Vladimir Gligorijevic
+Author-email: vgligorijevic@flatironinstitute.org
+License: FlatironInstitute
+Provides-Extra: visualization
+License-File: LICENSE
